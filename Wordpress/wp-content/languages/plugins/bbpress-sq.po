@@ -1,0 +1,4346 @@
+# Translation of Plugins - bbPress - Stable (latest release) in Albanian
+# This file is distributed under the same license as the Plugins - bbPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-08 09:04:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sq_AL\n"
+"Project-Id-Version: Plugins - bbPress - Stable (latest release)\n"
+
+#: includes/admin/topics.php:738
+msgid "Topic \"%1$s\" successfully unstuck."
+msgstr "Temës \"%1$s\" iu hoq me sukses ngjitja."
+
+#: includes/admin/topics.php:732
+msgid "Topic \"%1$s\" successfully stuck."
+msgstr "Tema \"%1$s\" u ngjit me sukses."
+
+#: includes/admin/tools/repair.php:48
+msgid "Some of these tools create substantial database overhead. Use caution when running more than 1 repair at a time."
+msgstr "Disa nga këto mjete krijojnë ngarkesë të ndjeshme të bazës së të dhënave. Përdorni masë kur xhironi më tepër se një ndreqje në herë."
+
+#: includes/admin/tools/repair.php:304
+msgid "Counting the number of pending, spammed, and trashed replies in each topic&hellip; %s"
+msgstr "Po numërohen përgjigjet në pritje të miratimit, të shënuara si të padëshiruara, dhe të shpëna te hedhurinat për çdo temë&hellip; %s"
+
+#: includes/topics/template.php:3398
+msgid "Separate topic tags with commas"
+msgstr "Ndajini etiketat e temave me presje"
+
+#: includes/admin/forums.php:764
+msgid "Forum draft updated."
+msgstr "Skica e forumit u përditësua."
+
+#: includes/admin/forums.php:753
+msgid "Forum scheduled for: %s."
+msgstr "Forum i planifikuar për: %s."
+
+#: includes/admin/forums.php:746 includes/admin/forums.php:758
+#: includes/admin/forums.php:766
+msgid "Preview forum"
+msgstr "Shihni si do të dukej forumi"
+
+#: includes/admin/forums.php:744
+msgid "Forum submitted."
+msgstr "Forumi u parashtrua."
+
+#: includes/admin/forums.php:733
+msgid "Forum created."
+msgstr "Forumi u krijua."
+
+#: includes/admin/forums.php:578
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: includes/admin/forums.php:633
+msgctxt "Open a Forum"
+msgid "Open"
+msgstr "Hape"
+
+#: includes/admin/forums.php:631
+msgctxt "Close a Forum"
+msgid "Close"
+msgstr "Mbylle"
+
+#: includes/admin/forums.php:633
+msgid "Open this forum"
+msgstr "Hape këtë forum"
+
+#: includes/admin/forums.php:631
+msgid "Close this forum"
+msgstr "Mbylleni këtë forum"
+
+#: includes/admin/forums.php:458
+msgid "Forum \"%1$s\" successfully closed."
+msgstr "Forumi \"%1$s\" u mbyll me sukses."
+
+#: includes/admin/forums.php:457
+msgid "There was a problem closing the forum \"%1$s\"."
+msgstr "Pati një problem në mbylljen e forumit \"%1$s\"."
+
+#: includes/admin/forums.php:452
+msgid "Forum \"%1$s\" successfully opened."
+msgstr "Forumi \"%1$s\" u hap me sukses."
+
+#: includes/admin/forums.php:451
+msgid "There was a problem opening the forum \"%1$s\"."
+msgstr "Pati një problem në hapjen e forumit \"%1$s\"."
+
+#: includes/admin/forums.php:712 includes/admin/forums.php:735
+msgid "View forum"
+msgstr "Shihni forumin"
+
+#: includes/admin/tools/repair.php:72 includes/admin/tools/upgrade.php:71
+msgid "Filter"
+msgstr "Filtër"
+
+#: includes/admin/tools/repair.php:64 includes/admin/tools/repair.php:126
+#: includes/admin/tools/repair.php:181 includes/admin/tools/upgrade.php:61
+#: includes/admin/tools/upgrade.php:130 includes/admin/tools/upgrade.php:193
+msgid "Run"
+msgstr "Xhiroje"
+
+#: includes/admin/tools/repair.php:61 includes/admin/tools/repair.php:178
+#: includes/admin/tools/upgrade.php:58 includes/admin/tools/upgrade.php:190
+msgid "Select bulk action"
+msgstr "Përzgjidhni veprim masiv"
+
+#: includes/admin/tools/repair.php:81 includes/admin/tools/repair.php:166
+#: includes/admin/tools/upgrade.php:80 includes/admin/tools/upgrade.php:177
+msgid "Select All"
+msgstr "Përzgjidhi Krejt"
+
+#: includes/admin/tools/repair.php:66 includes/admin/tools/repair.php:183
+#: includes/admin/tools/upgrade.php:63 includes/admin/tools/upgrade.php:195
+msgid "Apply"
+msgstr "Zbatoje"
+
+#: includes/admin/tools/repair.php:89 includes/admin/tools/repair.php:116
+#: includes/admin/tools/repair.php:170 includes/admin/tools/upgrade.php:88
+#: includes/admin/tools/upgrade.php:120 includes/admin/tools/upgrade.php:181
+msgid "Description"
+msgstr "Përshkrim"
+
+#: includes/admin/tools/repair.php:93 includes/admin/tools/repair.php:133
+#: includes/admin/tools/repair.php:171 includes/admin/tools/upgrade.php:98
+#: includes/admin/tools/upgrade.php:144 includes/admin/tools/upgrade.php:183
+msgid "Components"
+msgstr "Përbërës"
+
+#: includes/admin/tools/repair.php:99 includes/admin/tools/repair.php:140
+#: includes/admin/tools/repair.php:172 includes/admin/tools/upgrade.php:103
+#: includes/admin/tools/upgrade.php:151 includes/admin/tools/upgrade.php:184
+msgid "Overhead"
+msgstr "Mbingarkesë"
+
+#: includes/admin/tools/repair.php:126 includes/admin/tools/upgrade.php:130
+msgid "Run %s"
+msgstr "Xhiro %s"
+
+#: includes/admin/tools/repair.php:130 includes/admin/tools/upgrade.php:134
+msgid "Show more details"
+msgstr "Shfaq më tepër hollësi"
+
+#: includes/admin/tools/repair.php:155 includes/admin/tools/upgrade.php:166
+msgid "No repair tools match this criteria."
+msgstr "S’ka mjet riparimi që përputhet me këtë kusht."
+
+#: includes/admin/tools/repair.php:1119
+msgid "Complete! %d closed topic repaired."
+msgid_plural "Complete! %d closed topics repaired."
+msgstr[0] "E plotësuar! U riparua %d temë e mbyllur."
+msgstr[1] "E plotësuar! U riparuan %d tema të mbyllura."
+
+#: includes/admin/tools/repair.php:1088
+msgid "Repairing closed topics&hellip; %s"
+msgstr "Po riparohen temat e mbyllura&hellip; %s"
+
+#: includes/admin/tools/repair.php:1089
+msgid "No closed topics to repair."
+msgstr "S’ka tema të mbyllura për riparim."
+
+#: includes/admin/tools/reset.php:233
+msgid "Deleting Imported User Meta&hellip; %s"
+msgstr "Po fshihen Të dhëna Meta Përdoruesi të Importuara&hellip; %s"
+
+#: includes/admin/tools/reset.php:227
+msgid "Deleting Imported Users&hellip; %s"
+msgstr "Po fshihen Përdorues të Importuar&hellip; %s"
+
+#: includes/admin/tools/reset.php:57
+msgid "Do you really want to do this?"
+msgstr "Doni vërtet ta bëni këtë?"
+
+#: includes/admin/tools/help.php:98
+msgid "Also see the main article on the bbPress codex <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Import Forums</a>."
+msgstr "Shihni edhe artikullin kryesor te dokumentimi i bbPress-it <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Import Forums</a>."
+
+#: includes/admin/tools/help.php:67
+msgid "Also see <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Reset Forums</a>."
+msgstr "Shihni edhe <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Reset Forums</a>."
+
+#: includes/admin/tools/help.php:38
+msgid "Also see <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Repair Forums</a>."
+msgstr "Shihni edhe <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Repair Forums</a>."
+
+#: includes/admin/tools/help.php:35
+msgid "bbPress roles: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">bbPress User Roles and Capabilities</a>"
+msgstr "Role në bbPress: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">Role Përdoruesi dhe Aftësi në bbPress</a>"
+
+#: includes/admin/tools/help.php:34
+msgid "BuddyPress Group Forums: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Installing Group and Sitewide Forums</a> and <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Migrating from old forums to bbPress 2.2+</a>."
+msgstr "Forume Grupesh BuddyPress: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Instalim Forume Grupi dhe Sajti</a> dhe <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Migrim prej forumesh të vjetër në bbPress 2.2+</a>."
+
+#: includes/admin/tools/help.php:123
+msgid "\"Purge Previous Import\" will remove data imported from a failed import without removing your existing forum data."
+msgstr "\"Pastro Importimin e Mëparshëm\" do të heqë të dhënat e importuara nga një importim i dështuar, pa hequr të dhënat e forumit tuaj ekzistues."
+
+#: includes/admin/tools/help.php:122
+msgid "\"Start Over\" will start the importer fresh, if your import failed for any reason leaving this setting unchecked the importer will begin from where it left off."
+msgstr "\"Nisja Nga e Para\" do të rinisë nga e para importuesin, nëse importimi juaj, për ndonjë arsye, dështoi. Lënia pa i vënë shenjë këtij rregullimi, do të bëjë që importuesi t’ia fillojë atje ku e pat lënë."
+
+#: includes/admin/tools/help.php:121
+msgid "\"Convert Users\" will import your legacy forum members as WordPress Users."
+msgstr "\"Shndërro Përdorues\" do të importojë anëtarë forumesh tuajt të dikurshëm si Përdorues WordPress-i."
+
+#: includes/admin/tools/help.php:120
+msgid "Depending on your MySQL configuration you can tweak the \"Rows Limit\" and \"Delay Time\" that may help to improve the overall time it takes to perform a complete forum import."
+msgstr "Në varësi të formësimit tuaj për MySQL-në, mund të përimtoni \"Kufi Rreshtash\" dhe \"Kohë Vonese\" çka mund të ndihmojë në përmirësimin e kohës gjithsej që merr kryerja e një importimi të plotë të një forumi."
+
+#: includes/admin/tools/help.php:117
+msgid "In the Options you have a number of options:"
+msgstr "Te Mundësitë keni një numër mundësish:"
+
+#: includes/admin/tools/help.php:116
+msgid "Importer Options"
+msgstr "Mundësi Importuesi"
+
+#: includes/admin/tools/help.php:108
+msgid "The settings in this section refer to the database connection strings used by your old forum software. The best way to determine the exact settings you need is to copy them from your legacy forums configuration file or contact your web hosting provider."
+msgstr "Rregullimet në këtë pjesë i referohen vargjeve të lidhjes së bazës së të dhënave, përdorur nga programi i forumit tuaj të dikurshëm. Rruga më e mirë për të përcaktuar rregullimet e përpikta që ju duhen është të kopjohen ato prej kartelës së formësimit të dikurshëm të forumit ose të lidheni me mundësuesin e strehës tuaj web."
+
+#: includes/admin/tools/help.php:96
+msgid "This screen provides access to all of the bbPress Import Forums settings and resources."
+msgstr "Kjo skenë ofron hyrje te krejt rregullimet dhe burimet që lidhen me Importimin e Forumeve në bbPress."
+
+#: includes/admin/settings.php:1148
+msgid "Topics by Last Post"
+msgstr "Tema sipas Postimit të Fundit"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:249
+msgid "No replies to this topic."
+msgstr "S’ka përgjigje në këtë temë."
+
+#: includes/admin/tools/common.php:258
+msgid "Search Tools:"
+msgstr "Mjete Kërkimi:"
+
+#: includes/admin/tools/common.php:260
+msgid "Search Tools"
+msgstr "Mjete Kërkimi"
+
+#: includes/admin/tools/common.php:286
+msgid "Filter by Component"
+msgstr "Filtroji sipas Përbërësish"
+
+#: includes/admin/tools/common.php:288
+msgid "All Components"
+msgstr "Krejt Përbërësit"
+
+#: includes/admin/tools/common.php:431 includes/admin/tools/common.php:446
+msgid "Users"
+msgstr "Përdorues"
+
+#: includes/admin/tools/common.php:800 includes/admin/tools/common.php:924
+msgid "All %s"
+msgstr "Krejt %s"
+
+#: includes/admin/tools/common.php:402
+msgid "Low"
+msgstr "E ulët"
+
+#: includes/admin/tools/common.php:408
+msgid "High"
+msgstr "E lartë"
+
+#: includes/admin/tools/common.php:405
+msgid "Medium"
+msgstr "E mesme"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:90
+msgid "Unapprove"
+msgstr "Shmiratojeni"
+
+#: includes/admin/settings.php:1802 includes/admin/tools/reset.php:23
+#: includes/admin/tools/repair.php:43 includes/admin/tools/upgrade.php:40
+msgid "Forum Tools"
+msgstr "Mjete Forumi"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:61
+msgid "Replied"
+msgstr "Me përgjigje"
+
+#: includes/admin/metaboxes.php:509
+msgid "&mdash; No reply &mdash;"
+msgstr "&mdash; S&apos;ka përgjigje &mdash;"
+
+#: includes/admin/settings.php:840
+msgid "Allow forums to have dedicated moderators"
+msgstr "Lejojuni forumeve të kenë moderatorë enkas"
+
+#: includes/admin/metaboxes.php:79
+msgid "%s Topic Tag"
+msgid_plural "%s Topic Tags"
+msgstr[0] "%s Etiketë Teme"
+msgstr[1] "%s Etiketa Teme"
+
+#: includes/admin/metaboxes.php:481
+msgid "Select what status to give the reply."
+msgstr "Përzgjidhni ç’gjendje t’i jepet përgjigjes."
+
+#: includes/admin/tools/help.php:31
+msgid "There is more detailed information available on the bbPress and BuddyPress codex for the following:"
+msgstr "Ka të dhëna më të hollësishme mbi kodin e bbPress-it dhe BuddyPress-it për sa vijon:"
+
+#: includes/admin/metaboxes.php:70
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "%s Përgjigje"
+msgstr[1] "%s Përgjigje"
+
+#: includes/admin/metaboxes.php:52
+msgid "%s Forum"
+msgid_plural "%s Forums"
+msgstr[0] "%s Forum"
+msgstr[1] "%s Forume"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:60
+msgid "Content"
+msgstr "Lëndë"
+
+#: includes/admin/settings.php:246 includes/admin/tools/reset.php:42
+#: includes/admin/forums.php:237
+msgid "Forum Moderators"
+msgstr "Moderatorë Forumi"
+
+#: includes/admin/replies.php:312
+msgid "Error in unspamming reply."
+msgstr "Gabim në heqjen e shenjës përgjigjes si e padëshiruar."
+
+#: includes/admin/replies.php:303
+msgid "Sorry, you are not allowed to unspam this reply."
+msgstr "Na ndjeni, s’keni leje t’ia hiqni shenjën si e padëshiruar kësaj përgjigjeje."
+
+#: includes/admin/replies.php:287
+msgid "Error in spamming reply."
+msgstr "Gabim në vënien shenjë përgjigjes si e padëshiruar."
+
+#: includes/admin/replies.php:254
+msgid "%s reply not updated, somebody is editing it."
+msgid_plural "%s replies not updated, somebody is editing them."
+msgstr[0] "%s përgjigje s&#8217u përditësua, dikush po e përpunon."
+msgstr[1] "%s përgjigje s&#8217u përditësuan, dikush po i përpunon."
+
+#: includes/admin/replies.php:253
+msgid "1 reply not updated, somebody is editing it."
+msgstr "1 përgjigje s’u përditësua, dikush po e përpunon."
+
+#: includes/admin/replies.php:251
+msgid "%s reply updated."
+msgid_plural "%s replies updated."
+msgstr[0] "U përditësua %s përgjigje."
+msgstr[1] "U përditësuan %s përgjigje."
+
+#: includes/admin/replies.php:1025
+msgid "Reply draft updated."
+msgstr "Skica e përgjigjes u përditësua."
+
+#: includes/admin/replies.php:1014
+msgid "Reply scheduled for: %s."
+msgstr "Përgjigje e planifikuar për më: %s."
+
+#: includes/admin/replies.php:1005
+msgid "Reply submitted."
+msgstr "Përgjigja u parashtrua."
+
+#: includes/admin/replies.php:994
+msgid "Reply created."
+msgstr "Përgjigja u krijua."
+
+#: includes/admin/tools.php:78
+msgid "The repair was completed successfully"
+msgstr "Riparimi u plotësua me sukses"
+
+#: includes/admin/tools.php:79
+msgid "The repair was not successful"
+msgstr "Riparimi nuk qe i suksesshëm"
+
+#: includes/admin/tools.php:127
+msgid "Recalculate parent forum for each topic and reply"
+msgstr "Rinjehso forumin mëmë për çdo temë dhe përgjigje"
+
+#: includes/admin/replies.php:811
+msgctxt "Approve reply"
+msgid "Approve"
+msgstr "Miratojeni"
+
+#: includes/admin/replies.php:811
+msgid "Approve this reply"
+msgstr "Miratojeni këtë përgjigje"
+
+#: includes/admin/replies.php:809
+msgctxt "Unapprove reply"
+msgid "Unapprove"
+msgstr "Shmiratojeni"
+
+#: includes/admin/replies.php:809
+msgid "Unapprove this reply"
+msgstr "Shmiratojeni këtë përgjigje"
+
+#: includes/admin/replies.php:581
+msgid "Reply \"%1$s\" successfully unapproved."
+msgstr "Përgjigjes \"%1$s\" iu hoq me sukses miratimi."
+
+#: includes/admin/replies.php:580
+msgid "There was a problem unapproving the reply \"%1$s\"."
+msgstr "Pati një problem në heqjen e miratimit për përgjigjen \"%1$s\"."
+
+#: includes/admin/replies.php:575
+msgid "Reply \"%1$s\" successfully approved."
+msgstr "Përgjigja \"%1$s\" u miratua me sukses."
+
+#: includes/admin/replies.php:574
+msgid "There was a problem approving the reply \"%1$s\"."
+msgstr "Pati një problem në miratimin e përgjigjes \"%1$s\"."
+
+#: includes/admin/replies.php:145
+msgid "<strong>View</strong> will take you to your live site to view the reply."
+msgstr "<strong>Shiheni</strong> do t’ju shpjerë te sajti i njëmendtë që të shihni përgjigjen."
+
+#: includes/admin/tools.php:115
+msgid "Recalculate parent topic for each reply"
+msgstr "Rinjehso forumin mëmë për çdo përgjigje"
+
+#: includes/admin/replies.php:130
+msgid "You can refine the list to show only replies in a specific forum or from a specific month by using the dropdown menus above the replies list. Click the Filter button after making your selection."
+msgstr "Listën mund ta përimtoni që të shfaqen vetëm përgjigjet në një forum të caktuar ose prej një muaji të caktuar, duke përdorur menutë hapmbyll sipër listës së përgjigjeve. Pasi të bëni përzgjedhjen tuaj, klikoni mbi butonin Filtroji."
+
+#: includes/admin/topics.php:317
+msgid "Error in unspamming topic."
+msgstr "Gabim në heqjen e shenjës temës si e padëshiruar."
+
+#: includes/admin/topics.php:308
+msgid "Sorry, you are not allowed to unspam this topic."
+msgstr "Na ndjeni, s’keni leje t’ia hiqni shenjën si e padëshiruar kësaj teme."
+
+#: includes/admin/topics.php:292
+msgid "Error in spamming topic."
+msgstr "Gabim në vënien shenjë temës si e padëshiruar."
+
+#: includes/admin/topics.php:259
+msgid "%s topic not updated, somebody is editing it."
+msgid_plural "%s topics not updated, somebody is editing them."
+msgstr[0] "%s temë s&#8217u përditësua, dikush po e përpunon."
+msgstr[1] "%s tema s&#8217u përditësuan, dikush po i përpunon."
+
+#: includes/admin/topics.php:258
+msgid "1 topic not updated, somebody is editing it."
+msgstr "1 temë s’u përditësua, dikush po e përpunon."
+
+#: includes/admin/topics.php:256
+msgid "%s topic updated."
+msgid_plural "%s topics updated."
+msgstr[0] "U përditësua %s temë."
+msgstr[1] "U përditësuan %s tema."
+
+#: includes/admin/topics.php:283 includes/admin/replies.php:278
+msgid "Sorry, you are not allowed to spam this item."
+msgstr "Na ndjeni, s’keni leje t’i vini shenjë si i padëshiruar këtij elemente."
+
+#: includes/admin/topics.php:1229
+msgid "Topic draft updated."
+msgstr "Skica e temës u përditësua."
+
+#: includes/admin/topics.php:1218
+msgid "Topic scheduled for: %s."
+msgstr "Temë e vënë në plan për më: %s."
+
+#: includes/admin/topics.php:1209
+msgid "Topic submitted."
+msgstr "Tema u parashtrua."
+
+#: includes/admin/topics.php:1198
+msgid "Topic created."
+msgstr "Tema u krijua."
+
+#: includes/admin/topics.php:1211 includes/admin/topics.php:1223
+#: includes/admin/topics.php:1231 includes/admin/replies.php:1007
+#: includes/admin/replies.php:1019 includes/admin/replies.php:1027
+msgid "Preview topic"
+msgstr "Shihni si do të dukej tema"
+
+#: includes/admin/topics.php:755
+msgid "There was a problem approving the topic \"%1$s\"."
+msgstr "Pati një problem në miratimin e temës \"%1$s\"."
+
+#: includes/admin/topics.php:761
+msgid "There was a problem unapproving the topic \"%1$s\"."
+msgstr "Pati një problem në heqjen e miratimit për temën \"%1$s\"."
+
+#: includes/admin/topics.php:985
+msgid "Unapprove this topic"
+msgstr "Shmiratoje këtë temë"
+
+#: includes/admin/topics.php:990
+msgid "Approve this topic"
+msgstr "Miratojeni këtë temë"
+
+#: includes/admin/topics.php:985
+msgctxt "Unapprove Topic"
+msgid "Unapprove"
+msgstr "Shmiratojeni"
+
+#: includes/admin/topics.php:990
+msgctxt "Approve Topic"
+msgid "Approve"
+msgstr "Miratojeni"
+
+#: includes/admin/topics.php:1177 includes/admin/topics.php:1200
+#: includes/admin/replies.php:973 includes/admin/replies.php:996
+msgid "View topic"
+msgstr "Shiheni temën"
+
+#: includes/replies/template.php:1580 includes/topics/template.php:2853
+msgctxt "verb"
+msgid "Reply"
+msgstr "Përgjigjiuni"
+
+#: includes/replies/template.php:51 includes/admin/settings.php:384
+msgctxt "noun"
+msgid "Reply"
+msgstr "Përgjigje"
+
+#: includes/admin/topics.php:152
+msgid "<strong>View</strong> will take you to your live site to view the topic."
+msgstr "<strong>Shiheni</strong> do t’ju shpjerë te sajti i njëmendtë që të shihni temën."
+
+#: includes/replies/template.php:2202
+msgctxt "Pending Status"
+msgid "Unapprove"
+msgstr "Shmiratojeni"
+
+#: includes/replies/template.php:2201
+msgctxt "Pending Status"
+msgid "Approve"
+msgstr "Miratojeni"
+
+#: includes/admin/topics.php:148 includes/admin/replies.php:146
+msgid "<strong>Approve</strong> will change the status from pending to publish."
+msgstr "<strong>Miratoje</strong> do ta ndryshojë gjendjen nga në pritje në botoje."
+
+#: includes/admin/topics.php:134
+msgid "You can refine the list to show only topics in a specific forum or from a specific month by using the dropdown menus above the topics list. Click the Filter button after making your selection."
+msgstr "Listën mund ta përimtoni që të shfaqen vetëm temat në një forum të caktuar ose prej një muaji të caktuar, duke përdorur menutë hapmbyll sipër listës së temave. Pasi të bëni përzgjedhjen tuaj, klikoni mbi butonin Filtroji."
+
+#: includes/admin/topics.php:133
+msgid "You can view topics in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Temat mund t’i shihni si thjesht listë titujsh ose me një copëz. Duke klikuar te ikonat në krye të listës djathtas, mund të zgjidhni pamjen që parapëlqeni."
+
+#: includes/replies/functions.php:1654
+msgctxt "Spam the reply"
+msgid "Spam"
+msgstr "E padëshiruar"
+
+#: includes/replies/functions.php:1655
+msgctxt "Trash the reply"
+msgid "Trash"
+msgstr "Shpjere te hedhurinat"
+
+#: includes/replies/functions.php:1653
+msgctxt "Publish the reply"
+msgid "Publish"
+msgstr "Botojeni"
+
+#: includes/common/template.php:2730
+msgid "Your Subscriptions"
+msgstr "Pajtimet Tuaja"
+
+#: includes/common/template.php:2720
+msgid "Your Favorites"
+msgstr "Të parapëlqyerat Tuaja"
+
+#: includes/common/template.php:2710
+msgid "Your Replies"
+msgstr "Përgjigjet Tuaja"
+
+#: includes/common/template.php:2700
+msgid "Your Topics"
+msgstr "Temat Tuaja"
+
+#: includes/common/functions.php:402 includes/common/functions.php:460
+msgid "Pending: %s"
+msgstr "Në pritje: %s"
+
+#: includes/users/template.php:2375
+msgid "Moderators:"
+msgstr "Moderatorë:"
+
+#: includes/users/template.php:1419
+msgid "There is a pending email address change to %1$s. %2$s"
+msgstr "Ka një ndryshim adrese email te %1$s në pritje të miratimit. %2$s"
+
+#: includes/users/template.php:1414
+msgctxt "Dismiss pending user email address change"
+msgid "Cancel"
+msgstr "Anuloje"
+
+#: includes/common/widgets.php:651
+msgid "A list of recent topics, sorted by: newness, popularity, or recent replies."
+msgstr "Listë e temave më të reja, renditur sipas: moshës, popullaritetit, ose përgjigje së fundi."
+
+#. translators: user's display name
+#: includes/common/template.php:2704
+msgid "%s's Topics"
+msgstr "Tema nga %s"
+
+#: includes/common/template.php:2740
+msgid "Your Profile"
+msgstr "Profili Juaj"
+
+#: templates/default/bbpress/form-topic.php:127
+#: includes/extend/buddypress/groups.php:487 includes/admin/metaboxes.php:445
+msgid "&mdash; No forum &mdash;"
+msgstr "&mdash; S&apos;ka forum &mdash;"
+
+#: templates/default/bbpress/form-topic.php:100
+msgid "You may use these %s tags and attributes:"
+msgstr "Mund të përdorni këto etiketa dhe atribute %s:"
+
+#: includes/users/functions.php:453
+msgid "[%s] New Email Address"
+msgstr "[%s] Adresë Email e Re"
+
+#: includes/users/functions.php:418
+msgid ""
+"%1$s\n"
+"\n"
+"Someone requested a change to the email address on your account.\n"
+"\n"
+"Please click the following link to confirm this change:\n"
+"%2$s\n"
+"\n"
+"If you did not request this, you can safely ignore and delete this notification.\n"
+"\n"
+"This email was sent to: %3$s\n"
+"\n"
+"Regards,\n"
+"The %4$s Team\n"
+"%5$s"
+msgstr ""
+"%1$s\n"
+"\n"
+"Dikush kërkoi një ndryshim te adresa email e llogarisë tuaj.\n"
+"\n"
+"Ju lutemi, klikoni lidhjen vijuese që të ripohoni ndryshimin:\n"
+"%2$s\n"
+"\n"
+"Nëse nuk e kërkuat ju, mund ta shpërfillni pa rrezikuar gjë dhe ta fshihni këtë njoftim.\n"
+"\n"
+"Ky email u dërgua te: %3$s\n"
+"\n"
+"Të fala,\n"
+"Ekipi %4$s\n"
+"%5$s"
+
+#: templates/default/bbpress/form-topic-tag.php:50
+msgid "Description:"
+msgstr "Përshkrim:"
+
+#: includes/users/functions.php:208 includes/users/functions.php:220
+msgid "<strong>Error</strong>: That is not a valid email address."
+msgstr "<strong>Gabim</strong>: Kjo s’është adresë email të vlefshme."
+
+#: includes/users/functions.php:226 includes/users/functions.php:343
+msgid "<strong>Error</strong>: That email address is already in use."
+msgstr "<strong>Gabim</strong>: Kjo adresë email është e përdorur tashmë."
+
+#: includes/users/functions.php:406
+msgid "<strong>Error</strong>: An error occurred while updating your email address."
+msgstr "<strong>Gabim</strong>: Ndodhi një gabim teksa përditësohej adresa juaj email."
+
+#: templates/default/bbpress/loop-topics.php:24
+#: templates/default/bbpress/loop-forums.php:26 includes/admin/topics.php:860
+#: includes/admin/forums.php:543
+msgid "Last Post"
+msgstr "Postimi i Fundit"
+
+#: templates/default/bbpress/form-forum.php:101
+msgid "Forum Moderators:"
+msgstr "Moderatorë Forumi:"
+
+#: templates/default/bbpress/loop-single-topic.php:70
+msgid "in: %1$s"
+msgstr "te: %1$s"
+
+#: templates/default/bbpress/form-topic-split.php:48
+#: templates/default/bbpress/form-reply-move.php:48
+msgid "New topic in %s titled:"
+msgstr "Temë e re te %s, e titulluar:"
+
+#: templates/default/bbpress/form-reply.php:138
+msgid "Reply Status:"
+msgstr "Gjendje Përgjigjeje:"
+
+#: templates/default/bbpress/form-topic-merge.php:40
+msgid "Replies to both topics are merged chronologically, ordered by the time and date they were published. Topics may be updated to a 1 second difference to maintain chronological order based on the merge direction."
+msgstr "Përgjigjet te të dyja temat përzihen në rend kohor, sipas kohës dhe datës që qenë botuar. Temat mund të përditësohen me 1 sekondë diferencë që të ruhet rendi kohor i bazuar në drejtimin e përzierjes."
+
+#: templates/default/bbpress/form-reply.php:30
+msgid "Reply #%1$s in %2$s"
+msgstr "Përgjigjjuni #%1$s te %2$s"
+
+#. Author of the plugin
+msgid "The bbPress Contributors"
+msgstr "Kontribues Në bbPress"
+
+#. translators: user role
+#: includes/common/locale.php:56
+msgctxt "User role"
+msgid "Blocked"
+msgstr "I bllokuar"
+
+#. translators: user role
+#: includes/common/locale.php:53
+msgctxt "User role"
+msgid "Spectator"
+msgstr "Shikues"
+
+#. translators: user role
+#: includes/common/locale.php:50
+msgctxt "User role"
+msgid "Participant"
+msgstr "Pjesëmarrës"
+
+#. translators: user role
+#: includes/common/locale.php:47
+msgctxt "User role"
+msgid "Moderator"
+msgstr "Moderator"
+
+#. translators: user role
+#: includes/common/locale.php:44
+msgctxt "User role"
+msgid "Keymaster"
+msgstr "Kryemoderator"
+
+#. Plugin Name of the plugin
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://bbpress.org"
+msgstr "https://bbpress.org"
+
+#. Description of the plugin
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "bbPress është software forumesh, me një grimë kripë prej krijuesve të WordPress-it."
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/forums/template.php:54 includes/common/template.php:2331
+#: includes/replies/template.php:55 includes/replies/template.php:1849
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:149
+#: includes/admin/settings.php:392 includes/topics/template.php:53
+#: includes/topics/template.php:2403
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: includes/common/widgets.php:175 includes/common/widgets.php:320
+#: includes/common/widgets.php:437 includes/common/widgets.php:599
+#: includes/common/widgets.php:871 includes/common/widgets.php:1015
+#: includes/common/widgets.php:1218
+msgid "Title:"
+msgstr "Titull:"
+
+#: includes/common/formatting.php:648
+msgid "%s ago"
+msgstr "%s më parë"
+
+#: templates/default/bbpress/form-user-edit.php:99
+#: templates/default/bbpress/form-user-edit.php:102
+msgid "Account"
+msgstr "Llogari"
+
+#: includes/admin/users.php:170
+msgid "Change"
+msgstr "Ndryshoje"
+
+#: includes/users/template.php:806 includes/admin/settings.php:155
+msgid "Anonymous"
+msgstr "I paemër"
+
+#: templates/default/bbpress/form-topic-split.php:107
+#: templates/default/bbpress/form-reply.php:176
+#: templates/default/bbpress/form-topic-merge.php:103
+#: templates/default/bbpress/form-forum.php:159
+#: templates/default/bbpress/form-reply-move.php:81
+#: templates/default/bbpress/form-topic.php:213
+msgid "Submit"
+msgstr "Parashtroje"
+
+#: includes/users/template.php:1280 includes/forums/template.php:834
+#: includes/topics/template.php:1782
+msgid "Unsubscribe"
+msgstr "Shpajtomëni"
+
+#: includes/users/template.php:1081 includes/topics/template.php:1829
+msgid "Favorite"
+msgstr "E parapëlqyer"
+
+#: templates/default/bbpress/form-user-passwords.php:31
+#: includes/replies/template.php:1653
+msgid "Cancel"
+msgstr "Fshije"
+
+#: templates/default/bbpress/form-user-edit.php:144
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Jepi këtij përdoruesi privilegje superpërgjegjësi për Rrjetin."
+
+#: includes/users/template.php:1436
+msgid "This user has super admin privileges."
+msgstr "Ky përdorues ka privilegje superpërgjegjësi."
+
+#: templates/default/bbpress/form-topic-tag.php:100
+#: templates/default/bbpress/form-topic-tag.php:117
+#: includes/replies/template.php:1963 includes/topics/template.php:2517
+msgid "Delete"
+msgstr "Fshije"
+
+#: templates/default/bbpress/form-topic-tag.php:55
+msgid "Update"
+msgstr "Përditësoje"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1156
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s te %2$s"
+
+#: templates/default/bbpress/form-user-register.php:42
+#: includes/common/widgets.php:114
+msgid "Register"
+msgstr "Regjistrohuni"
+
+#: includes/common/functions.php:464
+msgid "Private: %s"
+msgstr "Privat: %s"
+
+#: includes/core/update.php:207
+msgid "General"
+msgstr "Të përgjithshme"
+
+#: includes/users/template.php:738
+msgid "Admin"
+msgstr "Përgjegjës"
+
+#: templates/default/bbpress/form-user-lost-pass.php:21
+msgid "Username or Email"
+msgstr "Emër përdoruesi ose Email"
+
+#: includes/extend/buddypress/groups.php:496
+msgid "Save Settings"
+msgstr "Ruaji Rregullimet"
+
+#: includes/common/widgets.php:908
+msgid "Recent Topics"
+msgstr "Tema Së Fundi"
+
+#: templates/default/bbpress/form-reply.php:210
+#: templates/default/bbpress/form-topic.php:237
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Forumi &#8216;%s&#8217; është i mbyllur për tema dhe përgjigje të reja."
+
+#: templates/default/bbpress/form-forum.php:36
+#: templates/default/bbpress/form-topic.php:44
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Tani Po Përpunohet &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-topic.php:47
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Krijoni Temë të Re te &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-reply.php:58
+#: templates/default/bbpress/form-forum.php:62
+#: templates/default/bbpress/form-topic.php:70
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Llogaria juaj ka aftësi të postojë lëndë HTML të pakufizuar."
+
+#: templates/default/bbpress/form-topic.php:85
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Titull Teme (Gjatësia Maksimum: %d):"
+
+#: includes/users/template.php:1853
+msgid "Registration complete. Please check your e-mail."
+msgstr "Regjistrim i plotë. Ju lutemi, kontrolloni e-mail-in tuaj."
+
+#: templates/default/bbpress/form-topic-merge.php:27
+msgid "Merge topic \"%s\""
+msgstr "Përzieje temën \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Për ta mbajtur këtë temë si kryesuesen, shkoni te tema tjetër dhe përdoreni mjetin e përzierjes që prej andej."
+
+#: templates/default/bbpress/form-topic-merge.php:33
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Përzgjidhni temën që të përziehet me këtë. Tema destinacion do të mbetet tema kryesuese, dhe kjo do të shndërrohet në një përgjigje."
+
+#: templates/default/bbpress/form-topic-merge.php:49
+msgid "Merge with this topic:"
+msgstr "Përzieje me këtë temë:"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+msgid "There are no other topics in this forum to merge with."
+msgstr "Në këtë forum nuk ka tema të tjera për t’i përzierë."
+
+#: templates/default/bbpress/form-topic-merge.php:79
+msgid "Merge topic subscribers"
+msgstr "Përzieni pajtimtarë teme"
+
+#: templates/default/bbpress/form-topic-merge.php:84
+msgid "Merge topic favoriters"
+msgstr "Përzieni të parapëlqyera teme"
+
+#: templates/default/bbpress/form-topic-merge.php:89
+msgid "Merge topic tags"
+msgstr "Përzieni etiketa teme"
+
+#: templates/default/bbpress/form-topic-split.php:122
+#: templates/default/bbpress/form-topic-merge.php:118
+msgid "You cannot edit this topic."
+msgstr "Nuk mund ta përpunoni këtë temë."
+
+#: templates/default/bbpress/form-topic-split.php:27
+msgid "Split topic \"%s\""
+msgstr "Ndani temën \"%s\""
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Kur e ndani një temë, e ndani më dysh duke filluar me përgjigjen që sapo përzgjodhët. Zgjidhni përdorimin e asaj përgjigjeje si një temë të re, me një titull të ri, ose përziejini këto përgjigje në një temë ekzistuese."
+
+#: templates/default/bbpress/form-topic-split.php:39
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Nëse përdorni mundësinë temë ekzistuese, përgjigjet te të dy temat do të përziehen sipas kohës së postimit. Renditja e përgjigjeve të përziera bazohet në kohën dhe datën kur janë postuar."
+
+#: templates/default/bbpress/form-topic-split.php:44
+msgid "Split Method"
+msgstr "Metodë Ndarjeje"
+
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Split: %s"
+msgstr "Nda: %s"
+
+#: templates/default/bbpress/form-topic-split.php:56
+#: templates/default/bbpress/form-reply-move.php:56
+msgid "Use an existing topic in this forum:"
+msgstr "Përdorni një temë ekzistues në këtë forum:"
+
+#: templates/default/bbpress/form-topic-split.php:83
+msgid "Copy subscribers to the new topic"
+msgstr "Kopjoji pajtimtarët te tema e re"
+
+#: templates/default/bbpress/form-topic-split.php:88
+msgid "Copy favoriters to the new topic"
+msgstr "Kopjoji të parapëlqyerat te tema e re"
+
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "Copy topic tags to the new topic"
+msgstr "Kopjoji etiketat e temës te tema e re"
+
+#: templates/default/bbpress/form-reply.php:79
+#: templates/default/bbpress/form-forum.php:90
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Mund të përdorni këto etiketa dhe atribute <abbr title=\"HyperText Markup Language\">HTML</abbr>:"
+
+#: templates/default/bbpress/form-topic-merge.php:45
+msgid "Destination"
+msgstr "Vendmbërritje"
+
+#: templates/default/bbpress/form-topic-split.php:76
+#: templates/default/bbpress/form-topic-merge.php:72
+msgid "Topic Extras"
+msgstr "Ekstra Teme"
+
+#: templates/default/bbpress/form-topic.php:48 includes/topics/template.php:52
+msgid "Create New Topic"
+msgstr "Krijoni Temë të Re"
+
+#: templates/default/bbpress/form-topic.php:111
+msgid "Topic Tags:"
+msgstr "Etiketa Teme:"
+
+#: templates/default/bbpress/form-topic.php:143
+msgid "Topic Type:"
+msgstr "Lloj Tema:"
+
+#: templates/default/bbpress/form-reply.php:108
+#: templates/default/bbpress/form-topic.php:174
+msgid "Notify the author of follow-up replies via email"
+msgstr "Njoftojeni me email autorin për përgjigje në vijim të kësaj"
+
+#: templates/default/bbpress/form-reply.php:112
+#: templates/default/bbpress/form-topic.php:178
+msgid "Notify me of follow-up replies via email"
+msgstr "Njoftomë me email për përgjigje në vijim të kësaj"
+
+#: templates/default/bbpress/form-reply.php:153
+#: templates/default/bbpress/form-topic.php:194
+msgid "Keep a log of this edit:"
+msgstr "Mbani një regjistër të këtij përpunimi:"
+
+#: templates/default/bbpress/form-reply.php:157
+#: templates/default/bbpress/form-topic.php:198
+msgid "Optional reason for editing:"
+msgstr "Arsye për përpunim (opsionale):"
+
+#: templates/default/bbpress/form-topic.php:249
+msgid "You must be logged in to create new topics."
+msgstr "Duhet të jeni i futur, që të krijoni tema të reja."
+
+#: templates/default/bbpress/loop-single-topic.php:62
+msgid "Started by: %1$s"
+msgstr "Nisur nga: %1$s"
+
+#: includes/admin/tools/reset.php:35 includes/topics/functions.php:3756
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "Krejt Temat"
+
+#: templates/default/bbpress/content-statistics.php:40
+#: includes/admin/tools/common.php:443 includes/topics/template.php:3385
+#: includes/topics/template.php:3386
+msgid "Topic Tags"
+msgstr "Etiketa Teme"
+
+#: includes/topics/template.php:3389
+msgid "Popular Tags"
+msgstr "Etiketa popullore"
+
+#: includes/forums/template.php:2001 includes/topics/template.php:2016
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s përgjigje"
+msgstr[1] "%s përgjigje"
+
+#: includes/admin/tools/reset.php:47
+msgid "Delete imported users?"
+msgstr "Të fshihen përdoruesit e importuar?"
+
+#: includes/admin/tools/reset.php:51
+msgid "This option will delete all previously imported users, and cannot be undone."
+msgstr "Përdorimi i kësaj mundësie do të fshijë krejt përdoruesit e importuar më parë, dhe nuk mund të zhbëhet."
+
+#: includes/admin/tools/reset.php:62
+msgid "Backup your database before proceeding."
+msgstr "Kopjeruani bazën tuaj të të dhënave, përpara se të vazhdoni."
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2690
+msgid "(to front)"
+msgstr "(në hyrje)"
+
+#: includes/common/functions.php:1268
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s shkroi:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Lidhje Teme: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Po e merrni këtë email ngaqë jeni pajtuar te një forum.\n"
+"\n"
+"Që të anuloni pajtimin në këto email-e, bëni hyrjen dhe vizitoni temën."
+
+#: includes/extend/buddypress/notifications.php:101
+msgid "Topic Replies"
+msgstr "Përgjigje Teme"
+
+#: includes/extend/buddypress/notifications.php:89
+msgid "You have %d new replies"
+msgstr "Keni %d përgjigje të reja"
+
+#: includes/forums/functions.php:2067
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "Hape"
+
+#: includes/forums/functions.php:2068
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "I mbyllur"
+
+#: includes/forums/functions.php:2085
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "Forum"
+
+#: includes/forums/functions.php:2086
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/forums/functions.php:2106
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "Publik"
+
+#: includes/forums/functions.php:2107
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "Privat"
+
+#: includes/forums/functions.php:2108
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "Fshihe"
+
+#: includes/topics/functions.php:1857 includes/topics/template.php:2581
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "Hape"
+
+#: includes/topics/functions.php:1858
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "E mbyllur"
+
+#: includes/topics/functions.php:1860
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "Shpjere te hedhurinat"
+
+#: includes/topics/functions.php:1878
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "Normale"
+
+#: includes/topics/functions.php:1879
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "Ngjitëse"
+
+#: includes/topics/functions.php:1880
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "Superngjitëse"
+
+#: templates/default/bbpress/form-topic.php:155
+msgid "Topic Status:"
+msgstr "Gjendje Teme:"
+
+#: templates/default/bbpress/user-subscriptions.php:23
+msgid "Subscribed Forums"
+msgstr "Forume Me Pajtime"
+
+#: includes/extend/akismet.php:596
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet-i e kaloi këtë postim si jo të padëshiruar"
+
+#: includes/extend/akismet.php:829 includes/extend/akismet.php:839
+msgid "Akismet History"
+msgstr "Historik Akismet-i"
+
+#: includes/extend/akismet.php:883
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "S’ka historik të regjistruar. Akismet-i nuk e ka kontrolluar këtë postim."
+
+#: includes/common/template.php:2651
+msgid "Forum Edit: %s"
+msgstr "Përpunim Forumi: %s"
+
+#: includes/common/template.php:2656
+msgid "Topic Edit: %s"
+msgstr "Përpunim Teme: %s"
+
+#: includes/common/template.php:2661
+msgid "Reply Edit: %s"
+msgstr "Përpunim Përgjigjejej: %s"
+
+#: includes/replies/template.php:2379
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "Po shihet %1$s rrjedhë përgjigjesh"
+msgstr[1] "Po shihen %1$s rrjedha përgjigjesh"
+
+#: includes/extend/buddypress/groups.php:467
+#: includes/extend/buddypress/groups.php:470
+msgid "Group Forum Settings"
+msgstr "Rregullime Forumi Grupi"
+
+#: includes/common/widgets.php:1032
+msgid "Forum Statistics"
+msgstr "Statistika Forumi"
+
+#: includes/common/widgets.php:1235
+msgid "Recent Replies"
+msgstr "Përgjigje Së Fundi"
+
+#: includes/extend/buddypress/groups.php:483
+msgid "Group Forum:"
+msgstr "Forum Grupi:"
+
+#: includes/extend/buddypress/groups.php:491
+msgid "Network administrators can reconfigure which forum belongs to this group."
+msgstr "Përgjegjësit e rrjetit mund të riformësojnë cili forum i përket këtij grupi."
+
+#: includes/extend/buddypress/groups.php:628
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "Forum Diskutimesh"
+
+#: includes/extend/buddypress/groups.php:1017
+msgid "This group does not currently have a forum."
+msgstr "Ky grup s’ka forum hëpërhë."
+
+#: includes/admin/tools/upgrade.php:388
+msgid "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "E plotësuar! U përditësuan %s grupe; u përditësuan %s forume; u njëkohësuan %s gjendje forumesh."
+
+#: includes/admin/tools/reset.php:208
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "Po fshihen Etiketa Teme&hellip; %s"
+
+#: includes/users/template.php:1547 includes/admin/users.php:107
+#: includes/admin/users.php:111
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; S&apos;ka rol për këta forume &mdash;"
+
+#: includes/common/functions.php:1101
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s shkroi:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Lidhje Postimi: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Po e merrni këtë email ngaqë jeni pajtuar te një temë forumi.\n"
+"\n"
+"Që të anuloni pajtimin në këto email-e, bëni hyrjen dhe vizitoni temën."
+
+#: includes/common/widgets.php:361
+msgid "The bbPress forum search form."
+msgstr "Formular kërkimesh në forum bbPress."
+
+#: includes/common/widgets.php:365
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) Formular Kërkimesh Në Forum"
+
+#: includes/common/widgets.php:937
+msgid "Some statistics from your forum."
+msgstr "Ca statistika nga forumi juaj."
+
+#: includes/common/widgets.php:941
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) Statistika"
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "Temë e re forumi"
+
+#: includes/extend/buddypress/activity.php:205
+msgid "New forum reply"
+msgstr "Përgjigje e re forumi"
+
+#: includes/replies/template.php:2085
+msgid "Move"
+msgstr "Zhvendose"
+
+#: includes/replies/template.php:2086
+msgid "Move this reply"
+msgstr "Zhvendose këtë përgjigje"
+
+#: includes/search/template.php:179
+msgid "Search Results for '%s'"
+msgstr "Përfundime Kërkimi për '%s'"
+
+#: includes/search/template.php:414
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "Po shihet %1$s përfundim"
+msgstr[1] "Po shihen %1$s përfundime"
+
+#: includes/search/template.php:418
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Po shihen %2$s përfundime (nga %4$s gjithsej)"
+msgstr[1] "Po shihen %1$s përfundime - %2$s deri %3$s (nga %4$s gjithsej)"
+
+#: templates/default/bbpress/form-reply-move.php:27
+msgid "Move reply \"%s\""
+msgstr "Zhvendose përgjigjen \"%s\""
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Këtë përgjigje mund ta shndërroni në një temë të re, me një titull të ri, ose ta bëni pjesë të një teme ekzistuese."
+
+#: templates/default/bbpress/form-reply-move.php:39
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Nëse zgjidhni një temë ekzistuese, përgjigjet do të renditen sipas kohësh dhe datash kur qenë krijuar."
+
+#: templates/default/bbpress/form-reply-move.php:44
+msgid "Move Method"
+msgstr "Metodë Zhvendosjeje"
+
+#: templates/default/bbpress/form-reply-move.php:96
+msgid "You cannot edit this reply."
+msgstr "Nuk mund ta përpunoni këtë përgjigje."
+
+#: templates/default/bbpress/form-search.php:18
+msgid "Search for:"
+msgstr "Kërkoni për:"
+
+#: templates/default/bbpress/loop-search-forum.php:17
+msgid "Last updated %s"
+msgstr "Përditësuar së fundi më %s"
+
+#: templates/default/bbpress/loop-search-reply.php:22
+msgid "In reply to: "
+msgstr "Në përgjigje për: "
+
+#: templates/default/bbpress/loop-search-topic.php:32
+msgid "in group forum "
+msgstr "në forum grupi "
+
+#: templates/default/bbpress/loop-search-topic.php:36
+msgid "in forum "
+msgstr "në forum "
+
+#: templates/default/bbpress/loop-search.php:23
+#: templates/default/bbpress/loop-search.php:45
+msgid "Search Results"
+msgstr "Përfundime Kërkimi"
+
+#: templates/default/bbpress-functions.php:219
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "Diç shkoi ters. Rifreskoni shfletuesin tuaj dhe riprovoni."
+
+#: templates/default/bbpress-functions.php:233
+msgid "Favorites are no longer active."
+msgstr "Të parapëlqyerat nuk janë më aktive."
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:311
+msgid "You do not have permission to do this."
+msgstr "Nuk keni leje për ta bërë këtë."
+
+#: templates/default/bbpress-functions.php:263
+#: templates/default/bbpress-functions.php:326
+msgid "Are you sure you meant to do that?"
+msgstr "Jeni i sigurt se nënkuptoni të bëhet kjo?"
+
+#: templates/default/bbpress/loop-single-reply.php:22
+msgid "in reply to: "
+msgstr "në përgjigje për: "
+
+#: templates/default/bbpress/form-user-edit.php:131
+#: templates/default/bbpress/form-user-edit.php:134
+msgid "User Role"
+msgstr "Rol Përdoruesi"
+
+#: templates/default/bbpress/form-user-edit.php:42
+msgid "Display Name"
+msgstr "Emër Shfaqjeje"
+
+#: includes/core/capabilities.php:501
+msgid "Editable forum roles no longer exist."
+msgstr "Nuk ekzistojnë më role të përpunueshëm forumi."
+
+#: includes/users/template.php:687
+msgid "Inactive"
+msgstr "Jo aktiv"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:67
+#: includes/common/template.php:2734
+msgid "%s's Subscriptions"
+msgstr "Pajtimet e %s"
+
+#: templates/default/bbpress/form-user-edit.php:141
+msgid "Network Role"
+msgstr "Rol Në Rrjet"
+
+#: templates/default/bbpress/form-user-roles.php:16
+msgid "Blog Role"
+msgstr "Rol Në Blog"
+
+#: templates/default/bbpress/user-profile.php:18
+#: templates/default/bbpress/user-details.php:30
+msgid "Profile"
+msgstr "Profil"
+
+#: templates/default/bbpress/user-profile.php:44
+msgid "Forum Role: %s"
+msgstr "Rol Forumi: %s"
+
+#: includes/admin/tools/repair.php:886
+msgid "Complete! %s users updated."
+msgstr "I plotësuar! U përditësuan %s përdorues."
+
+#: templates/default/bbpress/form-user-roles.php:23
+#: includes/users/signups.php:30 includes/admin/users.php:98
+#: includes/admin/users.php:282
+msgid "Forum Role"
+msgstr "Rol Forumi"
+
+#: includes/admin/users.php:164 includes/admin/users.php:166
+msgid "Change forum role to&hellip;"
+msgstr "Ndërrojani rolin në forum si&hellip;"
+
+#: includes/admin/users.php:278
+msgid "Site Role"
+msgstr "Rol Në Sajt"
+
+#: includes/extend/buddypress/groups.php:668
+msgid "Group Forum"
+msgstr "Forum Grupi"
+
+#: includes/admin/topics.php:162
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected topics at once. To remove a topic from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Kur përdoret Përpunimi në Masë, mund të ndryshoni tejtëdhëna (kategori, autorë, etj.), njëherësh për krejt temat e përzgjedhura. Për ta hequr një temë nga grupimi, thjesht klikoni mbi x-in në krah të emrit të tij, te fusha e Përpunimit në Masë që duket aty."
+
+#: includes/common/widgets.php:801
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "nga %1$s"
+
+#: includes/common/widgets.php:885
+msgid "Show topic author:"
+msgstr "Shfaq autor teme:"
+
+#: includes/common/widgets.php:888
+msgid "Order By:"
+msgstr "Renditi Sipas:"
+
+#: includes/common/widgets.php:890
+msgid "Newest Topics"
+msgstr "Temat Më të Reja"
+
+#: includes/common/widgets.php:892
+msgid "Topics With Recent Replies"
+msgstr "Tema Me Përgjigje Së Fundi"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1146
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s te %2$s më %3$s"
+
+#: includes/common/widgets.php:1221
+msgid "Show reply author:"
+msgstr "Shfaq autor përgjigjeje:"
+
+#: includes/replies/template.php:674 includes/topics/template.php:765
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s në %2$s"
+
+#: includes/admin/tools/repair.php:497
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Po numërohen temat e krijuara nga çdo përdorues&hellip; %s"
+
+#: includes/admin/tools/reset.php:32
+msgid "The following data will be removed:"
+msgstr "Të dhënat vijuese do të hiqen:"
+
+#: includes/admin/tools/reset.php:37
+msgid "All Topic Tags"
+msgstr "Krejt Etiketat e Temës"
+
+#: includes/admin/tools/reset.php:39
+msgid "Forum Settings"
+msgstr "Rregullime Forumi"
+
+#: includes/admin/tools/reset.php:40
+msgid "Forum Activity"
+msgstr "Veprimtari Forumi"
+
+#: includes/admin/tools/reset.php:41
+msgid "Forum User Roles"
+msgstr "Role Përdoruesish Forumi"
+
+#: templates/default/bbpress/form-topic-split.php:102
+#: templates/default/bbpress/form-topic-merge.php:98
+#: templates/default/bbpress/form-reply-move.php:76
+#: includes/admin/tools/reset.php:61
+msgid "This process cannot be undone."
+msgstr "Ky proces nuk mund të zhbëhet."
+
+#: includes/admin/tools/reset.php:70
+msgid "Reset bbPress"
+msgstr "Riktheje bbPress-in Te Parazgjedhjet"
+
+#: includes/admin/tools/reset.php:121
+msgid "Success!"
+msgstr "Sukses!"
+
+#: templates/default/bbpress/form-user-lost-pass.php:30
+msgid "Reset My Password"
+msgstr "Ricakto Fjalëkalimin Tim"
+
+#: includes/users/template.php:683
+msgid "Guest"
+msgstr "Vizitor"
+
+#: includes/users/template.php:697
+msgid "Member"
+msgstr "Anëtar"
+
+#: includes/forums/template.php:2045
+msgid "This forum is empty."
+msgstr "Forumi është i zbrazët."
+
+#: includes/topics/template.php:3330
+msgid "This topic has no replies."
+msgstr "Kjo temë s’ka përgjigje."
+
+#: includes/replies/template.php:764
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Kjo përgjigje është ndryshuar në %1$s nga %2$s. Arsyeja: %3$s"
+
+#: includes/replies/template.php:766
+msgid "This reply was modified %1$s by %2$s."
+msgstr "Kjo përgjigje është ndryshuar në %1$s nga %2$s."
+
+#: includes/topics/template.php:928
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Kjo temë është ndryshuar në %1$s nga %2$s. Arsyeja: %3$s"
+
+#: includes/topics/template.php:930
+msgid "This topic was modified %1$s by %2$s."
+msgstr "Kjo temë është ndryshuar në %1$s nga %2$s."
+
+#: includes/common/formatting.php:646
+msgid "sometime"
+msgstr "ndonjëherë"
+
+#: includes/common/formatting.php:647
+msgid "right now"
+msgstr "mu tani"
+
+#: includes/common/formatting.php:728
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: includes/extend/buddypress/loader.php:119
+msgid "Search Forums..."
+msgstr "Kërkoni Në Forume…"
+
+#: templates/default/bbpress/user-subscriptions.php:38
+#: includes/extend/buddypress/loader.php:356
+msgid "Subscribed Topics"
+msgstr "Tema Me Pajtime"
+
+#: includes/extend/buddypress/functions.php:341 includes/admin/settings.php:466
+#: includes/admin/tools/upgrade.php:371
+msgid "Group Forums"
+msgstr "Forume Grupi"
+
+#: includes/extend/buddypress/groups.php:471
+#: includes/extend/buddypress/groups.php:670
+msgid "Create a discussion forum to allow members of this group to communicate in a structured, bulletin-board style fashion."
+msgstr "Krijoni një forum diskutimesh që t’u lejoni anëtarëve të këtij grupi të komunikojnë në një mënyrë të strukturuar, në stil tabele lajmërimesh."
+
+#: includes/extend/buddypress/groups.php:475
+#: includes/extend/buddypress/groups.php:673
+msgid "Yes. I want this group to have a forum."
+msgstr "Po. Dua që ky grup të ketë një forum."
+
+#: includes/replies/template.php:2390
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Po shihen %2$s përgjigje (nga %4$s gjithsej)"
+msgstr[1] "Po shihen %1$s përgjigje - %2$s deri %3$s (nga %4$s gjithsej)"
+
+#: includes/replies/template.php:2402
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Po shihet %2$s postim (nga %4$s gjithsej)"
+msgstr[1] "Po shihen %1$s postime - %2$s deri %3$s (nga %4$s gjithsej)"
+
+#: includes/topics/template.php:2999
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Po shihet tema %2$s (nga %4$s gjithsej)"
+msgstr[1] "Po shihen %1$s tema - %2$s deri %3$s (nga %4$s gjithsej)"
+
+#: templates/default/bbpress/form-forum.php:39
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Krijoni Forum të Ri te &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:75
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Emër Forumi (Gjatësia Maksimum: %d):"
+
+#: templates/default/bbpress/form-forum.php:112
+msgid "Forum Type:"
+msgstr "Lloj Forum:"
+
+#: templates/default/bbpress/form-forum.php:183
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Forumi &#8216;%s&#8217; është i mbyllur për lëndë të re."
+
+#: templates/default/bbpress/form-forum.php:195
+msgid "You must be logged in to create new forums."
+msgstr "Duhet të jeni i futur, që të krijoni forume të rinj."
+
+#: includes/admin/topics.php:145
+msgid "<strong>Edit</strong> takes you to the editing screen for that topic. You can also reach that screen by clicking on the topic title."
+msgstr "<strong>Përpunimi</strong> ju shpie te skena e përpunimit për atë temë. Te skena mund të shkoni edhe duke klikuar mbi titullin e temës."
+
+#: includes/admin/topics.php:151
+msgid "<strong>Trash</strong> removes your topic from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Hedhurina</strong> e heq temën tuaj prej kësaj liste dhe e shpie te hedhurinat, nga ku mund ta fshini përgjithmonë."
+
+#: includes/admin/topics.php:150
+msgid "<strong>Spam</strong> removes your topic from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>E padëshiruar</strong> e heq temën tuaj prej kësaj liste dhe e shpie atë në radhën e të padëshiruarave, prej nga ku mund ta fshihni përgjithmonë."
+
+#: includes/admin/topics.php:190
+msgid "Title and Topic Editor"
+msgstr "Përpunues Titujsh dhe Temash"
+
+#: includes/admin/topics.php:192
+msgid "<strong>Title</strong> - Enter a title for your topic. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Titull</strong> - Jepni një titull për temën tuaj. Pasi të jepni një titull, do të shihni më poshtë permalidhjen, të cilën mund ta përpunoni."
+
+#: includes/admin/topics.php:206
+msgid "Select the attributes that your topic should have:"
+msgstr "Përzgjidhni atributet që duhet të ketë tema juaj:"
+
+#: includes/admin/topics.php:1002
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "Mbylle"
+
+#: includes/admin/topics.php:1004
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "Hape"
+
+#: includes/core/update.php:211
+msgid "Hello World!"
+msgstr "Njatjeta Botë!"
+
+#: includes/admin/topics.php:193
+msgid "<strong>Topic Editor</strong> - Enter the text for your topic. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your topic text. You can insert media files by clicking the icons above the topic editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr "<strong>Përpunues Temash</strong> - Jepni tekstin e temës tuaj. Ka dy mënyra përpunimi: Pamore dhe HTML. Zgjidheni mënyrën duke klikuar mbi skedën përkatëse. Mënyra pamore ju jep një përpunues WYSIWYG. Klikoni mbi ikonën e fundit te rreshti që të hapni një rresht të dytë kontrollesh. Mënyra HTML ju lejon të futni HTML të papërpunuar, tok me tekstin e temës tuaj. Kartela media mund të futni duke klikuar mbi ikonat sipër përpunuesit të temave dhe duke ndjekur udhëzimet. Te skena e shkrimit pa shpërqendrim mund të kaloni përmes ikonës Sa Krejt Ekrani, nën mënyrën Pamore (e dyta nga fundi, në rreshtin e sipërm) ose përmes butonit Sa Krejt Ekrani, nën mënyrën HTML (i fundit në rresht). Kur të gjendeni aty, butonat mund t’i bëni të dukshëm duke kaluar kursorin sipër fushës së sipërme. Dalja nga Sa Krejt Ekrani ju kthen te përpunuesi normal i temave."
+
+#: includes/admin/topics.php:196
+msgid "<strong>Publish</strong> - You can set the terms of publishing your topic in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a topic or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a topic to be published in the future or backdate a topic."
+msgstr "<strong>Botoje</strong> - Te kutia Botoje mund të caktoni kushtet e botimit të temës tuaj. Për Gjendje, Dukshmëri, dhe Botoje (menjëherë), klikoni mbi lidhjen Përpunojeni, që të shfaqen më tepër mundësi. Te Dukshmëria përfshihen mundësi për mbrojtjen me fjalëkalim të një teme ose për ta mbajtur pafundësisht në krye të blogut tuaj (ngjitëse). Botoje (menjëherë) ju lejon të caktoni një datë dhe kohë në të ardhmen ose në të kaluarën, që kështu të mund të planifikoni botimin e një teme në të ardhmen ose ta kaloni një të tillë në të kaluarën."
+
+#: includes/common/widgets.php:34
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr "Formular i thjeshtë me lidhje opsionale për te faqe mbi regjistrimin dhe humbje fjalëkalimesh."
+
+#: includes/common/widgets.php:38
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Widget Hyrjesh"
+
+#: includes/common/widgets.php:227
+msgid "A list of registered optional topic views."
+msgstr "Listë e pamjeve opsionale të regjistruara për temat."
+
+#: includes/common/widgets.php:478
+msgid "A list of forums with an option to set the parent."
+msgstr "Një listë forumesh, me mundësinë e caktimit të atij mëmë."
+
+#: includes/common/widgets.php:482
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) Listë Forumesh"
+
+#: includes/common/widgets.php:655
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) Tema Së Fundi"
+
+#: includes/common/widgets.php:1056
+msgid "A list of the most recent replies."
+msgstr "Një listë e përgjigjeve më të reja."
+
+#: includes/common/widgets.php:1060
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) Përgjigje Së Fundi"
+
+#: templates/default/bbpress/form-reply.php:200
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Tema &#8216;%s&#8217; është e mbyllur për përgjigje të reja."
+
+#: includes/common/widgets.php:605 includes/common/widgets.php:875
+msgid "Parent Forum ID:"
+msgstr "ID Forumi Mëmë:"
+
+#: includes/common/widgets.php:180
+msgid "Register URI:"
+msgstr "URI Regjistri:"
+
+#: includes/common/widgets.php:185
+msgid "Lost Password URI:"
+msgstr "URI Fjalëkalimi të Humbur:"
+
+#: includes/extend/buddypress/functions.php:779
+#: includes/extend/buddypress/activity.php:452
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s nisi temën %2$s te forumi %3$s"
+
+#: includes/extend/buddypress/functions.php:780
+#: includes/extend/buddypress/activity.php:590
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s u përgjigj te tema %2$s në forumin %3$s"
+
+#: templates/default/bbpress/feedback-logged-in.php:17
+msgid "You are already logged in."
+msgstr "Jeni i futur tashmë."
+
+#: includes/forums/template.php:51 includes/admin/tools/reset.php:34
+msgid "All Forums"
+msgstr "Krejt Forumet"
+
+#: includes/topics/template.php:3394
+msgid "View Topic Tag"
+msgstr "Shihni Etiketë Teme"
+
+#: includes/common/template.php:2348
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/extend/akismet.php:582 includes/extend/akismet.php:605
+msgid "Post status was changed to %s"
+msgstr "Gjendja e postimit u ndryshua si %s"
+
+#: includes/common/template.php:2253
+msgid "Home"
+msgstr "Vatra"
+
+#: includes/extend/akismet.php:573
+msgid "Akismet caught this post as spam"
+msgstr "Akismet-i e konsideroi këtë koment si të padëshiruar"
+
+#: includes/common/template.php:2348
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:388
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s e raportoi këtë %2$s jo si të padëshiruar"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:363
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s e raportoi këtë %2$s si të padëshiruar"
+
+#: includes/extend/akismet.php:619
+msgid "Akismet was unable to check this post (response: %s), will automatically retry again later."
+msgstr "Akismet-i s’qe në gjendje ta kontrollonte këtë postim (përgjigje: %s), do të riprovojë vetvetiu më vonë."
+
+#: includes/admin/topics.php:143
+msgid "Hovering over a row in the topics list will display action links that allow you to manage your topic. You can perform the following actions:"
+msgstr "Duke kaluar kursorin përsipër një rreshti te lista e temave, do të shfaqen lidhje veprimesh të cilat ju lejojnë të administroni temën tuaj. Mund të kryeni veprimet vijuese:"
+
+#: includes/admin/topics.php:204 includes/admin/topics.php:341
+#: includes/topics/template.php:67
+msgid "Topic Attributes"
+msgstr "Atribute Teme"
+
+#: includes/admin/topics.php:713
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "Pati një problem në hapjen e temës \"%1$s\"."
+
+#: includes/admin/topics.php:714
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "Tema \"%1$s\" u hap me sukses."
+
+#: includes/admin/topics.php:719
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "Pati një problem në mbylljen e temës \"%1$s\"."
+
+#: includes/admin/topics.php:720
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "Tema \"%1$s\" u mbyll me sukses."
+
+#: includes/admin/topics.php:725
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "Pati një problem në ngjitjen e temës \"%1$s\" në hyrje."
+
+#: includes/admin/topics.php:731
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "Pati një problem në ngjitjen e temës \"%1$s\"."
+
+#: includes/admin/topics.php:737
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "Pati një problem në anulimin e fiksimit të temës \"%1$s\"."
+
+#: includes/admin/topics.php:743
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "Pati një problem në vënien shenjë si e padëshiruar temës \"%1$s\"."
+
+#: includes/admin/topics.php:744
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "Temës \"%1$s\" iu vu me sukses shenjë si e padëshiruar."
+
+#: includes/admin/topics.php:749
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "Pati një problem në heqjen e shenjës si e padëshiruar temës \"%1$s\"."
+
+#: includes/admin/topics.php:750
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "Temës \"%1$s\" iu hoq me sukses shenja si e padëshiruar."
+
+#: includes/admin/topics.php:1002
+msgid "Close this topic"
+msgstr "Mbylleni këtë temën"
+
+#: includes/admin/topics.php:1004
+msgid "Open this topic"
+msgstr "Hapeni këtë temë"
+
+#: includes/admin/topics.php:1013
+msgid "Unstick this topic"
+msgstr "Hiqja ngjitjen kësaj teme"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to its forum"
+msgstr "Ngjite këtë temë te forumi i vet"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to front"
+msgstr "Ngjite këtë temë në ballë"
+
+#: includes/admin/topics.php:1025
+msgid "Mark the topic as not spam"
+msgstr "Hiqja temës shenjën si e padëshiruar"
+
+#: includes/admin/topics.php:1023
+msgid "Mark this topic as spam"
+msgstr "Shënoje këtë temë si të padëshiruar"
+
+#: includes/admin/topics.php:1175 includes/admin/topics.php:1187
+#: includes/topics/template.php:78
+msgid "Topic updated."
+msgstr "Tema u përditësua."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:1192
+msgid "Topic restored to revision from %s"
+msgstr "Tema u rikthye te rishikimi i %s"
+
+#: includes/admin/topics.php:1204
+msgid "Topic saved."
+msgstr "Tema u ruajt."
+
+#: templates/default/bbpress/form-user-passwords.php:17
+#: templates/default/bbpress/form-user-login.php:25
+#: includes/common/widgets.php:89
+msgid "Password"
+msgstr "Fjalëkalim"
+
+#: templates/default/bbpress/form-user-login.php:31
+#: includes/common/widgets.php:95
+msgid "Keep me signed in"
+msgstr "Mbamë të futur"
+
+#: templates/default/bbpress/form-user-passwords.php:42
+msgid "Type your new password again."
+msgstr "Shtypeni fjalëkalimin tuaj të ri sërish."
+
+#: templates/default/bbpress/form-user-edit.php:32
+msgid "Last Name"
+msgstr "Mbiemër"
+
+#: templates/default/bbpress/form-user-edit.php:27
+msgid "First Name"
+msgstr "Emër"
+
+#: templates/default/bbpress/form-user-edit.php:107
+#: templates/default/bbpress/form-user-register.php:29
+#: templates/default/bbpress/form-user-login.php:20
+#: includes/common/widgets.php:84
+msgid "Username"
+msgstr "Emër përdoruesi"
+
+#: templates/default/bbpress/form-topic-tag.php:110
+msgid "Any links to this tag will no longer function."
+msgstr "Çfarëdo lidhje te kjo etiketë nuk do të funksionojë më."
+
+#: templates/default/bbpress/user-favorites.php:19
+msgid "Favorite Forum Topics"
+msgstr "Tema Forumi të Parapëlqyera"
+
+#: includes/replies/template.php:2398
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "Po shihet %1$s postim"
+msgstr[1] "Po shihen %1$s postime"
+
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-login.php:38
+#: includes/common/widgets.php:81 includes/common/widgets.php:102
+msgid "Log In"
+msgstr "Hyni"
+
+#: templates/default/bbpress/form-user-lost-pass.php:17
+#: includes/common/widgets.php:120
+msgid "Lost Password"
+msgstr "Humbi Fjalëkalimi"
+
+#: templates/default/bbpress/form-reply.php:222
+msgid "You must be logged in to reply to this topic."
+msgstr "Duhet të jeni i futur që të përgjigjeni në këtë temë."
+
+#: templates/default/bbpress/form-topic-tag.php:117
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Jeni i sigurt se doni të fshihet etiketa \"%s\"? Kjo është përfundimtare dhe s’mund të zhbëhet."
+
+#: templates/default/bbpress/loop-topics.php:19 includes/admin/topics.php:857
+msgid "Voices"
+msgstr "Zëra"
+
+#: templates/default/bbpress/form-user-edit.php:37
+msgid "Nickname"
+msgstr "Nofkë"
+
+#: templates/default/bbpress/form-user-edit.php:52
+#: templates/default/bbpress/form-user-edit.php:55
+msgid "Contact Info"
+msgstr "Të dhëna Kontakti"
+
+#: templates/default/bbpress/form-user-edit.php:78
+#: templates/default/bbpress/form-user-edit.php:84
+msgid "About Yourself"
+msgstr "Rreth Vetvetes"
+
+#: templates/default/bbpress/form-user-edit.php:79
+#: templates/default/bbpress/form-user-edit.php:85
+msgid "About the user"
+msgstr "Mbi përdoruesin"
+
+#: templates/default/bbpress/form-user-edit.php:91
+msgid "Biographical Info"
+msgstr "Të dhëna Jetëshkrimore"
+
+#: includes/common/template.php:2323
+msgid "(Edit)"
+msgstr "(Përpunim)"
+
+#: includes/common/functions.php:414 includes/common/functions.php:472
+msgid "Trashed: %s"
+msgstr "Të shpënë në hedhurina: %s"
+
+#: includes/users/template.php:2005 includes/replies/template.php:1196
+#: includes/topics/template.php:1429
+msgid "View %s's profile"
+msgstr "Shihni profilin e %s"
+
+#: templates/default/extras/page-forum-statistics.php:34
+#: includes/common/widgets.php:891
+msgid "Popular Topics"
+msgstr "Tema Popullore"
+
+#: templates/default/bbpress/content-statistics.php:67
+msgid "Hidden Replies"
+msgstr "Përgjigje të Fshehura"
+
+#: templates/default/bbpress/content-statistics.php:56
+msgid "Hidden Topics"
+msgstr "Tema të Fshehura"
+
+#: templates/default/bbpress/content-statistics.php:47
+msgid "Empty Topic Tags"
+msgstr "Etiketa të Zbrazëta Teme"
+
+#: templates/default/bbpress/content-statistics.php:20
+msgid "Registered Users"
+msgstr "Përdorues të Regjistruar"
+
+#: includes/topics/template.php:3397
+msgid "New Tag Name"
+msgstr "Emër Etikete të Re"
+
+#: includes/topics/template.php:3396
+msgid "Add New Tag"
+msgstr "Shtoni Etiketë të Re"
+
+#: includes/topics/template.php:3390
+msgid "All Tags"
+msgstr "Krejt Etiketat"
+
+#: includes/topics/template.php:3393
+msgid "Edit Tag"
+msgstr "Përpunoni Etiketën"
+
+#: includes/topics/template.php:3388
+msgid "Search Tags"
+msgstr "Kërkoni Te Etiketat"
+
+#: includes/topics/template.php:3395
+msgid "Update Tag"
+msgstr "Përditëso Etiketën"
+
+#: includes/replies/template.php:61
+msgid "Search Replies"
+msgstr "Kërkoni Te Përgjigjet"
+
+#: includes/replies/template.php:56
+msgid "Edit Reply"
+msgstr "Përpunoni Përgjigjen"
+
+#: includes/replies/template.php:57
+msgid "New Reply"
+msgstr "Përgjigje e Re"
+
+#: includes/replies/template.php:54
+msgid "Create New Reply"
+msgstr "Krijoni Përgjigje të Re"
+
+#: includes/forums/template.php:56
+msgid "New Forum"
+msgstr "Forum i Ri"
+
+#: templates/default/bbpress/form-forum.php:40 includes/forums/template.php:53
+msgid "Create New Forum"
+msgstr "Krijoni Forum të Ri"
+
+#: includes/forums/template.php:55
+msgid "Edit Forum"
+msgstr "Përpunoni Forumin"
+
+#: includes/forums/template.php:57 includes/forums/template.php:58
+msgid "View Forum"
+msgstr "Shihni Forumin"
+
+#: includes/forums/template.php:60 includes/common/widgets.php:454
+msgid "Search Forums"
+msgstr "Kërkoni Në Forume"
+
+#: templates/default/bbpress/form-forum.php:139 includes/forums/template.php:66
+msgid "Parent Forum:"
+msgstr "Forumi Mëmë:"
+
+#: includes/topics/template.php:55
+msgid "New Topic"
+msgstr "Temë e Re"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "Përpunoni Temën"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "Shiheni Temën"
+
+#: includes/topics/template.php:59
+msgid "Search Topics"
+msgstr "Kërkoni Te Tema"
+
+#: templates/default/bbpress/form-user-edit.php:168
+msgid "Update User"
+msgstr "Përditëso Përdoruesin"
+
+#: templates/default/bbpress/form-user-edit.php:167
+msgid "Update Profile"
+msgstr "Përditëso Profilin"
+
+#: includes/replies/template.php:1988 includes/topics/template.php:2538
+msgid "Are you sure you want to delete that permanently?"
+msgstr "Jeni i sigurt që doni të fshihet përgjithmonë?"
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Create an Account"
+msgstr "Krijoni një Llogarinë"
+
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Emri juaj i përdoruesit duhet të jetë unik, dhe nuk mund të ndryshohet më vonë."
+
+#: templates/default/bbpress/form-user-register.php:24
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "E përdorim adresën tuaj email për t’ju dërguar një fjalëkalim të sigurt dhe për të verifikuar llogarinë tuaj."
+
+#: templates/default/extras/taxonomy-topic-tag.php:17
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: includes/common/template.php:2327 includes/common/template.php:2442
+#: includes/common/template.php:2687 includes/core/theme-compat.php:804
+msgid "Topic Tag: %s"
+msgstr "Etiketë Teme: %s"
+
+#: includes/replies/template.php:2386
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "Po shihet %1$s përgjigje"
+msgstr[1] "Po shihen %1$s përgjigje"
+
+#: includes/replies/template.php:2144
+msgid "Split"
+msgstr "Ndaji"
+
+#: includes/users/template.php:1279 includes/forums/template.php:833
+#: includes/topics/template.php:1781
+msgid "Subscribe"
+msgstr "Pajtohuni"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "Private"
+msgstr "Privat"
+
+#: templates/default/bbpress/feedback-no-access.php:20
+msgid "You do not have permission to view this forum."
+msgstr "Nuk keni leje për të parë këtë forum."
+
+#: includes/topics/template.php:2195
+msgid "Tagged:"
+msgstr "Etiketuar me:"
+
+#: includes/common/widgets.php:1219
+msgid "Maximum replies to show:"
+msgstr "Numër maksimum përgjigjesh për shfaqje:"
+
+#: includes/common/widgets.php:884 includes/common/widgets.php:1220
+msgid "Show post date:"
+msgstr "Shfaq datë postimi:"
+
+#: includes/common/widgets.php:872
+msgid "Maximum topics to show:"
+msgstr "Numër maksimum temash për shfaqje:"
+
+#: includes/users/template.php:2006 includes/replies/template.php:1197
+#: includes/topics/template.php:1430
+msgid "Visit %s's website"
+msgstr "Vizitoni sajtin e %s"
+
+#: templates/default/bbpress/form-reply.php:221
+msgid "You cannot reply to this topic."
+msgstr "Nuk mund të përgjigjeni në këtë temë."
+
+#: templates/default/bbpress/form-reply.php:90
+msgid "Tags:"
+msgstr "Etiketa:"
+
+#: templates/default/bbpress/form-anonymous.php:28
+msgid "Mail (will not be published) (required):"
+msgstr "Postë (nuk do të bëhet publike) (e domosdoshme):"
+
+#: templates/default/bbpress/form-anonymous.php:23
+msgid "Name (required):"
+msgstr "Emër (i domosdoshëm):"
+
+#: templates/default/bbpress/form-anonymous.php:18
+msgid "Your information:"
+msgstr "Të dhënat tuaja:"
+
+#: templates/default/bbpress/form-topic-tag.php:19
+msgid "Manage Tag: \"%s\""
+msgstr "Administroni Etiketa: \"%s\""
+
+#: templates/default/bbpress/form-protected.php:17
+msgid "Protected"
+msgstr "E mbrojtur"
+
+#: templates/default/bbpress/form-topic-tag.php:23
+msgid "Rename"
+msgstr "Riemërtojeni"
+
+#: templates/default/bbpress/form-topic-tag.php:27
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Lëreni të zbrazët identifikuesin, që të krijohet vetvetiu një i tillë."
+
+#: templates/default/bbpress/form-topic-tag.php:33
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Ndryshimi i identifikuesit prek permalidhjen e tij. Çfarëdo lidhje te identifikuesi i dikurshëm do të reshtë së funksionuari."
+
+#: templates/default/bbpress/form-topic-tag.php:109
+msgid "Deleting a tag cannot be undone."
+msgstr "Fshirja e një etikete nuk mund të zhbëhet."
+
+#: templates/default/bbpress/form-topic-tag.php:104
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Kjo nuk fshihen temat tuaja. Fshihet vetëm etiketa."
+
+#: templates/default/bbpress/form-topic-tag.php:85
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Jeni i sigurt se doni të përzieni etiketën \"%s\" me etiketën që treguat?"
+
+#: templates/default/bbpress/form-topic-tag.php:80
+msgid "Existing tag:"
+msgstr "Etiketa ekzistuese:"
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merging tags together cannot be undone."
+msgstr "Përzierja e etiketave nuk mund të zhbëhet."
+
+#: templates/default/bbpress/form-topic-tag.php:69
+#: templates/default/bbpress/form-topic-tag.php:85
+#: includes/topics/template.php:2756
+msgid "Merge"
+msgstr "Përzieji"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Slug:"
+msgstr "Identifikues:"
+
+#: includes/topics/template.php:2995
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "Po shihet %1$s temë"
+msgstr[1] "Po shihet %1$s tema"
+
+#: includes/topics/template.php:3056
+msgid "This topic is marked as spam."
+msgstr "Kësaj teme i është vënë shenjë si e pavlerë."
+
+#: includes/topics/template.php:3061
+msgid "This topic is in the trash."
+msgstr "Kjo temë gjendet te hedhurinat."
+
+#: includes/topics/template.php:3316
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s zë"
+msgstr[1] "%s zëra"
+
+#: includes/common/template.php:1639
+msgid "None available"
+msgstr "Asnjë i passhëm"
+
+#: templates/default/bbpress/form-reply.php:30
+#: includes/replies/template.php:552
+msgid "Reply To: %s"
+msgstr "Përgjigjuni Te: %s"
+
+#: includes/common/template.php:2611
+msgid "Log Out"
+msgstr "Dilni"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:30
+#: includes/common/template.php:2744
+msgid "%s's Profile"
+msgstr "Profili i %s"
+
+#: includes/common/template.php:2753
+msgid "Edit Your Profile"
+msgstr "Përpunoni Profilin Tuaj"
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/common/template.php:2758
+msgid "Edit %s's Profile"
+msgstr "Përpunoni Profilin e %s"
+
+#: includes/common/template.php:2673
+msgid "Forum: %s"
+msgstr "Forum: %s"
+
+#: includes/common/template.php:2678
+msgid "Topic: %s"
+msgstr "Temë: %s"
+
+#: includes/replies/functions.php:2134
+msgid "All Posts"
+msgstr "Krejt Postimet"
+
+#: includes/replies/functions.php:2136 includes/replies/template.php:52
+#: includes/admin/tools/reset.php:36
+msgid "All Replies"
+msgstr "Krejt Përgjigjet"
+
+#: includes/replies/functions.php:2180 includes/topics/functions.php:3800
+msgid "Replies: %s"
+msgstr "Përgjigje: %s"
+
+#: includes/users/template.php:1375
+msgid "User updated."
+msgstr "Përdoruesi u përditësua."
+
+#: includes/users/template.php:1436
+msgid "You have super admin privileges."
+msgstr "Keni privilegje superpërgjegjësi."
+
+#: includes/users/template.php:1510
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; S&apos;ka rol për këtë sajt &mdash;"
+
+#: includes/users/template.php:1830
+msgid "You are now logged out."
+msgstr "Tani keni dalë."
+
+#: includes/users/template.php:1834
+msgid "New user registration is currently not allowed."
+msgstr "Hëpërhë nuk lejohet regjistrim përdoruesi të ri."
+
+#: includes/users/template.php:1843
+msgid "Check your e-mail for the confirmation link."
+msgstr "Për lidhjen e ripohimi, kontrolloni e-mail-in tuaj."
+
+#: includes/users/template.php:1848
+msgid "Check your e-mail for your new password."
+msgstr "Për fjalëkalimin tuaj të ri, kontrolloni e-mail-in tuaj."
+
+#: includes/forums/template.php:1170 includes/forums/template.php:2012
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "%s temë"
+msgstr[1] "%s temë"
+
+#: includes/admin/tools/repair.php:203
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "Po numërohen përgjigjet në çdo temë&hellip; %s"
+
+#: includes/admin/tools/repair.php:238 includes/admin/tools/repair.php:290
+#: includes/admin/tools/repair.php:324 includes/admin/tools/repair.php:356
+#: includes/admin/tools/repair.php:400 includes/admin/tools/repair.php:441
+#: includes/admin/tools/repair.php:483 includes/admin/tools/repair.php:531
+#: includes/admin/tools/repair.php:579 includes/admin/tools/repair.php:646
+#: includes/admin/tools/repair.php:711 includes/admin/tools/repair.php:776
+#: includes/admin/tools/repair.php:1009 includes/admin/tools/repair.php:1069
+#: includes/admin/tools/repair.php:1140 includes/admin/tools/repair.php:1203
+#: includes/admin/tools/repair.php:1254 includes/admin/tools/repair.php:1305
+msgid "Complete!"
+msgstr "I plotësuar!"
+
+#: includes/admin/tools/reset.php:122 includes/admin/tools/repair.php:204
+#: includes/admin/tools/repair.php:253 includes/admin/tools/repair.php:305
+#: includes/admin/tools/repair.php:339 includes/admin/tools/repair.php:370
+#: includes/admin/tools/repair.php:415 includes/admin/tools/repair.php:457
+#: includes/admin/tools/repair.php:498 includes/admin/tools/repair.php:546
+#: includes/admin/tools/repair.php:594 includes/admin/tools/repair.php:661
+#: includes/admin/tools/repair.php:726 includes/admin/tools/repair.php:795
+#: includes/admin/tools/repair.php:903 includes/admin/tools/repair.php:1024
+#: includes/admin/tools/repair.php:1136 includes/admin/tools/repair.php:1156
+#: includes/admin/tools/repair.php:1218 includes/admin/tools/upgrade.php:288
+msgid "Failed!"
+msgstr "Dështoi!"
+
+#: includes/admin/tools/repair.php:252
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "Po numërohen zërat në çdo temë&hellip; %s"
+
+#: includes/admin/tools/repair.php:338
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Po numërohen temat në çdo forum&hellip; %s"
+
+#: includes/admin/tools/repair.php:414
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Po numërohen përgjigjet në çdo forum&hellip; %s"
+
+#: includes/admin/tools/repair.php:545
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Po numërohen temat te të cilat është përgjigjur çdo përdorues&hellip; %s"
+
+#: includes/admin/tools/repair.php:629 includes/admin/tools/repair.php:694
+#: includes/admin/tools/repair.php:759
+msgid "Nothing to remove!"
+msgstr "Asgjë për heqje!"
+
+#: includes/admin/topics.php:131
+msgid "You can hide/display columns based on your needs and decide how many topics to list per screen using the Screen Options tab."
+msgstr "Duke përdorur skedën e Mundësive për Skenën, mund të fshihni/shfaqni shtyllat sipas nevojave tuaja dhe të vendosni se sa tema për skenë të tregohen."
+
+#: templates/default/bbpress-functions.php:273
+#: templates/default/bbpress-functions.php:336
+msgid "The request was unsuccessful. Please try again."
+msgstr "Kërkesa qe e pasuksesshme. Ju lutemi, riprovoni."
+
+#: templates/default/bbpress-functions.php:296
+msgid "Subscriptions are no longer active."
+msgstr "Pajtimet nuk janë më aktive."
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:57
+#: includes/common/template.php:2724
+msgid "%s's Favorites"
+msgstr "Të parapëlqyera nga %s"
+
+#: templates/default/bbpress/user-details.php:36
+msgid "%s's Topics Started"
+msgstr "Tema të Filluara nga %s"
+
+#: templates/default/bbpress/user-details.php:42
+msgid "%s's Replies Created"
+msgstr "Përgjigje të Krijuara nga %s"
+
+#: templates/default/bbpress/user-profile.php:42
+msgid "Topics Started: %s"
+msgstr "Tema të Filluara: %s"
+
+#: includes/extend/buddypress/groups.php:478
+msgid "Saying no will not delete existing forum content."
+msgstr "Po u tha jo, nuk do të fshihet lënda ekzistuese e forumit."
+
+#: includes/replies/template.php:58 includes/replies/template.php:59
+msgid "View Reply"
+msgstr "Shihni Përgjigjen"
+
+#: includes/replies/template.php:2145
+msgid "Split the topic from this reply"
+msgstr "Ndaje temën nga kjo përgjigje"
+
+#: includes/common/template.php:2766
+msgid "View: %s"
+msgstr "Parje: %s"
+
+#: templates/default/bbpress/user-profile.php:43
+msgid "Replies Created: %s"
+msgstr "Përgjigje të Krijuara: %s"
+
+#: includes/admin/tools/repair.php:902
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "Po ripërpunohet postimi më i ri në çdo temë dhe forum&hellip; %s"
+
+#: includes/admin/tools/repair.php:725
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "Po rizhvendosen forume të shpënë në hedhurina nga pajtime përdoruesish&hellip; %s"
+
+#: includes/topics/functions.php:1859
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "E padëshiruar"
+
+#: includes/admin/tools/repair.php:1023
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "Po ndreqet tema ngjitëse te marrëdhëniet me forumin mëmë&hellip; %s"
+
+#: templates/default/bbpress/form-reply-move.php:49
+msgid "Moved: %s"
+msgstr "Të zhvendosur: %s"
+
+#: includes/admin/tools/repair.php:788
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Po ripërshoqërohen role forumi për çdo përdorues në këtë sajt&hellip; %s"
+
+#: includes/admin/topics.php:121
+msgid "This screen displays the individual topics on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Kjo skenë shfaq temat individuale në sajtin tuaj. Mund t&#ia përshtatni shfaqjen e kësaj skene rrjedhës tuaj të punës."
+
+#: includes/admin/tools/reset.php:43
+msgid "Importer Helper Data"
+msgstr "Të dhëna Ndihmësi Importimesh"
+
+#: includes/admin/topics.php:209
+msgid "<strong>Topic Type</strong> dropdown indicates the sticky status of the topic. Selecting the super sticky option would stick the topic to the front of your forums, i.e. the topic index, sticky option would stick the topic to its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr "Pjesa <strong>Lloje Temash</strong> tregon gjendjen e ngjitshme apo jo të temës. Përzgjedhja e mundësisë superngjitëse do ta bëjë temën të ngjitur në ballë të forumeve tuaja, d.m.th. te treguesi i temave, mundësia ngjitëse do ta ngjitë temën te forumi përkatës. Përzgjedhja e normales nuk do të shkaktojë ngjitje të temës gjëkundi."
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2688
+msgid "Stick"
+msgstr "Bëje ngjitës"
+
+#: includes/admin/tools/repair.php:660
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Po rizhvendosen tema të shpëna në hedhurina nga pajtime përdoruesish&hellip; %s"
+
+#: includes/users/template.php:1082 includes/topics/template.php:1830
+msgid "Unfavorite"
+msgstr "Hiqe si të parapëlqyer"
+
+#: includes/common/template.php:2666
+msgid "Topic Tag Edit: %s"
+msgstr "Përpunim Etikete Teme: %s"
+
+#: includes/admin/topics.php:146
+msgid "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to the top the parent forum topic list."
+msgstr "<strong>Ngjitëse</strong> do ta mbajë temën e përzgjedhur &#8217;të fiksuar&#8217; në krye të listës së temave të forumit mëmë."
+
+#: includes/admin/topics.php:147
+msgid "<strong>Stick <em>(to front)</em></strong> will keep the selected topic &#8217;pinned&#8217; to the top of ALL forums and be visable in any forums topics list."
+msgstr "<strong>Ngjite <em>(në ballë)</em></strong> do ta mbajë temën e përzgjedhur &#8217;të fiksuar&#8217; në krye të KREJT forumeve dhe të dukshme në çfarëdo liste temash forumi."
+
+#: includes/replies/template.php:2030 includes/admin/topics.php:238
+#: includes/admin/replies.php:233 includes/topics/template.php:2808
+msgid "Unspam"
+msgstr "Hiqe si të padëshiruar"
+
+#: includes/admin/tools/upgrade.php:372
+msgid "group-forums"
+msgstr "grup-forumeForume Grupi"
+
+#: templates/default/bbpress/user-topics-created.php:19
+msgid "Forum Topics Started"
+msgstr "U filluan Tema Forumesh"
+
+#: templates/default/bbpress/user-replies-created.php:19
+msgid "Forum Replies Created"
+msgstr "U krijuan Përgjigje Forumesh"
+
+#: includes/common/functions.php:410 includes/common/functions.php:468
+msgid "Spammed: %s"
+msgstr "Shënuar si të padëshiruara: %s"
+
+#: includes/admin/topics.php:1013 includes/topics/template.php:2689
+msgid "Unstick"
+msgstr "Hiqja ngjitjen"
+
+#: templates/default/bbpress/form-topic.php:248
+msgid "You cannot create new topics."
+msgstr "S’mund të krijoni tema të reja."
+
+#: templates/default/bbpress/form-forum.php:194
+msgid "You cannot create new forums."
+msgstr "S’mund të krijoni forume të rinj."
+
+#: includes/extend/akismet.php:171 includes/extend/akismet.php:176
+#: includes/extend/akismet.php:492 includes/extend/akismet.php:497
+msgid "No response"
+msgstr "S’ka përgjigje"
+
+#: includes/admin/tools/reset.php:50 includes/admin/tools/reset.php:60
+msgid "Say it ain't so!"
+msgstr "Thuaj që s’është kështu!"
+
+#: includes/admin/topics.php:199
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your topic without inserting it. This is usually useful only if your theme makes use of the featured image as a topic thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Figurë e Zgjedhur</strong> - Kjo ju lejon t’i përshoqëroni një figurë një teme pa e futur në të. Zakonisht është e dobishme vetëm nëse tema juaj është në gjendje ta përdorë figurën e trajtuar si miniaturë postimi te faqja hyrëse, te një titull i përshtatur, etj."
+
+#: includes/common/widgets.php:611 includes/common/widgets.php:881
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" për të shfaqur vetëm rrënjën - \"any\" për t’i shfaqur krejt"
+
+#: includes/common/template.php:1634
+msgid "No forums available"
+msgstr "S’ka forume të gatshëm"
+
+#: includes/common/template.php:1629
+msgid "No topics available"
+msgstr "S’ka tema të gatshme"
+
+#: includes/admin/topics.php:935 includes/topics/template.php:1988
+msgid "No Replies"
+msgstr "S’ka Përgjigje"
+
+#: includes/common/template.php:1157
+msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
+msgstr "Etiketat për kërkesa me kusht s’funksionojnë përpara se të bëhet kërkesa. Para kësaj, përgjigja për to është përherë e rreme."
+
+#: includes/topics/template.php:61
+msgid "No topics found in Trash"
+msgstr "S’u gjetën tema te Hedhurinat"
+
+#: includes/topics/template.php:60
+msgid "No topics found"
+msgstr "S’u gjetën tema"
+
+#: includes/forums/template.php:62
+msgid "No forums found in Trash"
+msgstr "S’u gjetën forume te Hedhurinat"
+
+#: includes/forums/template.php:61
+msgid "No forums found"
+msgstr "S’u gjetën forume"
+
+#: includes/replies/template.php:62
+msgid "No replies found"
+msgstr "S’u gjetën përgjigje"
+
+#: includes/replies/template.php:63
+msgid "No replies found in Trash"
+msgstr "S’u gjetën përgjigje te Hedhurinat"
+
+#: includes/common/widgets.php:231
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) Listë Pamjesh Temash"
+
+#: includes/admin/topics.php:180
+msgid "The title field and the big topic editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Për fushën e titullit dhe Zonën e madhe të përpunimit të temave ka vende të fiksuara, por mund të ripoziciononi krejt kutitë e tjera duke përdorur teknikën <em>merr dhe vër</em>, dhe mundeni t’i minimizoni ose zgjeroni duke klikuar te shtylla e titullit të secilës kutizë. Që të bëni të dukshme më tepër kutiza (Copëza, Dërgo Pasgjurmime, Fusha Vetjake, Diskutime, Identifikues, Autor), ose që të zgjidhni skemën me 1 apo 2 shtylla për këtë skenë, përdorni skedën e Mundësive të Ekranit."
+
+#: includes/admin/metaboxes.php:659 includes/admin/forums.php:540
+msgid "Moderators"
+msgstr "Moderatorë"
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid "This is a collection of tags that are currently popular on our forums."
+msgstr "Kjo është një përmbledhje etiketash që janë popullore tani në forumet tona."
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "Here are the statistics and popular topics of our forums."
+msgstr "Ja statistikat dhe temat popullore të forumeve tanë."
+
+#: includes/admin/topics.php:756
+msgid "Topic \"%1$s\" successfully approved."
+msgstr "Tema \"%1$s\" u miratua me sukses."
+
+#: includes/admin/topics.php:762
+msgid "Topic \"%1$s\" successfully unapproved."
+msgstr "Temës \"%1$s\" iu hoq me sukses miratimi."
+
+#: includes/replies/functions.php:1656
+msgctxt "Mark reply as pending"
+msgid "Pending"
+msgstr "Në pritje"
+
+#: includes/admin/topics.php:726
+msgid "Topic \"%1$s\" successfully stuck to front."
+msgstr "Tema \"%1$s\" u ngjit me sukses te faqja ballore."
+
+#: includes/admin/metaboxes.php:61
+msgid "%s Topic"
+msgid_plural "%s Topics"
+msgstr[0] "%s Temë"
+msgstr[1] "%s Tema"
+
+#. translators: user's display name
+#: includes/common/template.php:2714
+msgid "%s's Replies"
+msgstr "Përgjigje nga %s"
+
+#: includes/admin/tools.php:331
+msgid "Remove unpublished forums from user subscriptions"
+msgstr "Hiqi prej pajtimeve të përdoruesit forumet e pabotuar"
+
+#: includes/admin/topics.php:161
+msgid "You can also edit, spam, or move multiple topics to the trash at once. Select the topics you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Mundeni gjithashtu të përpunoni, t’u vini shenjë si të padëshiruara ose kaloni te hedhurinat shumë tema njëherësh. Duke përdorur kutizat, përzgjidhni temat mbi të cilat doni të kihet efekt, mandej përzgjidhni veprimin që doni të bëhet, prej menusë Veprime në Masë, dhe klikoni Zbatoje."
+
+#: includes/admin/tools.php:283
+msgid "Recount topics for each user"
+msgstr "Rinumëro temat për çdo përdorues"
+
+#: includes/admin/topics.php:208
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the topic belongs to. Select the forum or category from the dropdown, or leave the default \"No forum\" to post the topic without an assigned forum."
+msgstr "Pjesa <strong>Forum</strong> përcakton forumin mëmë të cilit i përket përgjigja. Përzgjidhni, te menuja hapmbyll, forum ose kategori, ose lini parazgjedhjen \"Pa forum\" që përgjigja të postohet pa e përshoqëruar me ndonjë forum."
+
+#: includes/admin/tools.php:319
+msgid "Remove unpublished topics from user subscriptions"
+msgstr "Hiqi prej pajtimeve të përdoruesit temat e pabotuara"
+
+#: includes/admin/tools.php:307
+msgid "Remove unpublished topics from user favorites"
+msgstr "Hiqi prej të parapëlqyerave të përdoruesit temat e pabotuara"
+
+#: includes/admin/tools.php:295
+msgid "Recount replies for each user"
+msgstr "Rinumëro përgjigjet për çdo përdorues"
+
+#: includes/admin/topics.php:132
+msgid "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, Closed, or Spam  topics. The default view is to show all topics."
+msgstr "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, Closed, or Spam  topics. The default view is to show all topics.Listën e temave mund ta filtroni sipas gjendjes së temës, duke përdorur lidhjet tekst në cepin e majtë sipër, për të shfaqur Krejt, Të botuara, Skica, Në pritje të Shqyrtimit, Shpënë në Hedhurina, Të mbyllura ose Të padëshiruara. Pamja parazgjedhje është të shfaqen krejt temat."
+
+#: templates/default/bbpress/form-reply-move.php:95
+msgid "You do not have permission to edit this reply."
+msgstr "Nuk keni leje të përpunoni këtë përgjigje."
+
+#: includes/topics/functions.php:2108
+msgid "<strong>Error</strong>: There was a problem approving the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në miratimin e temës."
+
+#: includes/topics/functions.php:2109
+msgid "<strong>Error</strong>: There was a problem unapproving the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në heqjen e miratimit të temës."
+
+#: includes/extend/buddypress/notifications.php:203
+msgid "<strong>Error</strong>: You do not have permission to mark notifications for that user."
+msgstr "<strong>Gabim</strong>: S’keni leje t’u vini shenjë njoftimeve për atë përdorues."
+
+#: includes/replies/functions.php:184
+msgid "<strong>Error</strong>: Topic ID cannot be a negative number."
+msgstr "<strong>Gabim</strong>: ID-ja e temës nuk mund të jetë numër negativ."
+
+#: includes/replies/functions.php:174
+msgid "<strong>Error</strong>: Topic ID must be a number."
+msgstr "<strong>Gabim</strong>: ID-ja e temës duhet të jetë numër."
+
+#: includes/replies/functions.php:188
+msgid "<strong>Error</strong>: Topic does not exist."
+msgstr "<strong>Gabim</strong>: Tema nuk ekziston."
+
+#: includes/replies/functions.php:211 includes/topics/functions.php:191
+msgid "<strong>Error</strong>: Forum ID must be a number."
+msgstr "<strong>Gabim</strong>: ID-ja e forumit duhet të jetë numër."
+
+#: includes/replies/functions.php:229 includes/topics/functions.php:209
+msgid "<strong>Error</strong>: Forum does not exist."
+msgstr "<strong>Gabim:</strong> Forumi s’ekziston."
+
+#: includes/replies/functions.php:225 includes/topics/functions.php:205
+msgid "<strong>Error</strong>: Forum ID cannot be a negative number."
+msgstr "<strong>Gabim</strong>: ID-ja e forumit s’mund të jetë numër negativ."
+
+#: includes/replies/functions.php:250 includes/replies/functions.php:586
+msgid "<strong>Error</strong>: This forum has been closed to new replies."
+msgstr "<strong>Gabim</strong>: Ky forum është i mbyllur për përgjigje të reja."
+
+#: includes/replies/functions.php:243 includes/replies/functions.php:579
+msgid "<strong>Error</strong>: This forum is a category. No replies can be created in this forum."
+msgstr "<strong>Gabim</strong>: Ky forum është një kategori. Në këtë forum s’mund të krijohen përgjigje."
+
+#: includes/replies/functions.php:341
+msgid "<strong>Error</strong>: Topic is closed."
+msgstr "<strong>Gabim</strong>: Tema është e mbyllur."
+
+#: includes/replies/functions.php:1262
+msgid "<strong>Error</strong>: You need to choose a valid move option."
+msgstr "<strong>Gabim</strong>: Lypset të zgjidhni një mundësi të vlefshme lëvizjeje."
+
+#: includes/replies/functions.php:1241
+msgid "<strong>Error</strong>: The topic you want to move from was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet tema prej së cilës doni të lëvizni."
+
+#: includes/replies/functions.php:1231
+msgid "<strong>Error</strong>: The reply you want to move was not found."
+msgstr "<strong>Gabim</strong>: Përgjigja që doni të lëvizni, s’u gjet."
+
+#: includes/users/functions.php:196 includes/users/functions.php:202
+#: includes/users/functions.php:380 includes/users/engagements.php:612
+#: includes/users/engagements.php:853 includes/forums/functions.php:126
+#: includes/forums/functions.php:393 includes/replies/functions.php:134
+#: includes/replies/functions.php:527 includes/replies/functions.php:1246
+#: includes/extend/buddypress/notifications.php:199
+#: includes/extend/buddypress/groups.php:531
+#: includes/extend/buddypress/groups.php:688 includes/topics/functions.php:105
+#: includes/topics/functions.php:468 includes/topics/functions.php:1091
+#: includes/topics/functions.php:1366 includes/topics/functions.php:1702
+#: includes/topics/functions.php:1746 includes/topics/functions.php:1807
+msgid "<strong>Error</strong>: Are you sure you wanted to do that?"
+msgstr "<strong>Gabim:</strong> Jeni i sigurt se doni ta bëni këtë?"
+
+#: includes/forums/functions.php:165 includes/forums/functions.php:454
+msgid "<strong>Error</strong>: Your forum needs a title."
+msgstr "<strong>Gabim</strong>: Forumi juaj lyp një titull."
+
+#: includes/forums/functions.php:184 includes/forums/functions.php:473
+msgid "<strong>Error</strong>: Your forum description cannot be empty."
+msgstr "<strong>Gabim</strong>: Përshkrimi i forumit tuaj s’mund jetë i zbrazët."
+
+#: includes/forums/functions.php:199
+msgid "<strong>Error</strong>: Your forum must have a parent."
+msgstr "<strong>Gabim</strong>: Forumi juaj duhet të ketë një mëmë."
+
+#: includes/forums/functions.php:206
+msgid "<strong>Error</strong>: This forum is a category. No forums can be created in this forum."
+msgstr "<strong>Gabim</strong>: Ky forum është një kategori. Në këtë forum s’mund të krijohen forume."
+
+#: includes/forums/functions.php:211 includes/forums/functions.php:429
+msgid "<strong>Error</strong>: This forum has been closed to new forums."
+msgstr "<strong>Gabim</strong>: Ky forum është i mbyllur për forume të rinj."
+
+#: includes/forums/functions.php:216 includes/forums/functions.php:434
+msgid "<strong>Error</strong>: This forum is private and you do not have the capability to read or create new forums in it."
+msgstr "<strong>Gabim</strong>: Ky forum është privat dhe nuk e gëzoni aftësinë e leximit ose krijimit të forumeve të rinj në të."
+
+#: includes/forums/functions.php:221 includes/forums/functions.php:439
+msgid "<strong>Error</strong>: This forum is hidden and you do not have the capability to read or create new forums in it."
+msgstr "<strong>Gabim</strong>: Ky forum është i fshehur dhe nuk e gëzoni aftësinë e leximit ose krijimit të forumeve të rinj në të."
+
+#: includes/forums/functions.php:234
+msgid "<strong>Error</strong>: This forum already exists."
+msgstr "<strong>Gabim</strong>: Ka tashmë një forum të tillë."
+
+#: includes/forums/functions.php:240
+msgid "<strong>Error</strong>: Your forum cannot be created at this time."
+msgstr "<strong>Gabim</strong>: Forumi juaj s’mund të krijohet në këtë kohë."
+
+#: includes/forums/functions.php:398
+msgid "<strong>Error</strong>: The forum you want to edit was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet forumi që doni të përpunoni."
+
+#: includes/forums/functions.php:403
+msgid "<strong>Error</strong>: You do not have permission to edit that forum."
+msgstr "<strong>Gabim:</strong> S’keni leje për përpunim të këtij forumi."
+
+#: includes/forums/functions.php:479
+msgid "<strong>Error</strong>: Your forum cannot be edited at this time."
+msgstr "<strong>Gabim</strong>: Forumi juaj s’mund të përpunohet në këtë kohë."
+
+#: includes/forums/functions.php:382
+msgid "<strong>Error</strong>: Forum ID not found."
+msgstr "<strong>Gabim</strong>: S’u gjet ID-ja e forumit."
+
+#: includes/forums/functions.php:140
+msgid "<strong>Error</strong>: You do not have permission to create new forums."
+msgstr "<strong>Gabim</strong>: S’keni leje të krijoni forume të rinj."
+
+#: includes/replies/functions.php:401 includes/replies/functions.php:721
+msgid "<strong>Error</strong>: There was a problem adding the tags to the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në shtimin e etiketave te tema."
+
+#: includes/topics/functions.php:259
+msgid "<strong>Error</strong>: Your topic cannot be created at this time."
+msgstr "<strong>Gabim</strong>: Tema juaj s’mund të krijohet në këtë kohë."
+
+#: includes/topics/functions.php:555
+msgid "<strong>Error</strong>: Your topic cannot be edited at this time."
+msgstr "<strong>Gabim</strong>: Tema juaj s’mund të përpunohet në këtë kohë."
+
+#: includes/replies/functions.php:631
+msgid "<strong>Error</strong>: Your reply cannot be edited at this time."
+msgstr "<strong>Gabim</strong>: Përgjigja juaj s’mund të përpunohet në këtë kohë."
+
+#: includes/replies/functions.php:316
+msgid "<strong>Error</strong>: Your reply cannot be created at this time."
+msgstr "<strong>Gabim</strong>: Përgjigja juaj s’mund të krijohet në këtë kohë."
+
+#: includes/replies/functions.php:159
+msgid "<strong>Error</strong>: You do not have permission to reply."
+msgstr "<strong>Gabim:</strong> S’keni leje për t’u përgjigjur."
+
+#: includes/replies/functions.php:170
+msgid "<strong>Error</strong>: Topic ID is missing."
+msgstr "<strong>Gabim</strong>: Mungon ID-ja e temës."
+
+#: includes/replies/functions.php:207 includes/replies/functions.php:221
+#: includes/topics/functions.php:187 includes/topics/functions.php:201
+#: includes/topics/functions.php:483
+msgid "<strong>Error</strong>: Forum ID is missing."
+msgstr "<strong>Gabim</strong>: Mungon ID-ja e forumit."
+
+#: includes/replies/functions.php:298 includes/replies/functions.php:625
+msgid "<strong>Error</strong>: Your reply cannot be empty."
+msgstr "<strong>Gabim</strong>: Përgjigja juaj s’mund jetë e zbrazët."
+
+#: includes/forums/functions.php:228 includes/replies/functions.php:304
+#: includes/topics/functions.php:247
+msgid "<strong>Error</strong>: Slow down; you move too fast."
+msgstr "<strong>Gabim</strong>: Më ngadalë; po ecni shumë shpejt."
+
+#: includes/replies/functions.php:544
+msgid "<strong>Error</strong>: You do not have permission to edit that reply."
+msgstr "<strong>Gabim:</strong> S’keni leje për përpunim të kësaj përgjigjeje."
+
+#: includes/replies/functions.php:255 includes/replies/functions.php:591
+msgid "<strong>Error</strong>: This forum is private and you do not have the capability to read or create new replies in it."
+msgstr "<strong>Gabim</strong>: Ky forum është privat dhe nuk e gëzoni aftësinë e leximit ose krijimit të përgjigjeve të reja në të."
+
+#: includes/replies/functions.php:259 includes/replies/functions.php:595
+msgid "<strong>Error</strong>: This forum is hidden and you do not have the capability to read or create new replies in it."
+msgstr "<strong>Gabim</strong>: Ky forum është i fshehur dhe nuk e gëzoni aftësinë e leximit ose krijimit të përgjigjeve të reja në të."
+
+#: includes/topics/functions.php:158 includes/topics/functions.php:530
+msgid "<strong>Error</strong>: Your topic needs a title."
+msgstr "<strong>Gabim</strong>: Tema juaj lyp një titull."
+
+#: includes/topics/functions.php:177 includes/topics/functions.php:549
+msgid "<strong>Error</strong>: Your topic cannot be empty."
+msgstr "<strong>Gabim</strong>: Tema juaj s’mund jetë e zbrazët."
+
+#: includes/topics/functions.php:223
+msgid "<strong>Error</strong>: This forum is a category. No topics can be created in this forum."
+msgstr "<strong>Gabim</strong>: Ky forum është një kategori. Në këtë forum s’mund të krijohen tema."
+
+#: includes/topics/functions.php:230 includes/topics/functions.php:505
+msgid "<strong>Error</strong>: This forum has been closed to new topics."
+msgstr "<strong>Gabim</strong>: Ky forum është i mbyllur për tema të reja."
+
+#: includes/topics/functions.php:235 includes/topics/functions.php:510
+msgid "<strong>Error</strong>: This forum is private and you do not have the capability to read or create new topics in it."
+msgstr "<strong>Gabim</strong>: Ky forum është privat dhe nuk e gëzoni aftësinë e leximit ose krijimit të temave të reja në të."
+
+#: includes/topics/functions.php:239 includes/topics/functions.php:514
+msgid "<strong>Error</strong>: This forum is hidden and you do not have the capability to read or create new topics in it."
+msgstr "<strong>Gabim</strong>: Ky forum është i fshehur dhe nuk e gëzoni aftësinë e leximit ose krijimit të temave të reja në të."
+
+#: includes/topics/functions.php:452
+msgid "<strong>Error</strong>: You do not have permission to edit that topic."
+msgstr "<strong>Gabim:</strong> S’keni leje për përpunim të kësaj teme."
+
+#: includes/topics/functions.php:498
+msgid "<strong>Error</strong>: This forum is a category. No topics can be created in it."
+msgstr "<strong>Gabim</strong>: Ky forum është një kategori. Në të s’mund të krijohen tema."
+
+#: includes/topics/functions.php:1382
+msgid "<strong>Error</strong>: You need to choose a valid split option."
+msgstr "<strong>Gabim</strong>: Lypset të zgjidhni një mundësi të vlefshme ndarjeje."
+
+#: includes/replies/functions.php:1344 includes/topics/functions.php:1448
+msgid "<strong>Error</strong>: There was a problem converting the reply into the topic. Please try again."
+msgstr "<strong>Gabim</strong>: Pati një problem në shndërrimin e përgjigjes në temë. Ju lutemi, riprovoni."
+
+#: includes/topics/functions.php:1690
+msgid "<strong>Error</strong>: The following problem(s) have been found while getting the tag: %s"
+msgstr "<strong>Gabim</strong>: U gjetën problemet vijuese teksa merrej etiketa: %s"
+
+#: includes/topics/functions.php:1714 includes/topics/functions.php:1758
+msgid "<strong>Error</strong>: You need to enter a tag name."
+msgstr "<strong>Gabim</strong>: Lypset të futni një emër etikete."
+
+#: includes/topics/functions.php:1822
+msgid "<strong>Error</strong>: The following problem(s) have been found while deleting the tag: %s"
+msgstr "<strong>Gabim</strong>: U gjet problemi(et) vijues teksa fshihej etiketa: %s"
+
+#: includes/topics/functions.php:1769 includes/topics/functions.php:1790
+msgid "<strong>Error</strong>: The following problem(s) have been found while merging the tags: %s"
+msgstr "<strong>Gabim</strong>: U gjet problemi(et) vijues teksa përziheshin etiketat: %s"
+
+#: includes/topics/functions.php:1729
+msgid "<strong>Error</strong>: The following problem(s) have been found while updating the tag: %s"
+msgstr "<strong>Gabim</strong>: U gjet problemi(et) vijues teksa përditësohej etiketa: %s"
+
+#: includes/topics/functions.php:2126
+msgid "<strong>Error</strong>: There was a problem closing the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në mbylljen e temës."
+
+#: includes/topics/functions.php:2127
+msgid "<strong>Error</strong>: There was a problem opening the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në hapjen e temës."
+
+#: includes/topics/functions.php:2145
+msgid "<strong>Error</strong>: There was a problem unsticking the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në anulimin e fiksimit të temës."
+
+#: includes/topics/functions.php:2146
+msgid "<strong>Error</strong>: There was a problem sticking the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në fiksimin e temës."
+
+#: includes/topics/functions.php:2164
+msgid "<strong>Error</strong>: There was a problem unmarking the topic as spam."
+msgstr "<strong>Gabim</strong>: Pati një problem në heqjen e shenjës temës si e padëshiruar."
+
+#: includes/topics/functions.php:2165
+msgid "<strong>Error</strong>: There was a problem marking the topic as spam."
+msgstr "<strong>Gabim</strong>: Pati një problem në vënien shenjë temës si e padëshiruar."
+
+#: includes/topics/functions.php:2178
+msgid "<strong>Error</strong>: There was a problem trashing the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në shpënien e temës te hedhurinat."
+
+#: includes/topics/functions.php:2189
+msgid "<strong>Error</strong>: There was a problem untrashing the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në heqjen e temës nga hedhurinat."
+
+#: includes/topics/functions.php:2198
+msgid "<strong>Error</strong>: There was a problem deleting the topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në fshirjen e temës."
+
+#: includes/topics/functions.php:1778
+msgid "<strong>Error</strong>: The tags which are being merged can not be the same."
+msgstr "<strong>Gabim</strong>: Etiketat që përzihen, s’mund të jenë të njëjta."
+
+#: includes/topics/functions.php:1361
+msgid "<strong>Error</strong>: The topic you want to split was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet tema të cilën doni ta ndani."
+
+#: includes/topics/functions.php:1351
+msgid "<strong>Error</strong>: The reply you want to split from was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet përgjigje prej nga e cila doni të ndahet."
+
+#: includes/topics/functions.php:1117
+msgid "<strong>Error</strong>: The topic you want to merge to was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet tema te e cila doni të përzieni."
+
+#: includes/topics/functions.php:1110
+msgid "<strong>Error</strong>: Destination topic ID not found."
+msgstr "<strong>Gabim</strong>: S’u gjet ID teme vendmbërritje."
+
+#: includes/topics/functions.php:1096
+msgid "<strong>Error</strong>: The topic you want to merge was not found."
+msgstr "<strong>Gabim</strong>: S’u gjet tema të cilën doni të përzieni."
+
+#: includes/topics/functions.php:441
+msgid "<strong>Error</strong>: The topic you want to edit was not found."
+msgstr "<strong>Gabim</strong>: Tema që doni të përpunoni, s’u gjet."
+
+#: includes/topics/functions.php:430 includes/topics/functions.php:1084
+msgid "<strong>Error</strong>: Topic ID not found."
+msgstr "<strong>Gabim</strong>: S’u gjet ID teme."
+
+#: includes/topics/functions.php:132
+msgid "<strong>Error</strong>: You do not have permission to create new topics."
+msgstr "<strong>Gabim</strong>: S’keni leje të krijoni tema të reja."
+
+#: includes/replies/functions.php:533
+msgid "<strong>Error</strong>: The reply you want to edit was not found."
+msgstr "<strong>Gabim</strong>: Përgjigja që doni të përpunoni, s’u gjet."
+
+#: includes/replies/functions.php:516
+msgid "<strong>Error</strong>: Reply ID not found."
+msgstr "<strong>Gabim</strong>: S’u gjet ID përgjigjeje."
+
+#: includes/users/engagements.php:659
+msgid "<strong>Error</strong>: There was a problem favoriting that topic."
+msgstr "<strong>Gabim</strong>: Pati një problem në vënien shenjë këtij forumi si i parapëlqyer!"
+
+#: includes/extend/buddypress/notifications.php:95
+msgid "You have %1$d new reply to %2$s from %3$s"
+msgstr "Keni %1$d përgjigje të re te %2$s nga %3$s"
+
+#: includes/extend/buddypress/notifications.php:96
+msgid "You have %1$d new reply to %2$s"
+msgstr "Keni %1$d përgjigje të re te %2$s"
+
+#: templates/default/bbpress/form-search.php:21
+#: templates/default/bbpress/form-topic-search.php:20
+#: templates/default/bbpress/form-reply-search.php:20
+#: includes/search/template.php:175 includes/common/template.php:2446
+#: includes/admin/settings.php:230 includes/admin/settings.php:400
+msgid "Search"
+msgstr "Kërkoni"
+
+#: includes/admin/topics.php:167 includes/admin/topics.php:220
+#: includes/admin/replies.php:161 includes/admin/replies.php:215
+#: includes/admin/settings.php:1937 includes/admin/tools/help.php:43
+#: includes/admin/tools/help.php:72 includes/admin/tools/help.php:130
+#: includes/admin/forums.php:144 includes/admin/forums.php:200
+msgid "For more information:"
+msgstr "Për më tepër të dhëna:"
+
+#: includes/admin/topics.php:119 includes/admin/replies.php:115
+#: includes/admin/settings.php:1871 includes/admin/tools/help.php:95
+#: includes/admin/forums.php:101
+msgid "Overview"
+msgstr "Përmbledhje"
+
+#: includes/admin/classes/class-bbp-admin.php:727
+msgid "Settings"
+msgstr "Rregullime"
+
+#: templates/default/bbpress/form-user-edit.php:161
+#: includes/admin/settings.php:1533
+msgid "Save Changes"
+msgstr "Ruaji Ndryshimet"
+
+#: templates/default/bbpress/loop-replies.php:21
+#: templates/default/bbpress/loop-replies.php:47
+#: templates/default/bbpress/loop-topics.php:22
+#: templates/default/bbpress/loop-forums.php:24
+#: includes/admin/settings.php:2024
+msgid "Posts"
+msgstr "Postime"
+
+#: includes/admin/settings.php:2028
+msgid "Menus"
+msgstr "Menu"
+
+#: includes/admin/metaboxes.php:317 includes/admin/metaboxes.php:318
+#: includes/admin/metaboxes.php:404
+msgid "Type:"
+msgstr "Lloj:"
+
+#: includes/admin/metaboxes.php:613
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/admin/settings.php:1893
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "Duhet të klikoni te butoni Ruaji Ndryshimet në fund të ekranit, që të hyjnë në veprim rregullimet e reja."
+
+#: templates/default/bbpress/form-user-edit.php:60
+#: includes/admin/metaboxes.php:620
+msgid "Website"
+msgstr "Sajt"
+
+#: templates/default/bbpress/form-user-edit.php:17
+#: templates/default/bbpress/form-user-edit.php:22
+#: includes/admin/metaboxes.php:608
+msgid "Name"
+msgstr "Emër"
+
+#: includes/admin/classes/class-bbp-admin.php:1066
+#: includes/admin/classes/class-bbp-admin.php:1140
+msgid "Credits"
+msgstr "Kredite"
+
+#: includes/admin/metaboxes.php:376
+msgid "Order:"
+msgstr "Rend:"
+
+#: includes/admin/metaboxes.php:628
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/replies.php:664
+msgid "Title"
+msgstr "Titull"
+
+#: includes/admin/settings.php:2025
+msgid "Pages"
+msgstr "Faqe"
+
+#: includes/admin/settings.php:1879
+msgid "Main Settings"
+msgstr "Rregullimet Kryesore"
+
+#: includes/admin/classes/class-bbp-converter.php:162
+#: includes/admin/settings.php:1794
+msgid "Start"
+msgstr "Start"
+
+#: templates/default/bbpress/user-details.php:57
+#: includes/extend/buddypress/loader.php:247 includes/admin/topics.php:450
+#: includes/admin/settings.php:198 includes/admin/tools/common.php:449
+msgid "Favorites"
+msgstr "Të parapëlqyer"
+
+#: templates/default/bbpress/loop-search-forum.php:25
+#: templates/default/bbpress/form-topic.php:124
+#: includes/extend/buddypress/groups.php:1347 includes/admin/metaboxes.php:431
+#: includes/admin/metaboxes.php:495 includes/topics/template.php:65
+msgid "Forum:"
+msgstr "Forum:"
+
+#: templates/default/bbpress/loop-forums.php:20 includes/forums/template.php:50
+#: includes/extend/buddypress/groups.php:51
+#: includes/extend/buddypress/groups.php:52 includes/admin/actions.php:192
+#: includes/admin/actions.php:204 includes/admin/topics.php:855
+#: includes/admin/replies.php:665 includes/admin/settings.php:352
+#: includes/admin/metaboxes.php:113 includes/admin/metaboxes.php:432
+#: includes/admin/metaboxes.php:496 includes/admin/forums.php:537
+msgid "Forum"
+msgid_plural "Forums"
+msgstr[0] "Forum"
+msgstr[1] ""
+
+#: templates/default/bbpress/content-statistics.php:30
+#: templates/default/bbpress/loop-forums.php:21
+#: includes/forums/template.php:2660
+#: includes/extend/buddypress/activity.php:197
+#: includes/extend/buddypress/activity.php:391 includes/admin/actions.php:180
+#: includes/admin/topics.php:854 includes/admin/settings.php:281
+#: includes/admin/settings.php:302 includes/admin/tools/common.php:437
+#: includes/admin/forums.php:538 includes/topics/template.php:47
+#: includes/topics/template.php:48
+msgid "Topics"
+msgstr "Tema"
+
+#: templates/default/bbpress/user-profile.php:34
+#: templates/default/bbpress/content-statistics.php:25
+#: includes/forums/template.php:48 includes/forums/template.php:49
+#: includes/forums/template.php:67 includes/common/widgets.php:626
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:189
+#: includes/extend/buddypress/loader.php:311
+#: includes/extend/buddypress/loader.php:376 includes/admin/tools.php:30
+#: includes/admin/classes/class-bbp-admin.php:467
+#: includes/admin/classes/class-bbp-admin.php:468
+#: includes/admin/classes/class-bbp-admin.php:477
+#: includes/admin/classes/class-bbp-admin.php:478
+#: includes/admin/tools/common.php:434 includes/admin/users.php:93
+msgid "Forums"
+msgstr "Forume"
+
+#: includes/admin/classes/class-bbp-admin.php:834
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "Mentë"
+
+#: includes/admin/classes/class-bbp-admin.php:843
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "E gjelbër e përjetshme"
+
+#: includes/admin/settings.php:798
+msgid "Allow users to subscribe to forums and topics"
+msgstr "Lejojuni përdoruesve të pajtohen te forume dhe tema"
+
+#: includes/admin/classes/class-bbp-admin.php:1087
+msgid "Converters"
+msgstr "Shndërrues"
+
+#: includes/admin/classes/class-bbp-admin.php:1103
+msgid "bbPress fully supports automatic translation updates."
+msgstr "bbPress mbulon plotësisht përditësime të vetvetishme të përkthimit."
+
+#: includes/admin/classes/class-bbp-admin.php:1071
+msgid "Forum Subscriptions"
+msgstr "Pajtime Në Forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1075
+msgid "Subscribe to Forums"
+msgstr "Pajtohuni te Forumet"
+
+#: includes/admin/classes/class-bbp-admin.php:1076
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "Tani përdoruesit tuaj mund të pajtohen te tema të reja në forume të dhënë."
+
+#: includes/admin/classes/class-bbp-admin.php:1080
+msgid "Manage Subscriptions"
+msgstr "Administroni Pajtimet"
+
+#: includes/admin/classes/class-bbp-admin.php:1081
+msgid "Your users can manage all of their subscriptions in one convenient location."
+msgstr "Përdoruesit tuaj mund të administrojnë krejt pajtimet e tyre që nga një vend i përshtatshëm."
+
+#: includes/admin/classes/class-bbp-admin.php:1097
+msgid "Theme Compatibility"
+msgstr "Përputhshmëri Teme"
+
+#: includes/admin/classes/class-bbp-admin.php:1098
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "Trajtim më i mirë i stileve dhe programtheve, kur vjen puna për gjedhet"
+
+#: includes/admin/classes/class-bbp-admin.php:1102
+msgid "Polyglot support"
+msgstr "Mbulim për shumëgjuhësh"
+
+#: includes/admin/classes/class-bbp-admin.php:1107
+msgid "User capabilities"
+msgstr "Aftësi përdoruesi"
+
+#: includes/admin/classes/class-bbp-admin.php:1182
+msgid "Feature Developer"
+msgstr "Zhvillues Veçorish"
+
+#: includes/admin/metaboxes.php:418
+msgid "Select whether to open or close the topic."
+msgstr "Përzgjidhni hapjen ose mbylljen e temës. "
+
+#: includes/admin/metaboxes.php:627
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/settings.php:870
+msgid "Allow forum wide search"
+msgstr "Lejoni kërkime në tërë forumin"
+
+#: includes/admin/settings.php:29
+msgid "Forum User Settings"
+msgstr "Rregullime Përdoruesish Forumi"
+
+#: includes/admin/settings.php:34
+msgid "Forum Features"
+msgstr "Veçori Forumi"
+
+#: includes/admin/settings.php:238
+msgid "Post Formatting"
+msgstr "Formatim Postimesh"
+
+#: includes/admin/settings.php:770
+msgid "Forum features that can be toggled on and off"
+msgstr "Veçori forumi që mund të aktivizohen dhe çaktivizohen"
+
+#: includes/admin/settings.php:934
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "Shtoni te fusha teksti panele & butona në ndihmë të formatimeve HTML"
+
+#: includes/admin/settings.php:753
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "Jepu vetvetiu vizitorëve të regjistruar rolin %s në forum"
+
+#: includes/admin/settings.php:905
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "Aktivizo rrjedha përgjigjesh (njëri brenda tjetrit) %s shkallë thellë"
+
+#: includes/admin/settings.php:176
+msgid "Reply Threading"
+msgstr "Sistemim Përgjigjesh Në Rrjedha"
+
+#: includes/admin/settings.php:2098
+msgid "Possible %1$s conflict: %2$s"
+msgstr "Përplasje e mundshme %1$s: %2$s"
+
+#: templates/default/bbpress/form-reply.php:129
+#: includes/admin/metaboxes.php:535
+msgid "Reply To:"
+msgstr "Përgjigjuni Te:"
+
+#: includes/admin/metaboxes.php:536
+msgid "Reply To"
+msgstr "Përgjigjuni Te"
+
+#: includes/admin/replies.php:204
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>Përgjigjuni Te</strong> përcakton rrjedhën e përgjigjes."
+
+#: includes/admin/settings.php:39
+msgid "Forum Theme Packages"
+msgstr "Paketa Temash Forumi"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per Page"
+msgstr "Tema dhe Përgjigje Për Faqe"
+
+#: includes/admin/settings.php:54
+msgid "Forum Root Slug"
+msgstr "Identifikues Rrënje Forumi"
+
+#: includes/admin/settings.php:64
+msgid "Forum User Slugs"
+msgstr "Identifikues Përdoruesish Forumi"
+
+#: includes/admin/settings.php:323
+msgid "Forum Root"
+msgstr "Rrënjë Forumi"
+
+#: includes/admin/settings.php:339
+msgid "Forum root should show"
+msgstr "Rrënja e forumit duhet të shfaqë"
+
+#: includes/admin/settings.php:376
+msgid "Topic View"
+msgstr "Parje Teme"
+
+#: includes/admin/settings.php:413
+msgid "User Base"
+msgstr "Bazë Përdoruesi"
+
+#: includes/admin/settings.php:1098
+msgid "Customize your Forums root. Partner with a WordPress Page and use Shortcodes for more flexibility."
+msgstr "Përshtatni rrënjën tuaj të Forumeve. Bëhuni bashkë me një Faqe WordPress Page dhe përdorni Kode të Shkurtër për më tepër zhdërvjelltësi."
+
+#: includes/admin/settings.php:1145
+msgid "Forum Index"
+msgstr "Tregues Forumi"
+
+#: includes/admin/settings.php:1185
+msgid "Customize your user profile slugs."
+msgstr "Përshtatni identifikues profilesh të përdoruesve tuaj."
+
+#: bbpress.php:711
+msgid "Most popular topics"
+msgstr "Temat më popullore"
+
+#: bbpress.php:600
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "Mbyllur <span class=\"count\">(%s)</span>"
+msgstr[1] "Mbyllur <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:627
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "Jetim <span class=\"count\">(%s)</span>"
+msgstr[1] "Jetimë <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:641
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "E fshehur <span class=\"count\">(%s)</span>"
+msgstr[1] "Të fshehura <span class=\"count\">(%s)</span>"
+
+#: templates/default/bbpress/form-forum.php:144
+#: includes/admin/settings.php:1447 includes/admin/metaboxes.php:369
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; S&apos;ka mëmë &mdash;"
+
+#: includes/admin/metaboxes.php:635
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/classes/class-bbp-admin.php:1144
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "bbPress është krijuar nga një zgjua mbarëbotëror bletësh punëtore, shumë punëtore."
+
+#: includes/admin/classes/class-bbp-admin.php:1146
+msgid "Project Leaders"
+msgstr "Udhëheqës Projekti"
+
+#: includes/admin/classes/class-bbp-admin.php:1150
+msgid "Founding Developer"
+msgstr "Programues Themelues"
+
+#: includes/admin/classes/class-bbp-admin.php:1154
+msgid "Lead Developer"
+msgstr "Udhëheqës Zhvillimi"
+
+#: includes/admin/classes/class-bbp-admin.php:1166
+msgid "Contributing Developers"
+msgstr "Zhvillues Me Kontribut"
+
+#: includes/admin/settings.php:222
+msgid "Topic tags"
+msgstr "Etiketa teme"
+
+#: includes/admin/settings.php:168
+msgid "Auto-embed links"
+msgstr "Vetë-trupëzo lidhje"
+
+#: includes/admin/settings.php:1523
+msgid "Forums Settings"
+msgstr "Rregullime Forumesh"
+
+#: includes/admin/settings.php:1663
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "Pak parametra opsionalë për të ndihmuar në përimtimin e procesit të shndërrimit."
+
+#: includes/admin/tools.php:139
+msgid "Recalculate private and hidden forums"
+msgstr "Rinjehso forume privatë dhe të fshehur"
+
+#: includes/admin/classes/class-bbp-admin.php:1114
+#: includes/admin/classes/class-bbp-admin.php:1254
+msgid "Go to Forum Settings"
+msgstr "Shkoni te Rregullime Forumi"
+
+#: includes/admin/classes/class-bbp-admin.php:1036
+msgid "Welcome to bbPress %s"
+msgstr "Mirëse vini te bbPress %s"
+
+#: includes/admin/classes/class-bbp-admin.php:490
+#: includes/admin/classes/class-bbp-admin.php:491
+#: includes/admin/classes/class-bbp-admin.php:499
+#: includes/admin/classes/class-bbp-admin.php:500
+msgid "Welcome to bbPress"
+msgstr "Mirë se vini në bbPress"
+
+#: includes/admin/forums.php:139
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected forums at once. To remove a forum from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Kur përdoret Përpunimi Në Masë, mund të ndryshoni tejtëdhëna (kategori, autorë, etj.), njëherësh për krejt forumet e përzgjedhur. Për ta hequr një forum nga grupimi, thjesht klikoni mbi x-in në krah të emrit të tij, te fusha e Përpunimit Në Masë që duket aty."
+
+#: includes/admin/settings.php:593
+msgid "Start Over"
+msgstr "Fillojani Nga e Para"
+
+#: includes/admin/settings.php:83 includes/admin/tools/help.php:104
+msgid "Database Settings"
+msgstr "Rregullime Baze të Dhënash"
+
+#: includes/admin/forums.php:138
+msgid "You can also edit or move multiple forums to the trash at once. Select the forums you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Mundeni gjithashtu të përpunoni ose kaloni te hedhurinat shumë forume njëherësh. Duke përdorur kutizat, përzgjidhni forumet mbi të cilët doni të kihet efekt, mandej përzgjidhni veprimin që doni të bëhet, prej menusë Veprime në Masë, dhe klikoni Zbatoje."
+
+#: includes/admin/settings.php:993
+msgid "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and replies"
+msgstr "Trupëzoni media (YouTube, Twitter, Flickr, etj...) drejt e në tema dhe përgjigje"
+
+#: includes/admin/settings.php:826
+msgid "Allow topics to have tags"
+msgstr "Lejojini temat të kenë etiketa"
+
+#: includes/admin/forums.php:186
+msgid "<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "<strong>Gjendje</strong> ju lejon të mbyllni një forum ndaj temash dhe forumesh të rinj."
+
+#: includes/admin/classes/class-bbp-admin.php:732
+msgid "About"
+msgstr "Rreth"
+
+#: includes/admin/tools.php:550 includes/admin/tools/help.php:66
+msgid "Reset Forums"
+msgstr "Riktheji Forumet Te Parazgjedhjet"
+
+#: includes/admin/settings.php:541
+msgid "Database Password"
+msgstr "Fjalëkalim Baze të Dhënash"
+
+#: includes/admin/tools.php:541
+msgid "Import Forums"
+msgstr "Importoni Forume"
+
+#: includes/admin/settings.php:1650
+msgid "Name of the database with your old forum data"
+msgstr "Emër baze të dhënash me të dhënat e forumit tuaj të vjetër"
+
+#: includes/admin/settings.php:1692
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "Mbajeni të ulët këtë vlerë, nëse hasni probleme pamjaftueshmërie kujtese."
+
+#: includes/admin/settings.php:1707
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "Mbajeni të lartë këtë vlerë, për të parandaluar probleme të llojit shumë-lidhje."
+
+#: includes/admin/settings.php:88
+msgid "Options"
+msgstr "Mundësi"
+
+#: templates/default/bbpress/user-details.php:67
+#: includes/extend/buddypress/loader.php:260 includes/admin/topics.php:480
+#: includes/admin/settings.php:206 includes/admin/settings.php:445
+#: includes/admin/tools/common.php:452 includes/admin/forums.php:267
+msgid "Subscriptions"
+msgstr "Pajtime"
+
+#: includes/extend/buddypress/loader.php:346 includes/admin/settings.php:437
+msgid "Favorite Topics"
+msgstr "Tema të Parapëlqyera"
+
+#: bbpress.php:146 bbpress.php:153
+msgid "Cheatin&#8217; huh?"
+msgstr "Po bëni me hile, hë?"
+
+#: includes/admin/classes/class-bbp-admin.php:514
+#: includes/admin/classes/class-bbp-admin.php:515
+#: includes/admin/classes/class-bbp-admin.php:536
+#: includes/admin/classes/class-bbp-admin.php:537
+#: includes/admin/classes/class-bbp-admin.php:1319
+#: includes/admin/classes/class-bbp-admin.php:1417
+msgid "Update Forums"
+msgstr "Përditëso Forumet"
+
+#: includes/admin/settings.php:268
+msgid "Current Package"
+msgstr "Paketa e Tanishme"
+
+#: includes/admin/settings.php:487
+msgid "Use Akismet"
+msgstr "Përdor Akismet-in"
+
+#: includes/admin/classes/class-bbp-admin.php:1275
+#: includes/admin/classes/class-bbp-admin.php:1298
+msgid "Update Forum"
+msgstr "Përditëso Forumin"
+
+#: includes/admin/classes/class-bbp-admin.php:1287
+#: includes/admin/classes/class-bbp-admin.php:1337
+msgid "All done!"
+msgstr "Kaq qe!"
+
+#: includes/admin/classes/class-bbp-admin.php:1398
+msgid "Next Forums"
+msgstr "Forumet Pasues"
+
+#: includes/admin/settings.php:501
+msgid "Select Platform"
+msgstr "Përzgjidhni Platformë"
+
+#: includes/admin/settings.php:509
+msgid "Database Server"
+msgstr "Shërbyes Baze të Dhënash"
+
+#: includes/admin/settings.php:517
+msgid "Database Port"
+msgstr "Portë Baze të Dhënash"
+
+#: includes/admin/settings.php:533
+msgid "Database User"
+msgstr "Përdorues Baze të Dhënash"
+
+#: includes/admin/settings.php:525
+msgid "Database Name"
+msgstr "Emër Baze të Dhënave"
+
+#: includes/admin/settings.php:549
+msgid "Table Prefix"
+msgstr "Parashtesë Tabele"
+
+#: includes/admin/settings.php:561
+msgid "Rows Limit"
+msgstr "Kufi Rreshtash"
+
+#: includes/admin/settings.php:569
+msgid "Delay Time"
+msgstr "Kohë Vonese"
+
+#: includes/admin/settings.php:577
+msgid "Convert Users"
+msgstr "Shndërroni Përdorues"
+
+#: includes/admin/replies.php:117
+msgid "This screen provides access to all of your replies. You can customize the display of this screen to suit your workflow."
+msgstr "Kjo skenë ju lejon trajtim të krejt postimeve tuaja. Mund të personalizoni paraqitjen e kësaj skene që ta përshtatni me rrjedhën tuaj të punës."
+
+#: includes/admin/topics.php:127 includes/admin/replies.php:123
+#: includes/admin/forums.php:109
+msgid "Screen Content"
+msgstr "Lëndë Skene"
+
+#: includes/admin/topics.php:129 includes/admin/replies.php:125
+#: includes/admin/forums.php:111
+msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
+msgstr "Shfaqjen e lëndës së kësaj skene mund ta përshtatni sipas disa mënyrash:"
+
+#: includes/admin/replies.php:127
+msgid "You can hide/display columns based on your needs and decide how many replies to list per screen using the Screen Options tab."
+msgstr "Duke përdorur skedën e Mundësive për Skenën, mund të fshihni/shfaqni shtyllat sipas nevojave tuaja dhe të vendosni se sa përgjigje për skenë të tregohen."
+
+#: includes/admin/topics.php:141 includes/admin/replies.php:137
+#: includes/admin/forums.php:122
+msgid "Available Actions"
+msgstr "Veprime të Mundshme"
+
+#: includes/admin/forums.php:126
+msgid "<strong>Edit</strong> takes you to the editing screen for that forum. You can also reach that screen by clicking on the forum title."
+msgstr "<strong>Përpunimi</strong> ju shpie te skena e përpunimit për atë forum. Te skena mund të shkoni edhe duke klikuar mbi titullin e forumit."
+
+#: includes/admin/forums.php:128
+msgid "<strong>Trash</strong> removes your forum from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Hedhurina</strong> e heq forumin tuaj prej kësaj liste dhe e shpie te hedhurinat, nga ku mund ta fshini përgjithmonë."
+
+#: includes/admin/topics.php:159 includes/admin/replies.php:153
+#: includes/admin/tools/repair.php:63 includes/admin/tools/repair.php:180
+#: includes/admin/tools/upgrade.php:60 includes/admin/tools/upgrade.php:192
+#: includes/admin/forums.php:136
+msgid "Bulk Actions"
+msgstr "Veprime Masive"
+
+#: includes/admin/topics.php:184 includes/admin/replies.php:178
+#: includes/admin/forums.php:161
+msgid "Customizing This Display"
+msgstr "Personalizimi i Kësaj Skene"
+
+#: includes/admin/forums.php:167
+msgid "Title and Forum Editor"
+msgstr "Përpunues Titujsh dhe Forumesh"
+
+#: includes/admin/forums.php:169
+msgid "<strong>Title</strong> - Enter a title for your forum. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Titull</strong> - Jepni një titull për forumin tuaj. Pasi të jepni një titull, do të shihni më poshtë permalidhjen, të cilën mund ta përpunoni."
+
+#: includes/admin/forums.php:170
+msgid "<strong>Forum Editor</strong> - Enter the text for your forum. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your forum text. You can insert media files by clicking the icons above the forum editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr "<strong>Përpunues Forumi</strong> - Jepni tekstin për forumin tuaj. Ka dy mënyra përpunimi: Pamore dhe HTML. Zgjidheni mënyrën duke klikuar mbi skedën përkatëse. Mënyra pamore ju jep një përpunues WYSIWYG. Klikoni mbi ikonën e fundit te rreshti që të hapni një rresht të dytë kontrollesh. Mënyra HTML ju lejon të futni HTML të papërpunuar, tok me tekstin e forumit tuaj. Kartela media mund të futni duke klikuar mbi ikonat sipër përpunuesit të forumit dhe duke ndjekur udhëzimet. Te skena e shkrimit pa shpërqendrim mund të kaloni përmes ikonës Sa Krejt Ekrani, nën mënyrën Pamore (e dyta nga fundi, në rreshtin e sipërm) ose përmes butonit Sa Krejt Ekrani, nën mënyrën HTML (i fundit në rresht). Kur të gjendeni aty, butonat mund t’i bëni të dukshëm duke kaluar kursorin sipër fushës së sipërme. Dalja nga Sa Krejt Ekrani ju kthen te përpunuesi normal i forumit."
+
+#: includes/admin/forums.php:183
+msgid "Select the attributes that your forum should have:"
+msgstr "Përzgjidhni atributet që duhet të ketë forumi juaj:"
+
+#: includes/admin/forums.php:185
+msgid "<strong>Type</strong> indicates if the forum is a category or forum. Categories generally contain other forums."
+msgstr "<strong>Lloji</strong> tregon nëse forumi është një kategori apo forum. Përgjithësisht, kategoritë përmbajnë forume të tjerë."
+
+#: includes/admin/forums.php:187
+msgid "<strong>Visibility</strong> lets you pick the scope of each forum and what users are allowed to access it."
+msgstr "<strong>Dukshmëria</strong> ju lejon të zgjidhni shtrirjen e çdo forumi dhe se cilët përdorues mund të hyjnë në të."
+
+#: includes/admin/forums.php:189
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>Renditi</strong> ju lejon t’i renditni forumet tuaj numerikisht."
+
+#: includes/admin/topics.php:215 includes/admin/replies.php:210
+#: includes/admin/forums.php:195
+msgid "Publish Box"
+msgstr "Kutia e Botimeve"
+
+#: includes/admin/metaboxes.php:405
+msgid "Topic Type"
+msgstr "Lloj Teme"
+
+#: includes/admin/replies.php:141
+msgid "<strong>Edit</strong> takes you to the editing screen for that reply. You can also reach that screen by clicking on the reply title."
+msgstr "<strong>Përpunimi</strong> ju shpie te skena e përpunimit për atë përgjigje. Te skena mund të shkoni edhe duke klikuar mbi titullin e përgjigjes."
+
+#: includes/admin/forums.php:173
+msgid "<strong>Publish</strong> - You can set the terms of publishing your forum in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a forum or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a forum to be published in the future or backdate a forum."
+msgstr "<strong>Botoje</strong> - Te kutia Botoje mund të caktoni kushtet e botimit në forumin tuaj. Për Gjendje, Dukshmëri, dhe Botoje (menjëherë), klikoni mbi lidhjen Përpunojeni, që të shfaqen më tepër mundësi. Te Dukshmëria përfshihen mundësi për mbrojtjen me fjalëkalim të një forumi ose për ta mbajtur pafundësisht në krye të blogut tuaj (ngjitës). Botoje (menjëherë) ju lejon të caktoni një datë dhe kohë në të ardhmen ose në të kaluarën, që kështu të mund të planifikoni botimin e një forumi në të ardhmen ose ta kaloni një të tillë në të kaluarën."
+
+#: includes/admin/replies.php:143
+msgid "<strong>Trash</strong> removes your reply from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Hedhurina</strong> e heq përgjigjen tuaj prej kësaj liste dhe e shpie te hedhurinat, nga ku mund ta fshini përgjithmonë."
+
+#: includes/admin/replies.php:144
+msgid "<strong>Spam</strong> removes your reply from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>E padëshiruar</strong> e heq përgjigjen tuaj prej kësaj liste dhe e shpie atë në radhën e të padëshiruarave, prej nga ku mund ta fshihni përgjithmonë."
+
+#: includes/admin/replies.php:156
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected replies at once. To remove a reply from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Kur përdoret Përpunimi në Masë, mund të ndryshoni tejtëdhëna (kategori, autorë, etj.), njëherësh për krejt përgjigjet e përzgjedhura. Për ta hequr një përgjigje nga grupimi, thjesht klikoni mbi x-in në krah të emrit të tij, te fusha e Përpunimit në Masë që duket aty."
+
+#: includes/admin/replies.php:184
+msgid "Title and Reply Editor"
+msgstr "Përpunues Titujsh dhe Përgjigjesh"
+
+#: includes/admin/replies.php:186
+msgid "<strong>Title</strong> - Enter a title for your reply. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Titull</strong> - Jepni një titull për përgjigjen tuaj. Pasi të jepni një titull, do të shihni më poshtë permalidhjen, të cilën mund ta përpunoni."
+
+#: includes/admin/replies.php:187
+msgid "<strong>Reply Editor</strong> - Enter the text for your reply. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your reply text. You can insert media files by clicking the icons above the reply editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr "<strong>Përpunues Përgjigjesh</strong> - Jepni tekstin e përgjigjes tuaj. Ka dy mënyra përpunimi: Pamore dhe HTML. Zgjidheni mënyrën duke klikuar mbi skedën përkatëse. Mënyra pamore ju jep një përpunues WYSIWYG. Klikoni mbi ikonën e fundit te rreshti që të hapni një rresht të dytë kontrollesh. Mënyra HTML ju lejon të futni HTML të papërpunuar, tok me tekstin e përgjigjes tuaj. Kartela media mund të futni duke klikuar mbi ikonat sipër përpunuesit të përgjigjeve dhe duke ndjekur udhëzimet. Te skena e shkrimit pa shpërqendrim mund të kaloni përmes ikonës Sa Krejt Ekrani, nën mënyrën Pamore (e dyta nga fundi, në rreshtin e sipërm) ose përmes butonit Sa Krejt Ekrani, nën mënyrën HTML (i fundit në rresht). Kur të gjendeni aty, butonat mund t’i bëni të dukshëm duke kaluar kursorin sipër fushës së sipërme. Dalja nga Sa Krejt Ekrani ju kthen te përpunuesi normal i përgjigjeve."
+
+#: includes/admin/replies.php:200
+msgid "Select the attributes that your reply should have:"
+msgstr "Përzgjidhni atributet që duhet të ketë përgjigja juaj:"
+
+#: includes/admin/replies.php:203
+msgid "<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "<strong>Tema</strong> tregon temën mëmë së cilës i përket përgjigja."
+
+#: includes/admin/settings.php:784
+msgid "Allow users to mark topics as favorites"
+msgstr "Lejojuni përdoruesve të shënojnë tema si të parapëlqyera"
+
+#: includes/admin/settings.php:947
+msgid "How your forum content is displayed within your existing theme."
+msgstr "Si shfaqet lënda e forumit tuaj brenda temës grafike ekzistuese."
+
+#: includes/common/classes.php:493 includes/replies/template.php:2565
+#: includes/admin/classes/class-bbp-admin.php:938
+#: includes/admin/classes/class-bbp-admin.php:1018
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:975
+msgid "will serve all bbPress templates"
+msgstr "do të ofrojë krejt gjedhet bbPress"
+
+#: includes/admin/settings.php:1008
+msgid "How many topics and replies to show per page"
+msgstr "Sa tema dhe përgjigje të shfaqen për faqe"
+
+#: includes/admin/settings.php:1051
+msgid "How many topics and replies to show per RSS page"
+msgstr "Sa tema dhe përgjigje të shfaqen për faqe RSS"
+
+#: includes/admin/settings.php:1411
+msgid "Forum settings for BuddyPress"
+msgstr "Rregullime forumi për BuddyPress-in"
+
+#: includes/admin/replies.php:190
+msgid "<strong>Publish</strong> - You can set the terms of publishing your reply in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a reply or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a reply to be published in the future or backdate a reply."
+msgstr "<strong>Botoje</strong> - Te kutia Botoje mund të caktoni kushtet e botimit të përgjigjes tuaj. Për Gjendje, Dukshmëri, dhe Botoje (menjëherë), klikoni mbi lidhjen Përpunojeni, që të shfaqen më tepër mundësi. Te Dukshmëria përfshihen mundësi për mbrojtjen me fjalëkalim të një përgjigjeje ose për ta mbajtur pafundësisht në krye të blogut tuaj (ngjitëse). Botoje (menjëherë) ju lejon të caktoni një datë dhe kohë në të ardhmen ose në të kaluarën, që kështu të mund të planifikoni botimin e një përgjigjeje në të ardhmen ose ta kaloni një të tillë në të kaluarën."
+
+#: includes/admin/settings.php:1425
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "Lejojuni Grupeve BuddyPress të kenë forumet e tyre"
+
+#: includes/admin/settings.php:1492
+msgid "Forum settings for Akismet"
+msgstr "Rregullime forumi për Akismet-in"
+
+#: includes/admin/settings.php:1507
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "Lejojeni Akismet-in të parandalojë aktivisht mesazhe të padëshiruar në forum."
+
+#: includes/admin/settings.php:1885
+msgid "Favorites are a way for users to save and later return to topics they favor. This is enabled by default."
+msgstr "Të parapëlqyerat janë një rrugë që përdoruesit të ruajnë dhe të mund të kthehen më vonë te temat që parapëlqejnë. Kjo është e aktivizuar si parazgjedhje."
+
+#: includes/admin/settings.php:1888
+msgid "\"Anonymous Posting\" allows guest users who do not have accounts on your site to both create topics as well as replies."
+msgstr "\"Postimi Anonim\" u lejon përdoruesve vizitorë, që nuk kanë llogari në sajtin tuaj, të krijojnë tema dhe të postojnë përgjigje."
+
+#: includes/admin/settings.php:1916
+msgid "This is comparable to the WordPress \"Reading Settings\" page, where you can set the number of posts that should show on blog pages and in feeds."
+msgstr "Kjo është e ngjashme me faqen \"Rregullime Leximi\" te WordPress-i, ku mund të caktoni numrin e postimeve që duhen shfaqur në faqe blogu dhe prurje."
+
+#: includes/admin/settings.php:1925
+msgid "Slugs"
+msgstr "Identifikues"
+
+#: includes/admin/settings.php:1928
+msgid "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If you combine these values with existing page slugs, bbPress will attempt to output the most correct title and content."
+msgstr "\"Identifikues Arkivash\" përdoren si \"rrënja\" për forumet dhe temat tuaja. Nëse i ndërthurni këto vlera me identifikues ekzistues faqesh, bbPress-i do të përpiqet të ofrojë titullin dhe lëndën më të saktë."
+
+#: includes/admin/settings.php:1929
+msgid "\"Single Slugs\" are used as a prefix when viewing an individual forum, topic, reply, user, or view."
+msgstr "\"Identifikuesit e Veçantë\" përdoren si një parashtesë, kur shihet një forum, temë, përgjigje, përdorues, ose pamje individuale."
+
+#: includes/admin/settings.php:1930
+msgid "In the event of a slug collision with WordPress or BuddyPress, a warning will appear next to the problem slug(s)."
+msgstr "Në rast përplasjeje identifikuesish WordPress ose BuddyPress, në krah të identifikuesit me problem do të shfaqet një sinjalizim."
+
+#: includes/admin/settings.php:920
+msgid "Allow topic and reply revision logging"
+msgstr "Lejoni regjistrim rishikimesh për temat dhe përgjigjet"
+
+#: includes/admin/metaboxes.php:190
+msgid "Users &amp; Moderation"
+msgstr "Përdorues &amp; Moderim"
+
+#: includes/admin/topics.php:1118 includes/admin/replies.php:914
+msgid "Empty Spam"
+msgstr "Zbraz të Padëshiruarat"
+
+#: includes/admin/settings.php:190 includes/admin/settings.php:2026
+msgid "Revisions"
+msgstr "Rishikime"
+
+#: includes/admin/settings.php:2039
+msgid "Forums base"
+msgstr "Bazë forumesh"
+
+#: includes/admin/settings.php:2042
+msgid "Topics base"
+msgstr "Bazë temash"
+
+#: includes/admin/replies.php:728
+msgid "(Mismatch)"
+msgstr "(Mospërputhje)"
+
+#: includes/admin/settings.php:2034
+msgid "Category base"
+msgstr "Bazë kategorie"
+
+#: includes/admin/settings.php:2031
+msgid "Tag base"
+msgstr "Bazë etikete"
+
+#: includes/admin/settings.php:2027
+msgid "Attachments"
+msgstr "Bashkëngjitje"
+
+#: templates/default/bbpress/form-anonymous.php:33
+#: includes/admin/metaboxes.php:619
+msgid "Website:"
+msgstr "Sajt:"
+
+#: includes/replies/template.php:1983 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833 includes/topics/template.php:2534
+msgid "Move this item to the Trash"
+msgstr "Shpjere këtë objekt te Hedhurinat"
+
+#: templates/default/bbpress/loop-search.php:19
+#: templates/default/bbpress/loop-search.php:41
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:44 includes/admin/topics.php:858
+#: includes/admin/replies.php:667
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:59
+msgid "Author"
+msgstr "Autor"
+
+#: bbpress.php:724
+msgid "Topics with no replies"
+msgstr "Tema pa përgjigje"
+
+#: includes/admin/settings.php:368 includes/admin/metaboxes.php:166
+#: includes/topics/template.php:3387
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "Etiketë Teme"
+msgstr[1] "Etiketa Teme"
+
+#: bbpress.php:640
+msgctxt "post"
+msgid "Hidden"
+msgstr "I fshehur"
+
+#: bbpress.php:626
+msgctxt "post"
+msgid "Orphan"
+msgstr "Jetim"
+
+#: bbpress.php:599
+msgctxt "post"
+msgid "Closed"
+msgstr "I mbyllur"
+
+#: bbpress.php:567
+msgid "bbPress Replies"
+msgstr "Përgjigje te bbPress-i"
+
+#: templates/default/bbpress/loop-search-topic.php:25
+#: includes/admin/metaboxes.php:522
+msgid "Topic:"
+msgstr "Temë:"
+
+#: bbpress.php:515
+msgid "bbPress Forums"
+msgstr "Forume bbPress-i"
+
+#: bbpress.php:541
+msgid "bbPress Topics"
+msgstr "Tema bbPress-i"
+
+#: templates/default/bbpress/loop-replies.php:20
+#: templates/default/bbpress/loop-replies.php:46
+#: templates/default/bbpress/loop-topics.php:21
+#: templates/default/bbpress/content-statistics.php:35
+#: templates/default/bbpress/loop-forums.php:23
+#: includes/forums/template.php:2714 includes/replies/template.php:49
+#: includes/replies/template.php:50 includes/extend/buddypress/activity.php:207
+#: includes/extend/buddypress/activity.php:392 includes/admin/actions.php:185
+#: includes/admin/actions.php:197 includes/admin/topics.php:390
+#: includes/admin/topics.php:856 includes/admin/settings.php:289
+#: includes/admin/settings.php:310 includes/admin/tools/common.php:440
+#: includes/admin/forums.php:539 includes/core/theme-compat.php:704
+msgid "Replies"
+msgstr "Përgjigje"
+
+#: includes/replies/template.php:1988 includes/admin/topics.php:1041
+#: includes/admin/replies.php:837 includes/topics/template.php:2538
+msgid "Delete this item permanently"
+msgstr "Fshije këtë objekt përgjithmonë"
+
+#: templates/default/bbpress/content-single-topic-lead.php:19
+#: templates/default/bbpress/content-single-topic-lead.php:87
+#: includes/admin/forums.php:541
+msgid "Creator"
+msgstr "Krijues"
+
+#: includes/replies/template.php:1962 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2516
+msgid "Restore"
+msgstr "Riktheje"
+
+#: includes/replies/template.php:1979 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2532
+msgid "Restore this item from the Trash"
+msgstr "Riktheje këtë objekt prej Hedhurinave"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+#: includes/admin/metaboxes.php:607
+msgid "Name:"
+msgstr "Emër:"
+
+#: includes/admin/metaboxes.php:105
+msgid "Discussion"
+msgstr "Diskutim"
+
+#: includes/admin/metaboxes.php:198
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Përdorues"
+msgstr[1] "Përdorues"
+
+#: includes/admin/metaboxes.php:217
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "Temë e Fshehur"
+msgstr[1] "Tema të Fshehura"
+
+#: includes/admin/metaboxes.php:239
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "Përgjigje e Fshehur"
+msgstr[1] "Përgjigje të Fshehura"
+
+#: includes/admin/metaboxes.php:261
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "Etiketë Teme e Zbrazët"
+msgstr[1] "Etiketa Teme të Zbrazëta"
+
+#: includes/admin/metaboxes.php:285
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "Po përdorni <span class=\"b\">bbPress %s</span>."
+
+#: templates/default/bbpress/form-forum.php:121
+#: includes/admin/metaboxes.php:329 includes/admin/metaboxes.php:330
+#: includes/admin/metaboxes.php:416 includes/admin/metaboxes.php:479
+msgid "Status:"
+msgstr "Gjendje:"
+
+#: templates/default/bbpress/form-forum.php:130
+#: includes/admin/metaboxes.php:341 includes/admin/metaboxes.php:342
+msgid "Visibility:"
+msgstr "Dukshmëri:"
+
+#: includes/admin/metaboxes.php:355
+msgid "Parent:"
+msgstr "Mëmë:"
+
+#: includes/admin/metaboxes.php:356
+msgid "Forum Parent"
+msgstr "Forumi Mëmë"
+
+#: includes/admin/metaboxes.php:377
+msgid "Forum Order"
+msgstr "Renditje Forumi"
+
+#: templates/default/bbpress/form-user-edit.php:112
+#: templates/default/bbpress/form-user-register.php:34
+#: includes/admin/metaboxes.php:614
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin/metaboxes.php:636
+msgid "IP Address"
+msgstr "Adresë IP"
+
+#: includes/admin/settings.php:1913
+msgid "Per Page"
+msgstr "Për Faqe"
+
+#: includes/admin/settings.php:331
+msgid "Forum Prefix"
+msgstr "Prefiks Forumi"
+
+#: includes/admin/settings.php:2045
+msgid "Forum slug"
+msgstr "Identifikues forumi"
+
+#: includes/admin/settings.php:2048
+msgid "Topic slug"
+msgstr "Identifikues teme"
+
+#: includes/admin/settings.php:2063
+msgid "Topic tag slug"
+msgstr "Identifikues etikete teme"
+
+#: includes/admin/settings.php:2051
+msgid "Reply slug"
+msgstr "Identifikues përgjigjeje"
+
+#: includes/admin/settings.php:2057
+msgid "User base"
+msgstr "Bazë përdoruesi"
+
+#: includes/admin/settings.php:2060
+msgid "View base"
+msgstr "Shihni bazën"
+
+#: includes/admin/classes/class-bbp-admin.php:1288
+#: includes/admin/classes/class-bbp-admin.php:1338
+msgid "Go Back"
+msgstr "Kthehuni Mbrapsht"
+
+#: includes/admin/settings.php:719
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "Lejojuni përdoruesve vizitorë, atyre pa llogari, të krijojnë tema dhe përgjigje"
+
+#: includes/admin/settings.php:1022 includes/admin/settings.php:1036
+#: includes/admin/settings.php:1065 includes/admin/settings.php:1079
+msgid "per page"
+msgstr "për faqe"
+
+#: includes/admin/settings.php:1883
+msgid "You can choose to lock a post after a certain number of minutes. \"Locking post editing\" will prevent the author from editing some amount of time after saving a post."
+msgstr "Mund të zgjidhni kyçjen e një postimi pas një numri të caktuar minutash. \"Kyçja e përpunimeve të postimit\" do t’ia pengojë autorit përpunimin pas një kohe të caktuar që nga ruajtja e postimit."
+
+#: includes/admin/forums.php:113
+msgid "You can hide/display columns based on your needs and decide how many forums to list per screen using the Screen Options tab."
+msgstr "Duke përdorur skedën e Mundësive për Skenën, mund të fshihni/shfaqni shtyllat sipas nevojave tuaja dhe të vendosni se sa forume për skenë të tregohen."
+
+#: includes/admin/forums.php:114
+msgid "You can filter the list of forums by forum status using the text links in the upper left to show All, Published, or Trashed forums. The default view is to show all forums."
+msgstr "Listën e forumeve mund ta filtroni sipas gjendjeve të forumeve duke përdorur lidhjet tekst në cepin e sipërm majtas për të shfaqur Krejt forumet, Të botuarit, ose Të shpënë Në Hedhurina. Parazgjedhja është të shfaqen krejt forumet."
+
+#: includes/admin/forums.php:124
+msgid "Hovering over a row in the forums list will display action links that allow you to manage your forum. You can perform the following actions:"
+msgstr "Duke kaluar kursorin përsipër një rreshti te lista e forumeve, do të shfaqen lidhje veprimesh të cilat ju lejojnë të administroni forumin tuaj. Mund të kryeni veprimet vijuese:"
+
+#: includes/forums/template.php:68 includes/admin/forums.php:181
+#: includes/admin/forums.php:214
+msgid "Forum Attributes"
+msgstr "Atribute Forumi"
+
+#: includes/admin/topics.php:859 includes/admin/replies.php:668
+#: includes/admin/forums.php:542
+msgid "Created"
+msgstr "U krijua më"
+
+#: includes/admin/topics.php:1181 includes/admin/replies.php:977
+#: includes/admin/forums.php:716
+msgid "Custom field updated."
+msgstr "Fusha vetjake u përditësua."
+
+#: includes/admin/topics.php:1184 includes/admin/replies.php:980
+#: includes/admin/forums.php:719
+msgid "Custom field deleted."
+msgstr "Fusha vetjake u fshi."
+
+#: includes/forums/template.php:79 includes/admin/forums.php:710
+#: includes/admin/forums.php:722
+msgid "Forum updated."
+msgstr "Forumi u përditësua."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:727
+msgid "Forum restored to revision from %s"
+msgstr "Forumi u rikthye te rishikimi prej %s"
+
+#: includes/admin/forums.php:739
+msgid "Forum saved."
+msgstr "Forumi u ruajt."
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/admin/topics.php:1220 includes/admin/replies.php:1016
+#: includes/admin/forums.php:755
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ G:i"
+
+#: includes/admin/replies.php:129
+msgid "You can view replies in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Përgjigjet mund t&apos;i shihni si thjesht listë titujsh ose me një copëz. Duke klikuar te ikonat në krye të listës djathtas, mund të zgjidhni pamjen që parapëlqeni."
+
+#: includes/admin/replies.php:139
+msgid "Hovering over a row in the replies list will display action links that allow you to manage your reply. You can perform the following actions:"
+msgstr "Duke kaluar kursorin përsipër një rreshti te lista e përgjigjeve, do të shfaqen lidhje veprimesh të cilat ju lejojnë të administroni përgjigjen tuaj. Mund të kryeni veprimet vijuese:"
+
+#: includes/replies/template.php:69 includes/admin/replies.php:198
+#: includes/admin/replies.php:336
+msgid "Reply Attributes"
+msgstr "Atribute Përgjigjeje"
+
+#: templates/default/bbpress/form-anonymous.php:18
+#: includes/admin/topics.php:364 includes/admin/replies.php:361
+msgid "Author Information"
+msgstr "Të dhënat Mbi Autorin"
+
+#: includes/admin/replies.php:562
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "Pati një problem në vënien shenjë si e padëshiruar përgjigjes \"%1$s\"."
+
+#: includes/admin/replies.php:563
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "Përgjigjes \"%1$s\" iu vu me sukses shenjë si e padëshiruar."
+
+#: includes/admin/replies.php:568
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "Pati një problem në heqjen e shenjës si e padëshiruar përgjigjes \"%1$s\"."
+
+#: includes/admin/replies.php:569
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "Përgjigjes \"%1$s\" iu hoq me sukses shenja si e padëshiruar."
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+msgid "View &#8220;%s&#8221;"
+msgstr "Shiheni &#8220;%s&#8221;"
+
+#: includes/admin/replies.php:820
+msgid "Mark the reply as not spam"
+msgstr "Hiqja përgjigjes shenjën si e padëshiruar"
+
+#: includes/admin/replies.php:818
+msgid "Mark this reply as spam"
+msgstr "Shënoje këtë përgjigje si të padëshiruar"
+
+#: includes/admin/topics.php:1041 includes/admin/replies.php:837
+msgid "Delete Permanently"
+msgstr "Fshije Përgjithmonë"
+
+#: includes/admin/topics.php:1095 includes/admin/replies.php:891
+msgid "In all forums"
+msgstr "Në krejt forumet"
+
+#: includes/replies/template.php:80 includes/admin/replies.php:971
+#: includes/admin/replies.php:983
+msgid "Reply updated."
+msgstr "Përgjigja u përditësua."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:988
+msgid "Reply restored to revision from %s"
+msgstr "Përgjigja u rikthye te rishikimi prej %s"
+
+#: includes/admin/replies.php:1000
+msgid "Reply saved."
+msgstr "Përgjigja u ruajt."
+
+#: includes/admin/tools.php:151
+msgid "Recalculate last activity in each topic and forum"
+msgstr "Rinjehso veprimtarinë e fundit në çdo temë dhe forum"
+
+#: includes/admin/classes/class-bbp-admin.php:1108
+msgid "Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "Roleve dhe aftësive u është hequr pluhuri, janë pastruar dhe thjeshtëzuar. "
+
+#: includes/admin/settings.php:654
+msgid "Setting time limits and other user posting capabilities"
+msgstr "Rregullimi i kufijve kohorë dhe të tjera aftësi postimi të përdoruesit"
+
+#: templates/default/bbpress/user-details.php:36
+#: includes/extend/buddypress/loader.php:211
+#: includes/extend/buddypress/loader.php:319 includes/admin/settings.php:421
+msgid "Topics Started"
+msgstr "Tema të Filluara"
+
+#: includes/admin/settings.php:1886
+msgid "Subscriptions allow users to subscribe for notifications to topics that interest them. This is enabled by default."
+msgstr "Pajtimet i lejojnë përdoruesve të pajtohen për njoftime nga temat që u interesojnë atyre. Kjo është e aktivizuar, si parazgjedhje."
+
+#: includes/admin/settings.php:1889
+msgid "The Fancy Editor brings the luxury of the Visual editor and HTML editor from the traditional WordPress dashboard into your theme."
+msgstr "Përpunuesi Fancy ju sjell luksin e përpunuesit pamor dhe të përpunuesit HTML nga pulti tradicional i WordPress-it drejt e te tema juaj."
+
+#: includes/admin/settings.php:1890
+msgid "Auto-embed will embed the media content from a URL directly into the replies. For example: links to Flickr and YouTube."
+msgstr "Vetë-trupëzimi do të trupëzojë drejt e te përgjigjet lëndë media prej një URL-je. Për shembull: lidhje për te Flickr dhe YouTube."
+
+#: includes/admin/settings.php:2075
+msgid "%s page"
+msgstr "Faqe %s"
+
+#: includes/admin/metaboxes.php:147
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Përgjigje"
+msgstr[1] "Përgjigje"
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:144
+#: includes/admin/users.php:260
+msgid "View"
+msgstr "Parje"
+
+#: includes/admin/settings.php:1127
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "Parapriji krejt lëndës së forumit me indentifikuesin e Rrënjës së Forumit (E këshilluar)"
+
+#: templates/default/bbpress/user-details.php:42
+#: includes/extend/buddypress/loader.php:222
+#: includes/extend/buddypress/loader.php:327 includes/admin/settings.php:429
+msgid "Replies Created"
+msgstr "Përgjigje të Krijuara"
+
+#: bbpress.php:613
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "I padëshiruar <span class=\"count\">(%s)</span>"
+msgstr[1] "Të padëshiruar <span class=\"count\">(%s)</span>"
+
+#: includes/admin/settings.php:1872
+msgid "This screen provides access to all of the Forums settings."
+msgstr "Kjo skenë ofron hyrje te krejt rregullimet për Forumet."
+
+#: includes/admin/forums.php:103
+msgid "This screen displays the individual forums on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Kjo skenë shfaq forumet individuale në sajtin tuaj. Mund t&#ia përshtatni shfaqjen e kësaj skene rrjedhës tuaj të punës."
+
+#: includes/admin/classes/class-bbp-admin.php:1297
+msgid "You can update your forum through this page. Hit the link below to update."
+msgstr "Prej kësaj faqeje mund të përditësoni forumin tuaj. Klikoni lidhjen më poshtë që të kryhet përditësimi."
+
+#: includes/admin/settings.php:1917
+msgid "These are broken up into two separate groups: one for what appears in your theme, another for RSS feeds."
+msgstr "Këto ndahen në dy grupe veçmas: një për atë që duket në temën tuaj, një tjetër për prurje RSS."
+
+#: bbpress.php:612
+msgctxt "post"
+msgid "Spam"
+msgstr "I padëshiruar"
+
+#: includes/admin/settings.php:49
+msgid "Topics and Replies Per RSS Page"
+msgstr "Tema dhe Përgjigje Për Faqe RSS"
+
+#: includes/admin/replies.php:202
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the reply belongs to. Select the forum, or leave the default (Use Forum of Topic) to post the reply in forum of the topic."
+msgstr "Pjesa <strong>Forum</strong> përcakton forumin mëmë të cilit i përket përgjigja. Përzgjidhni forum, ose lini parazgjedhjen (Përdor Forum Teme) që përgjigja të postohet te forumi i temës."
+
+#: includes/replies/template.php:1961 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:92
+#: includes/topics/template.php:2515
+msgid "Trash"
+msgstr "Shpjere në hedhurina"
+
+#: includes/admin/forums.php:115
+msgid "You can refine the list to show only forums from a specific month by using the dropdown menus above the forums list. Click the Filter button after making your selection. You also can refine the list by clicking on the forum creator in the forums list."
+msgstr "Listën mund ta përimtoni që të shfaqë vetëm forume për një muaj të dhënë, duke përdorur menutë hapmbyll sipër listë së forumeve. Pasi të bëni përzgjedhjen tuaj, klikoni butonin Filtroji. Listën mund ta përimtoni edhe duke klikuar mbi krijuesin e forumeve te lista e forumeve."
+
+#: includes/replies/template.php:2029 includes/admin/topics.php:240
+#: includes/admin/topics.php:1023 includes/admin/replies.php:235
+#: includes/admin/replies.php:818
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:91
+#: includes/topics/template.php:2807
+msgid "Spam"
+msgstr "Vëri shenjë si të padëshiruar"
+
+#: includes/admin/classes/class-bbp-admin.php:1091
+msgid "We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Existing importers are now sweeter than honey with improved importing stickies, topic tags, forum categories and the sting is now gone if you need to remove imported users."
+msgstr "Jemi gjithë gumëzhimë për huallin e importuesve të rinj, AEF, Drupal, FluxBB, Kunena Forums për Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo dhe XMB. Importuesit ekzistues tanimë janë më të ëmbël se mjalti, me importim të përmirësuar për ngjitëset, etiketat e temave, forume kategorish, dhe s’ka më thumbim, nëse ju duhet të hiqni përdorues të importuar."
+
+#: includes/admin/settings.php:979
+msgid "No template packages available."
+msgstr "S’ka paketa të gatshme gjedhesh."
+
+#: includes/admin/settings.php:1887
+msgid "Topic-Tags allow users to filter topics between forums. This is enabled by default."
+msgstr "Temë-Etiketa u lejon përdoruesve t’i filtrojnë temat sipas forumesh. Kjo është e aktivizuar, si parazgjedhje."
+
+#: includes/admin/classes/class-bbp-admin.php:1064
+#: includes/admin/classes/class-bbp-admin.php:1138
+msgid "What&#8217;s New"
+msgstr "Ç’ka të Re"
+
+#: includes/admin/replies.php:193
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your reply without inserting it. This is usually useful only if your theme makes use of the featured image as a reply thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Figurë e Zgjedhur</strong> - Kjo ju lejon t’i përshoqëroni përgjigjes tuaj një figurë pa e futur në të. Zakonisht është e dobishme vetëm nëse tema juaj është në gjendje ta përdorë figurën e trajtuar si miniaturë përgjigjeje te faqja hyrëse, te një titull i përshtatur, etj."
+
+#: includes/admin/forums.php:176
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your forum without inserting it. This is usually useful only if your theme makes use of the featured image as a forum thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Figurë e Zgjedhur</strong> - Kjo ju lejon t’i përshoqëroni forumit tuaj një figurë pa e futur në të. Zakonisht është e dobishme vetëm nëse tema juaj është në gjendje ta përdorë figurën e trajtuar si miniaturë përgjigjeje te faqja hyrëse, te një titull i përshtatur, etj."
+
+#: includes/admin/classes/class-bbp-converter.php:562
+msgid "No passwords to clear"
+msgstr "S’ka fjalëkalime për pastrim"
+
+#: includes/admin/classes/class-bbp-admin.php:1416
+msgid "You can update all the forums on your network through this page. It works by calling the update script of each site automatically. Hit the link below to update."
+msgstr "Prej kësaj faqeje mund t’i përditësoni krejt forumet në rrjetin tuaj. Funksionon duke vënë në punë vetvetiu programthin e përditësimi për çdo sajt. Klikoni lidhjen më poshtë që të kryhet përditësimi."
+
+#: includes/admin/classes/class-bbp-admin.php:1397
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Nëse shfletuesi juaj s’fillon të ngarkojë vetvetiu faqen tjetër, klikoni mbi këtë lidhje:"
+
+#: includes/admin/settings.php:1884
+msgid "\"Throttle time\" is the amount of time required between posts from a single author. The higher the throttle time, the longer a user will need to wait between posting to the forum."
+msgstr "\"Kohë e riciklimit\" është sasia e kohës e nevojshme ndërmjet postimeve prej të njëjtit autor. Sa më e madhe koha e riciklimit, aq më gjatë do t’i duhet të presë një përdoruesi për të ripostuar te forumi."
+
+#: includes/forums/template.php:581 includes/admin/forums.php:595
+msgid "No Topics"
+msgstr "S’ka Tema"
+
+#: includes/admin/tools.php:523 includes/admin/tools/help.php:30
+msgid "Repair Forums"
+msgstr "Ndreqi Forumet"
+
+#: includes/admin/replies.php:174
+msgid "The title field and the big reply editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Për fushën e titullit dhe Zonën e madhe të përpunimit të përgjigjeve ka vende të fiksuara, por mund të ripoziciononi krejt kutitë e tjera duke përdorur teknikën <em>merr dhe vër</em>, dhe mundeni t’i minimizoni ose zgjeroni duke klikuar te shtylla e titullit të secilës kutizë. Që të bëni të dukshme më tepër kutiza (Copëza, Dërgo Pasgjurmime, Fusha Vetjake, Diskutime, Identifikues, Autor), ose që të zgjidhni skemën me 1 apo 2 shtylla për këtë skenë, përdorni skedën e Mundësive të Ekranit."
+
+#: includes/admin/forums.php:157
+msgid "The title field and the big forum editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Për fushën e titullit dhe Zonën e madhe të përpunimit të forumeve ka vende të fiksuara, por mund të ripoziciononi krejt kutitë e tjera duke përdorur teknikën <em>merr dhe vër</em>, dhe mundeni t’i minimizoni ose zgjeroni duke klikuar te shtylla e titullit të secilës kutizë. Që të bëni të dukshme më tepër kutiza (Copëza, Dërgo Pasgjurmime, Fusha Vetjake, Diskutime, Identifikues, Autor), ose që të zgjidhni skemën me 1 apo 2 shtylla për këtë skenë, përdorni skedën e Mundësive të Ekranit."
+
+#: templates/default/bbpress/loop-topics.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:23
+#: templates/default/bbpress/content-single-topic-lead.php:91
+#: includes/admin/actions.php:209 includes/admin/replies.php:666
+#: includes/admin/settings.php:360 includes/admin/metaboxes.php:130
+#: includes/admin/metaboxes.php:523 includes/topics/template.php:49
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Temë"
+msgstr[1] ""
+
+#: includes/admin/topics.php:168 includes/admin/topics.php:221
+#: includes/admin/replies.php:162 includes/admin/replies.php:216
+#: includes/admin/settings.php:1938 includes/admin/tools/help.php:44
+#: includes/admin/tools/help.php:73 includes/admin/tools/help.php:131
+#: includes/admin/forums.php:145 includes/admin/forums.php:201
+msgid "<a href=\"https://codex.bbpress.org\" target=\"_blank\">bbPress Documentation</a>"
+msgstr "<a href=\"https://codex.bbpress.org\" target=\"_blank\">Dokumentim i bbPress-it</a>"
+
+#: includes/admin/topics.php:169 includes/admin/topics.php:222
+#: includes/admin/replies.php:163 includes/admin/replies.php:217
+#: includes/admin/settings.php:1939 includes/admin/tools/help.php:45
+#: includes/admin/tools/help.php:74 includes/admin/tools/help.php:132
+#: includes/admin/forums.php:146 includes/admin/forums.php:202
+msgid "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">bbPress Support Forums</a>"
+msgstr "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">Forume Asistence bbPress-i</a>"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate sticky relationship of each topic"
+msgstr "Rinjehso marrëdhënie ngjitëse për çdo temë"
+
+#: includes/admin/tools/help.php:105
+msgid "In the Database Settings you have a number of options:"
+msgstr "Te Mundësitë për Bazën e të Dhënave keni një numër mundësish:"
+
+#: includes/admin/settings.php:1873 includes/admin/tools/help.php:97
+msgid "Please see the additional help tabs for more information on each individual section."
+msgstr "Ju lutemi, për më tepër të dhëna mbi çdo ndarje më vete, shihni skedat për ndihmë shtesë."
+
+#: includes/admin/replies.php:128
+msgid "You can filter the list of replies by reply status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, or Spam replies. The default view is to show all replies."
+msgstr "Listën e përgjigjeve mund ta filtroni sipas gjendjes së përgjigjes, duke përdorur lidhjet tekst në cepin e majtë sipër, për të shfaqur Krejt, Të botuara, Skica, Në pritje të Shqyrtimit, Shpënë në Hedhurina, ose Të padëshiruara. Pamja parazgjedhje është të shfaqen krejt përgjigjet."
+
+#: includes/admin/forums.php:188
+msgid "<strong>Parent</strong> dropdown determines the parent forum. Select the forum or category from the dropdown, or leave the default \"No parent\" to create the forum at the root of your forums."
+msgstr "Pjesa <strong>Mëmë</strong> përcakton forumin mëmë. Përzgjidhni, te menuja hapmbyll, forum ose kategori, ose lini parazgjedhjen \"Pa mëmë\" që të krijohet forumi në rrënjë të forumeve tuaj."
+
+#: includes/admin/replies.php:155
+msgid "You can also edit, spam, or move multiple replies to the trash at once. Select the replies you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Mundeni gjithashtu të përpunoni, t’u vini shenjë si të padëshiruara, ose kaloni te hedhurinat shumë përgjigje njëherësh. Duke përdorur kutizat, përzgjidhni përgjigjet mbi të cilat doni të kihet efekt, mandej përzgjidhni veprimin që doni të bëhet, prej menusë Veprime në Masë, dhe klikoni Zbatoje."
+
+#: includes/admin/classes/class-bbp-admin.php:1372
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
+msgstr "Kujdes! Problem në përditësimin e %1$s. Shërbyesi juaj mund të mos jetë në gjendje të lidhet me sajte që punojnë me të. Mesazh gabimi: %2$s"
+
+#: includes/admin/settings.php:1290
+msgid "Custom slugs for single forums, topics, replies, tags, views, edit, and search."
+msgstr "Identifikues vetjakë për forume, tema, përgjigje, etiketa, parje, përpunime dhe kërkime të veçanta."

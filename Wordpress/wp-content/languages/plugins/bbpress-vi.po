@@ -1,0 +1,3795 @@
+# Translation of Plugins - bbPress - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - bbPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-14 23:43:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - bbPress - Stable (latest release)\n"
+
+#: includes/admin/topics.php:732
+msgid "Topic \"%1$s\" successfully stuck."
+msgstr "Chủ đề \"%1$s\" đã được ghim thành công."
+
+#: includes/admin/topics.php:738
+msgid "Topic \"%1$s\" successfully unstuck."
+msgstr "Chủ đề \"%1$s\" đã được xóa ghim thành công."
+
+#: includes/admin/tools/repair.php:48
+msgid "Some of these tools create substantial database overhead. Use caution when running more than 1 repair at a time."
+msgstr "Một vài công cụ trong này sẽ tạo ra phí tổn tài nguyên database trầm trọng.  Bạn nên ráng tránh việc dùng quá 1 chỉ lệnh tu sửa  trong mỗi lần thực thi."
+
+#: includes/admin/tools/repair.php:304
+msgid "Counting the number of pending, spammed, and trashed replies in each topic&hellip; %s"
+msgstr "Đang đếm số phản hồi spam và phản hồi rác trong từng chủ đề&hellip; %s"
+
+#: includes/topics/template.php:3398
+msgid "Separate topic tags with commas"
+msgstr "Dùng dấu phẩy để tách rời từng nhãn chủ đề"
+
+#: includes/admin/forums.php:733
+msgid "Forum created."
+msgstr "Diễn đàn đã được tạo. "
+
+#: includes/admin/forums.php:744
+msgid "Forum submitted."
+msgstr "Diễn đàn đã được đăng kí. "
+
+#: includes/admin/forums.php:746 includes/admin/forums.php:758
+#: includes/admin/forums.php:766
+msgid "Preview forum"
+msgstr "Xem trước diễn đàn"
+
+#: includes/admin/forums.php:578
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: includes/admin/forums.php:631
+msgctxt "Close a Forum"
+msgid "Close"
+msgstr "Đóng lại"
+
+#: includes/admin/forums.php:633
+msgctxt "Open a Forum"
+msgid "Open"
+msgstr "Mở ra"
+
+#: includes/admin/forums.php:451
+msgid "There was a problem opening the forum \"%1$s\"."
+msgstr "Có lỗi khi đang mở diễn đàn \"%1$s\"."
+
+#: includes/admin/forums.php:452
+msgid "Forum \"%1$s\" successfully opened."
+msgstr "Diễn đàn \"%1$s\" đã được mở ra thành công."
+
+#: includes/admin/forums.php:457
+msgid "There was a problem closing the forum \"%1$s\"."
+msgstr "Có lỗi khi đóng lại diễn đàn \"%1$s\"."
+
+#: includes/admin/forums.php:458
+msgid "Forum \"%1$s\" successfully closed."
+msgstr "Diễn đàn \"%1$s\" đã được đóng lại thành công."
+
+#: includes/admin/forums.php:631
+msgid "Close this forum"
+msgstr "Đóng diễn đàn này lại"
+
+#: includes/admin/forums.php:633
+msgid "Open this forum"
+msgstr "Mở diễn đàn này ra"
+
+#: includes/admin/tools/repair.php:72 includes/admin/tools/upgrade.php:71
+msgid "Filter"
+msgstr "Lọc"
+
+#: includes/admin/tools/repair.php:130 includes/admin/tools/upgrade.php:134
+msgid "Show more details"
+msgstr "Hiện thị thêm thông tin chi tiết"
+
+#: includes/admin/tools/repair.php:155 includes/admin/tools/upgrade.php:166
+msgid "No repair tools match this criteria."
+msgstr "Không có công cụ chỉnh sửa nào phù hợp với tiêu chí này."
+
+#: includes/admin/tools/repair.php:126 includes/admin/tools/upgrade.php:130
+msgid "Run %s"
+msgstr "Đang chạy %s"
+
+#: includes/admin/tools/repair.php:99 includes/admin/tools/repair.php:140
+#: includes/admin/tools/repair.php:172 includes/admin/tools/upgrade.php:103
+#: includes/admin/tools/upgrade.php:151 includes/admin/tools/upgrade.php:184
+msgid "Overhead"
+msgstr "Trên không"
+
+#: includes/admin/tools/repair.php:93 includes/admin/tools/repair.php:133
+#: includes/admin/tools/repair.php:171 includes/admin/tools/upgrade.php:98
+#: includes/admin/tools/upgrade.php:144 includes/admin/tools/upgrade.php:183
+msgid "Components"
+msgstr "Thành tố"
+
+#: includes/admin/tools/repair.php:89 includes/admin/tools/repair.php:116
+#: includes/admin/tools/repair.php:170 includes/admin/tools/upgrade.php:88
+#: includes/admin/tools/upgrade.php:120 includes/admin/tools/upgrade.php:181
+msgid "Description"
+msgstr "Mô tả"
+
+#: includes/admin/tools/repair.php:66 includes/admin/tools/repair.php:183
+#: includes/admin/tools/upgrade.php:63 includes/admin/tools/upgrade.php:195
+msgid "Apply"
+msgstr "Kích hoạt"
+
+#: includes/admin/tools/repair.php:81 includes/admin/tools/repair.php:166
+#: includes/admin/tools/upgrade.php:80 includes/admin/tools/upgrade.php:177
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: includes/admin/tools/repair.php:61 includes/admin/tools/repair.php:178
+#: includes/admin/tools/upgrade.php:58 includes/admin/tools/upgrade.php:190
+msgid "Select bulk action"
+msgstr "Chọn hành động liên hoàn"
+
+#: includes/admin/tools/repair.php:64 includes/admin/tools/repair.php:126
+#: includes/admin/tools/repair.php:181 includes/admin/tools/upgrade.php:61
+#: includes/admin/tools/upgrade.php:130 includes/admin/tools/upgrade.php:193
+msgid "Run"
+msgstr "Chạy"
+
+#: includes/admin/tools/repair.php:1119
+msgid "Complete! %d closed topic repaired."
+msgid_plural "Complete! %d closed topics repaired."
+msgstr[0] "Hoàn tất! %d chủ đề đã đóng đã được tu sửa."
+
+#: includes/admin/tools/repair.php:1089
+msgid "No closed topics to repair."
+msgstr "Không có chủ đề đã đóng để tu sửa."
+
+#: includes/admin/tools/repair.php:1088
+msgid "Repairing closed topics&hellip; %s"
+msgstr "Đang tu sửa chủ đề đã đóng&hellip; %s"
+
+#: includes/admin/tools/reset.php:57
+msgid "Do you really want to do this?"
+msgstr "Bạn có thực sự muốn làm điều này?"
+
+#: includes/admin/tools/help.php:34
+msgid "BuddyPress Group Forums: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Installing Group and Sitewide Forums</a> and <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Migrating from old forums to bbPress 2.2+</a>."
+msgstr "Diễn đàn nhóm BuddyPress: <a href=\"https://codex.buddypress.org/getting-started/installing-group-and-sitewide-forums/\">Installing Group and Sitewide Forums</a> and <a href=\"https://codex.buddypress.org/getting-started/guides/migrating-from-old-forums-to-bbpress-2/\">Migrating from old forums to bbPress 2.2+</a>."
+
+#: includes/admin/tools/help.php:35
+msgid "bbPress roles: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">bbPress User Roles and Capabilities</a>"
+msgstr "Vai trò và quyền trong bbPress: <a href=\"https://codex.bbpress.org/bbpress-user-roles-and-capabilities/\" target=\"_blank\">bbPress User Roles and Capabilities</a>"
+
+#: includes/admin/tools/help.php:38
+msgid "Also see <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Repair Forums</a>."
+msgstr "Xem thêm <a href=\"https://codex.bbpress.org/repair-forums/\">bbPress: Repair Forums</a>."
+
+#: includes/admin/tools/help.php:67
+msgid "Also see <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Reset Forums</a>."
+msgstr "Xem thêm <a href=\"https://codex.bbpress.org/reset-forums/\">bbPress: Reset Forums</a>."
+
+#: includes/admin/tools/help.php:98
+msgid "Also see the main article on the bbPress codex <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Import Forums</a>."
+msgstr "Xem thêm bài viết chính trên bbPress codex <a href=\"https://codex.bbpress.org/import-forums/\">bbPress: Import Forums</a>."
+
+#: includes/admin/tools/help.php:121
+msgid "\"Convert Users\" will import your legacy forum members as WordPress Users."
+msgstr "\"Chuyển đổi thành viên\" sẽ nhập và chuyển đổi thành viên từ các diễn đàn lỗi thời của bạn thành thành viên WordPress."
+
+#: includes/admin/tools/help.php:123
+msgid "\"Purge Previous Import\" will remove data imported from a failed import without removing your existing forum data."
+msgstr "\"Tẩy xóa dữ liệu nhập trước đây\" sẽ gỡ bỏ dữ liệu từ lần nhập thất bại trước đây nhưng sẽ không gỡ bỏ các dữ liệu diễn đàn hiện tại."
+
+#: includes/admin/tools/help.php:96
+msgid "This screen provides access to all of the bbPress Import Forums settings and resources."
+msgstr "Màn hình này cung cấp đường truy cập đến tất cả chỉ lệnh thiết lập và tài nguyên dành cho việc nhập diễn đàn trong bbPress."
+
+#: includes/admin/tools/help.php:116
+msgid "Importer Options"
+msgstr "Tùy chọn nhập dữ liệu"
+
+#: includes/admin/tools/help.php:117
+msgid "In the Options you have a number of options:"
+msgstr "Trong khung tùy chọn, bạn có những tùy chọn sau:"
+
+#: includes/admin/tools/help.php:120
+msgid "Depending on your MySQL configuration you can tweak the \"Rows Limit\" and \"Delay Time\" that may help to improve the overall time it takes to perform a complete forum import."
+msgstr "Tùy theo thiết lập MySQL của bạn, bạn có thể thay đổi chỉ số tùy chọn \"Rows Limit\" and \"Delay Time\" với khả năng rút ngắn thời gian để hoàn tất một quy trình nhập dữ liệu diễn đàn."
+
+#: includes/admin/tools/help.php:122
+msgid "\"Start Over\" will start the importer fresh, if your import failed for any reason leaving this setting unchecked the importer will begin from where it left off."
+msgstr "\"Làm lại từ đầu\" sẽ tiến hành một lệnh nhập dữ liệu mới hoàn toàn.  Nếu thiết lập này không được bật lên, khi việc nhập dữ liệu của bạn bị thất bại vì tất cả lý do nào, lần nhập dữ liệu tiếp theo sẽ bắt đầu từ nơi mà lần nhập thất bại trước đã ngưng."
+
+#: includes/admin/tools/help.php:108
+msgid "The settings in this section refer to the database connection strings used by your old forum software. The best way to determine the exact settings you need is to copy them from your legacy forums configuration file or contact your web hosting provider."
+msgstr "Thiết lập tại mục này nhằm vào thông tin liên quan đến database được dùng bởi phần mềm diễn đàn cũ của bạn.  Cách hay nhất để xác định chính xác các thông tin này là bạn hãy sao chép từ một configuration file trong diễn đàn cũ của bạn hoặc là bạn có thể liên hệ với nhà cung cấp dịch vụ mạng của bạn về các thông tin ấy."
+
+#: includes/admin/settings.php:1148
+msgid "Topics by Last Post"
+msgstr "Chủ đề theo Bài viết mới nhất"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:249
+msgid "No replies to this topic."
+msgstr "Không có trả lời trong chủ đề này."
+
+#: includes/admin/tools/common.php:431 includes/admin/tools/common.php:446
+msgid "Users"
+msgstr "Người dùng"
+
+#: includes/admin/tools/common.php:260
+msgid "Search Tools"
+msgstr "Công cụ tìm kiếm"
+
+#: includes/admin/tools/common.php:258
+msgid "Search Tools:"
+msgstr "Công cụ tìm kiếm:"
+
+#: includes/admin/tools/common.php:288
+msgid "All Components"
+msgstr "Tất cả thành phần"
+
+#: includes/admin/tools/common.php:286
+msgid "Filter by Component"
+msgstr "Chọn bởi thành phần"
+
+#: includes/admin/tools/common.php:800 includes/admin/tools/common.php:924
+msgid "All %s"
+msgstr "Tất cả %s"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:61
+msgid "Replied"
+msgstr "Đã trả lời"
+
+#: includes/admin/tools/common.php:405
+msgid "Medium"
+msgstr "Trung bình"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:90
+msgid "Unapprove"
+msgstr "Bỏ duyệt"
+
+#: includes/admin/tools/common.php:402
+msgid "Low"
+msgstr "Thấp"
+
+#: includes/admin/tools/common.php:408
+msgid "High"
+msgstr "Cao"
+
+#: includes/admin/settings.php:1802 includes/admin/tools/reset.php:23
+#: includes/admin/tools/repair.php:43 includes/admin/tools/upgrade.php:40
+msgid "Forum Tools"
+msgstr "Các công cụ diễn đàn"
+
+#: includes/admin/metaboxes.php:509
+msgid "&mdash; No reply &mdash;"
+msgstr "&mdash; Không có trả lời &mdash;"
+
+#: includes/admin/settings.php:840
+msgid "Allow forums to have dedicated moderators"
+msgstr "Đồng ý cho các diễn đàn có quản trị riêng"
+
+#: includes/admin/metaboxes.php:481
+msgid "Select what status to give the reply."
+msgstr "Chọn hiện trạng phản hồi."
+
+#: includes/admin/tools/help.php:31
+msgid "There is more detailed information available on the bbPress and BuddyPress codex for the following:"
+msgstr "Hiện đang có những thông tin cặn kẽ hơn về bbPress và BuddyPress codex cho các mục sau đây:"
+
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:60
+msgid "Content"
+msgstr "Nội dung"
+
+#: includes/admin/settings.php:246 includes/admin/tools/reset.php:42
+#: includes/admin/forums.php:237
+msgid "Forum Moderators"
+msgstr "Ban Quản Trị Diễn Đàn"
+
+#: includes/admin/replies.php:251
+msgid "%s reply updated."
+msgid_plural "%s replies updated."
+msgstr[0] "%s bình luận đã được cập nhật."
+
+#: includes/admin/tools.php:79
+msgid "The repair was not successful"
+msgstr "Việc sửa chữa không thành công"
+
+#: includes/admin/tools.php:78
+msgid "The repair was completed successfully"
+msgstr "Chỉnh sửa đã hoàn tất"
+
+#: includes/admin/tools.php:127
+msgid "Recalculate parent forum for each topic and reply"
+msgstr "Duyệt lại diễn đàn cha cho từng chủ đề và trả lời"
+
+#: includes/admin/replies.php:145
+msgid "<strong>View</strong> will take you to your live site to view the reply."
+msgstr "<strong>Xem</strong> sẽ dẫn bạn đến mạng trực tuyến để xem phản hồi."
+
+#: includes/admin/replies.php:574
+msgid "There was a problem approving the reply \"%1$s\"."
+msgstr "Có lỗi khi đang phê chuẩn phản hồi \"%1$s\"."
+
+#: includes/admin/replies.php:575
+msgid "Reply \"%1$s\" successfully approved."
+msgstr "Phản hồi \"%1$s\" đã được phê chuẩn thành công."
+
+#: includes/admin/replies.php:580
+msgid "There was a problem unapproving the reply \"%1$s\"."
+msgstr "Có lỗi khi đang xóa phê chuẩn phản hồi \"%1$s\"."
+
+#: includes/admin/replies.php:581
+msgid "Reply \"%1$s\" successfully unapproved."
+msgstr "Phản hồi \"%1$s\" đã được xóa phê chuẩn thành công."
+
+#: includes/admin/replies.php:809
+msgid "Unapprove this reply"
+msgstr "Xóa phê chuẩn phản hồi này"
+
+#: includes/admin/replies.php:809
+msgctxt "Unapprove reply"
+msgid "Unapprove"
+msgstr "Xóa phê chuẩn"
+
+#: includes/admin/replies.php:811
+msgid "Approve this reply"
+msgstr "Phê chuẩn phản hồi này"
+
+#: includes/admin/replies.php:811
+msgctxt "Approve reply"
+msgid "Approve"
+msgstr "Phê chuẩn"
+
+#: includes/admin/tools.php:115
+msgid "Recalculate parent topic for each reply"
+msgstr "Xác định lại chủ đề cấp trên của từng phản hồi"
+
+#: includes/admin/replies.php:130
+msgid "You can refine the list to show only replies in a specific forum or from a specific month by using the dropdown menus above the replies list. Click the Filter button after making your selection."
+msgstr "Bạn có thể xem danh sách với chỉ những trả lời từ một diễn đàn nhất định hoặc một tháng nhất định bằng cách chọn trong danh mục xổ xuống bên trên danh sách trả lời. Bấm vào nút Lọc sau khi chọn."
+
+#: includes/admin/topics.php:308
+msgid "Sorry, you are not allowed to unspam this topic."
+msgstr "Xin lỗi, bạn không được đồng ý để từ chối spam chủ đề này"
+
+#: includes/admin/topics.php:256
+msgid "%s topic updated."
+msgid_plural "%s topics updated."
+msgstr[0] "%s chủ đề đã được cập nhật."
+
+#: includes/admin/topics.php:990
+msgctxt "Approve Topic"
+msgid "Approve"
+msgstr "Phê chuẩn"
+
+#: includes/admin/topics.php:985
+msgctxt "Unapprove Topic"
+msgid "Unapprove"
+msgstr "Xóa phê chuẩn"
+
+#: includes/admin/topics.php:990
+msgid "Approve this topic"
+msgstr "Phê chuẩn chủ đề này"
+
+#: includes/admin/topics.php:985
+msgid "Unapprove this topic"
+msgstr "Xóa phê chuẩn chủ đề này"
+
+#: includes/admin/topics.php:761
+msgid "There was a problem unapproving the topic \"%1$s\"."
+msgstr "Có lỗi khi đang xóa phê chuẩn chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:755
+msgid "There was a problem approving the topic \"%1$s\"."
+msgstr "Có lỗi khi đang phê chuẩn chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:152
+msgid "<strong>View</strong> will take you to your live site to view the topic."
+msgstr "<strong>Xem</strong> sẽ dẫn bạn đến mạng trực tuyến để xem chủ đề."
+
+#: includes/admin/topics.php:148 includes/admin/replies.php:146
+msgid "<strong>Approve</strong> will change the status from pending to publish."
+msgstr "<strong>Phê chuẩn</strong> sẽ đổi hiện trạng từ đang xem xét qua công bố."
+
+#: includes/replies/template.php:2201
+msgctxt "Pending Status"
+msgid "Approve"
+msgstr "Phê chuẩn"
+
+#: includes/replies/template.php:2202
+msgctxt "Pending Status"
+msgid "Unapprove"
+msgstr "Xóa phê chuẩn"
+
+#: includes/admin/topics.php:133
+msgid "You can view topics in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Bạn có thể xem những chủ đề bằng một danh sách tiêu đề đơn giản hoặc với một tóm tắt. Chọn kiểu hiển thị mà bạn mong muốn bằng cách bấm vào biểu tượng trên cùng bên phải của danh sách."
+
+#: includes/admin/topics.php:134
+msgid "You can refine the list to show only topics in a specific forum or from a specific month by using the dropdown menus above the topics list. Click the Filter button after making your selection."
+msgstr "Bạn có thể xem danh sách với chỉ những trả lời từ một diễn đàn nhất định hoặc một tháng nhất định bằng cách chọn trong danh mục xổ xuống bên trên danh sách chủ đề. Bấm vào nút Lọc sau khi chọn."
+
+#: includes/replies/functions.php:1655
+msgctxt "Trash the reply"
+msgid "Trash"
+msgstr "Bỏ rác"
+
+#: includes/replies/functions.php:1654
+msgctxt "Spam the reply"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/replies/functions.php:1653
+msgctxt "Publish the reply"
+msgid "Publish"
+msgstr "Công bố"
+
+#: includes/common/template.php:2720
+msgid "Your Favorites"
+msgstr "Yêu thích"
+
+#: includes/common/template.php:2730
+msgid "Your Subscriptions"
+msgstr "Đang theo dõi"
+
+#: includes/common/functions.php:402 includes/common/functions.php:460
+msgid "Pending: %s"
+msgstr "Đang chờ: %s"
+
+#: includes/users/template.php:2375
+msgid "Moderators:"
+msgstr "Ban quản trị:"
+
+#: includes/users/template.php:1414
+msgctxt "Dismiss pending user email address change"
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/users/template.php:1419
+msgid "There is a pending email address change to %1$s. %2$s"
+msgstr "Hiện đang có một điện thư email chờ xem xét việc đổi địa chỉ điện thư sang %1$s. %2$s"
+
+#: includes/common/widgets.php:651
+msgid "A list of recent topics, sorted by: newness, popularity, or recent replies."
+msgstr "Mục lục chủ đề gần đây, sắp xếp thứ bậc theo: độ mới, độ phổ biến, hoặc phản hồi gần đây."
+
+#: templates/default/bbpress/form-topic.php:127
+#: includes/extend/buddypress/groups.php:487 includes/admin/metaboxes.php:445
+msgid "&mdash; No forum &mdash;"
+msgstr "&mdash; Không có diễn đàn &mdash;"
+
+#: templates/default/bbpress/form-topic.php:100
+msgid "You may use these %s tags and attributes:"
+msgstr "Bạn có thể dùng các tên nhãn và thuộc tính sau đây của %s:"
+
+#: includes/users/functions.php:418
+msgid ""
+"%1$s\n"
+"\n"
+"Someone requested a change to the email address on your account.\n"
+"\n"
+"Please click the following link to confirm this change:\n"
+"%2$s\n"
+"\n"
+"If you did not request this, you can safely ignore and delete this notification.\n"
+"\n"
+"This email was sent to: %3$s\n"
+"\n"
+"Regards,\n"
+"The %4$s Team\n"
+"%5$s"
+msgstr ""
+"%1$s\n"
+"\n"
+"Có ai đó đã yêu cầu chuyển đổi địa chỉ điện thư email trong tài khoản của bạn.\n"
+"\n"
+"Xin bấm vào nút dưới đây để xác nhận yêu cầu chuyển đổi này:\n"
+"%2$s\n"
+"\n"
+"Nếu bạn đã không yêu cầu điều này, bạn có thể an toàn bỏ qua và xóa thông báo này đi.\n"
+"\n"
+"Điện thư email này được gởi đến: %3$s\n"
+"\n"
+"Cảm ơn,\n"
+"Ban Quản Trị Mạng %4$s \n"
+"%5$s"
+
+#: includes/users/functions.php:453
+msgid "[%s] New Email Address"
+msgstr "[%s] Địa chỉ điện thư email mới"
+
+#: templates/default/bbpress/form-topic-tag.php:50
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: templates/default/bbpress/loop-topics.php:24
+#: templates/default/bbpress/loop-forums.php:26 includes/admin/topics.php:860
+#: includes/admin/forums.php:543
+msgid "Last Post"
+msgstr "Bài viết cuối"
+
+#: templates/default/bbpress/form-forum.php:101
+msgid "Forum Moderators:"
+msgstr "Moderators Diễn Đàn:"
+
+#: templates/default/bbpress/loop-single-topic.php:70
+msgid "in: %1$s"
+msgstr "trong: %1$s"
+
+#: templates/default/bbpress/form-topic-split.php:48
+#: templates/default/bbpress/form-reply-move.php:48
+msgid "New topic in %s titled:"
+msgstr "Chủ đề mới trong %s với tiêu đề là:"
+
+#: templates/default/bbpress/form-reply.php:138
+msgid "Reply Status:"
+msgstr "Hiện trạng phản hồi:"
+
+#: templates/default/bbpress/form-topic-merge.php:40
+msgid "Replies to both topics are merged chronologically, ordered by the time and date they were published. Topics may be updated to a 1 second difference to maintain chronological order based on the merge direction."
+msgstr "Phản hồi cho cả 2 chủ đề (chủ đề nguồn và chủ đề đích) được sát nhập theo thứ tự thời gian, với thứ bậc được sắp xếp theo thời gian và ngày mà các phản hồi ấy đã được đăng. Chủ đề có thể được cập nhật khác nhau trong 1 giây để ấn định việc thứ bậc tùy theo hướng nhập của 2 chủ đề ấy."
+
+#: templates/default/bbpress/form-reply.php:30
+msgid "Reply #%1$s in %2$s"
+msgstr "Phản hồi #%1$s trong %2$s"
+
+#. Author of the plugin
+msgid "The bbPress Contributors"
+msgstr "Những cộng tác viên của bbPress"
+
+#. translators: user role
+#: includes/common/locale.php:56
+msgctxt "User role"
+msgid "Blocked"
+msgstr "Bị khóa"
+
+#. translators: user role
+#: includes/common/locale.php:53
+msgctxt "User role"
+msgid "Spectator"
+msgstr "Khách"
+
+#. translators: user role
+#: includes/common/locale.php:50
+msgctxt "User role"
+msgid "Participant"
+msgstr "Thành viên"
+
+#. translators: user role
+#: includes/common/locale.php:47
+msgctxt "User role"
+msgid "Moderator"
+msgstr "Quản trị"
+
+#. translators: user role
+#: includes/common/locale.php:44
+msgctxt "User role"
+msgid "Keymaster"
+msgstr "Quản lý"
+
+#. Plugin Name of the plugin
+msgid "bbPress"
+msgstr "bbPress"
+
+#. Description of the plugin
+msgid "bbPress is forum software with a twist from the creators of WordPress."
+msgstr "bbPress là một ứng dụng diễn đàn được xây dựng bởi những những sáng lập Wordpress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://bbpress.org"
+msgstr "https://bbpress.org"
+
+#: templates/default/bbpress/form-user-edit.php:167
+msgid "Update Profile"
+msgstr "Cập nhật hồ sơ"
+
+#: includes/common/formatting.php:647
+msgid "right now"
+msgstr "hiện giờ"
+
+#: templates/default/bbpress/form-topic-split.php:107
+#: templates/default/bbpress/form-reply.php:176
+#: templates/default/bbpress/form-topic-merge.php:103
+#: templates/default/bbpress/form-forum.php:159
+#: templates/default/bbpress/form-reply-move.php:81
+#: templates/default/bbpress/form-topic.php:213
+msgid "Submit"
+msgstr "Nộp"
+
+#: templates/default/bbpress/form-user-register.php:42
+#: includes/common/widgets.php:114
+msgid "Register"
+msgstr "Ghi danh"
+
+#: templates/default/bbpress/user-profile.php:18
+#: templates/default/bbpress/user-details.php:30
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: includes/core/update.php:207
+msgid "General"
+msgstr "Tổng quát"
+
+#: templates/default/bbpress/form-topic-tag.php:100
+#: templates/default/bbpress/form-topic-tag.php:117
+#: includes/replies/template.php:1963 includes/topics/template.php:2517
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/admin/topics.php:162
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected topics at once. To remove a topic from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Khi dùng Bulk Edit, bạn có thể thay đổi siêu dữ liệu (chuyên mục, tên người viết, v.v) cho tất cả những chủ đề chọn lựa cùng một lúc.  Để gỡ bỏ một chủ đề ra từ nhóm chủ đề, bạn chỉ cần nhấn nút x kế bên tên chủ đề hiện ra trong mục Bulk Edit."
+
+#: includes/admin/tools/reset.php:32
+msgid "The following data will be removed:"
+msgstr "Những dữ liệu sau đây sẽ bị gỡ bỏ:"
+
+#: includes/admin/topics.php:150
+msgid "<strong>Spam</strong> removes your topic from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>Spam</strong>gỡ bỏ chủ đề của bạn ra từ danh sách này và tạm thời chuyển chủ đề này vào sọt spam.  Sọt spam là nơi mà bạn sẽ xóa vĩnh viễn chủ đề này."
+
+#: includes/admin/topics.php:151
+msgid "<strong>Trash</strong> removes your topic from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Bỏ rác</strong>gỡ bỏ chủ đề của bạn ra từ danh sách này và tạm thời chuyển chủ đề này vào sọt rác.  Sọt rác là nơi mà bạn sẽ xóa vĩnh viễn chủ đề này."
+
+#: templates/default/bbpress/form-topic-merge.php:33
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Chọn chủ đề để sát nhập chủ đề này vào.  Chủ đề đích sẽ vẫn là chủ đề chính, và chủ đề sẽ sát nhập sẽ đổi thành một phản hồi trong chủ đề chính ấy."
+
+#: includes/admin/users.php:170
+msgid "Change"
+msgstr "Thay đổi"
+
+#: includes/extend/buddypress/functions.php:341 includes/admin/settings.php:466
+#: includes/admin/tools/upgrade.php:371
+msgid "Group Forums"
+msgstr "Diễn đàn nhóm"
+
+#: templates/default/bbpress/form-topic-tag.php:55
+msgid "Update"
+msgstr "Cập nhật"
+
+#: includes/common/widgets.php:175 includes/common/widgets.php:320
+#: includes/common/widgets.php:437 includes/common/widgets.php:599
+#: includes/common/widgets.php:871 includes/common/widgets.php:1015
+#: includes/common/widgets.php:1218
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: templates/default/bbpress/form-user-edit.php:99
+#: templates/default/bbpress/form-user-edit.php:102
+msgid "Account"
+msgstr "Tài khoản"
+
+#: templates/default/bbpress/loop-search.php:23
+#: templates/default/bbpress/loop-search.php:45
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: templates/default/bbpress/form-user-login.php:17
+#: templates/default/bbpress/form-user-login.php:38
+#: includes/common/widgets.php:81 includes/common/widgets.php:102
+msgid "Log In"
+msgstr "Đăng nhập"
+
+#: includes/extend/buddypress/groups.php:496
+msgid "Save Settings"
+msgstr "Lưu thiết lập"
+
+#: templates/default/bbpress/form-user-passwords.php:31
+#: includes/replies/template.php:1653
+msgid "Cancel"
+msgstr "Hủy"
+
+#: includes/users/template.php:697
+msgid "Member"
+msgstr "Thành viên"
+
+#: includes/admin/tools/reset.php:47
+msgid "Delete imported users?"
+msgstr "Xóa các thành viên đã được nhập?"
+
+#: includes/admin/tools/reset.php:51
+msgid "This option will delete all previously imported users, and cannot be undone."
+msgstr "Tùy chọn này sẽ xóa toàn bộ thành viên được nhập trước đây, và lệnh này không thể phục hồi."
+
+#: includes/admin/tools/repair.php:725
+msgid "Removing trashed forums from user subscriptions&hellip; %s"
+msgstr "Đang xóa những diễn đàn rác từ mục theo dõi của thành viên&hellip; %s"
+
+#: includes/admin/tools/reset.php:62
+msgid "Backup your database before proceeding."
+msgstr "Hãy sao chép lại database của bạn trước khi tiến hành."
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2690
+msgid "(to front)"
+msgstr "(để lên trước)"
+
+#: includes/common/functions.php:1268
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Topic Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s đã viết:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Đường truyền chủ đề: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Bạn nhận được email này vì bạn đã ghi danh theo dõi một diễn đàn.\n"
+"\n"
+"Đăng nhập và vào trong chủ đề này để tắt theo dõi qua điện thư email."
+
+#: includes/extend/buddypress/notifications.php:101
+msgid "Topic Replies"
+msgstr "Phản hồi chủ đề"
+
+#: includes/extend/buddypress/notifications.php:89
+msgid "You have %d new replies"
+msgstr "Bạn có %d phản hồi mới"
+
+#: includes/forums/functions.php:2067
+msgctxt "Open the forum"
+msgid "Open"
+msgstr "Mở ra"
+
+#: includes/forums/functions.php:2068
+msgctxt "Close the forum"
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: includes/forums/functions.php:2085
+msgctxt "Forum accepts new topics"
+msgid "Forum"
+msgstr "Diễn đàn"
+
+#: includes/forums/functions.php:2086
+msgctxt "Forum is a category"
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: includes/forums/functions.php:2106
+msgctxt "Make forum public"
+msgid "Public"
+msgstr "Công cộng"
+
+#: includes/forums/functions.php:2107
+msgctxt "Make forum private"
+msgid "Private"
+msgstr "Riêng tư"
+
+#: includes/forums/functions.php:2108
+msgctxt "Make forum hidden"
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: includes/topics/functions.php:1857 includes/topics/template.php:2581
+msgctxt "Open the topic"
+msgid "Open"
+msgstr "Mở"
+
+#: includes/topics/functions.php:1858
+msgctxt "Close the topic"
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: includes/topics/functions.php:1859
+msgctxt "Spam the topic"
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/topics/functions.php:1860
+msgctxt "Trash the topic"
+msgid "Trash"
+msgstr "Bỏ rác"
+
+#: includes/topics/functions.php:1878
+msgctxt "Unstick a topic"
+msgid "Normal"
+msgstr "Bình thường"
+
+#: includes/topics/functions.php:1879
+msgctxt "Make topic sticky"
+msgid "Sticky"
+msgstr "Ghim"
+
+#: includes/topics/functions.php:1880
+msgctxt "Make topic super sticky"
+msgid "Super Sticky"
+msgstr "Siêu ghim"
+
+#: includes/users/template.php:1082 includes/topics/template.php:1830
+msgid "Unfavorite"
+msgstr "Xóa ưa thích"
+
+#: templates/default/bbpress/form-topic.php:155
+msgid "Topic Status:"
+msgstr "Hiện trạng chủ đề:"
+
+#: templates/default/bbpress/user-subscriptions.php:23
+msgid "Subscribed Forums"
+msgstr "Diễn đàn được theo dõi"
+
+#: includes/extend/akismet.php:596
+msgid "Akismet cleared this post as not spam"
+msgstr "Akismet đã xóa dấu spam cho bài viết này"
+
+#: includes/extend/akismet.php:829 includes/extend/akismet.php:839
+msgid "Akismet History"
+msgstr "Bản trực Akismet"
+
+#: includes/extend/akismet.php:883
+msgid "No recorded history. Akismet has not checked this post."
+msgstr "Bản ghi dữ liệu không tồn tại.  Akismet chưa kiểm tra bài viết này."
+
+#: includes/common/template.php:2651
+msgid "Forum Edit: %s"
+msgstr "Chỉnh sửa diễn đàn %s"
+
+#: includes/common/template.php:2656
+msgid "Topic Edit: %s"
+msgstr "Chỉnh sửa chủ đề: %s"
+
+#: includes/common/template.php:2661
+msgid "Reply Edit: %s"
+msgstr "Chỉnh sửa phản hồi: %s"
+
+#: includes/common/template.php:2666
+msgid "Topic Tag Edit: %s"
+msgstr "Chỉnh sửa nhãn chủ đề: %s"
+
+#: includes/replies/template.php:2379
+msgid "Viewing %1$s reply thread"
+msgid_plural "Viewing %1$s reply threads"
+msgstr[0] "Đang xem %1$s luồng phản hồi"
+
+#: includes/extend/buddypress/groups.php:467
+#: includes/extend/buddypress/groups.php:470
+msgid "Group Forum Settings"
+msgstr "Thiết lập diễn đàn nhóm"
+
+#: includes/common/widgets.php:908
+msgid "Recent Topics"
+msgstr "Chủ đề gần đây"
+
+#: includes/common/widgets.php:1032
+msgid "Forum Statistics"
+msgstr "Thống kê diễn đàn"
+
+#: includes/common/widgets.php:1235
+msgid "Recent Replies"
+msgstr "Phản hồi gần đây"
+
+#: includes/extend/buddypress/groups.php:483
+msgid "Group Forum:"
+msgstr "Diễn đàn nhóm:"
+
+#: includes/extend/buddypress/groups.php:491
+msgid "Network administrators can reconfigure which forum belongs to this group."
+msgstr "Quản trị mạng có thể tái ấn định diễn đàn nào nên thuộc về nhóm này."
+
+#: includes/extend/buddypress/groups.php:628
+msgctxt "group admin edit screen"
+msgid "Discussion Forum"
+msgstr "Diễn đàn thảo luận"
+
+#: includes/extend/buddypress/groups.php:1017
+msgid "This group does not currently have a forum."
+msgstr "Nhóm này hiện thời không có diễn đàn."
+
+#: includes/admin/tools/upgrade.php:372
+msgid "group-forums"
+msgstr "dien-dan-nhóm"
+
+#: includes/admin/tools/upgrade.php:388
+msgid "Complete! %s groups updated; %s forums updated; %s forum statuses synced."
+msgstr "Hoàn tất! %s các nhóm đã được cập nhật; %s các diễn đàn đã được cập nhật; %s hiện trạng của các diễn đàn đã được đồng bộ hóa."
+
+#: includes/admin/tools/repair.php:1023
+msgid "Repairing the sticky topic to the parent forum relationships&hellip; %s"
+msgstr "Đang tu sửa lại chủ đề ghim trong các mối quan hệ với diễn đàn thượng cấp"
+
+#: includes/admin/tools/reset.php:208
+msgid "Deleting Topic Tags&hellip; %s"
+msgstr "Đang xóa nhãn chủ đề&hellip; %s"
+
+#: includes/users/template.php:1547 includes/admin/users.php:107
+#: includes/admin/users.php:111
+msgid "&mdash; No role for these forums &mdash;"
+msgstr "&mdash; Không có vai trò nào trong các diễn đàn này &mdash;"
+
+#: includes/common/functions.php:1101
+msgid ""
+"%1$s wrote:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Post Link: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"You are receiving this email because you subscribed to a forum topic.\n"
+"\n"
+"Login and visit the topic to unsubscribe from these emails."
+msgstr ""
+"%1$s đã viết:\n"
+"\n"
+"%2$s\n"
+"\n"
+"Đường truyền bài viết: %3$s\n"
+"\n"
+"-----------\n"
+"\n"
+"Bạn nhận được email này vì bạn đã ghi danh theo dõi một chủ đề trong diễn đàn.\n"
+"\n"
+"Đăng nhập và vào trong chủ đề ấy để tắt theo dõi qua điện thư email."
+
+#: includes/common/widgets.php:361
+msgid "The bbPress forum search form."
+msgstr "Form tìm kiếm diễn đàn bbPress."
+
+#: includes/common/widgets.php:365
+msgid "(bbPress) Forum Search Form"
+msgstr "(bbPress) Form tìm kiếm diễn đàn"
+
+#: includes/common/widgets.php:937
+msgid "Some statistics from your forum."
+msgstr "Vài dữ liệu thống kê từ diễn đàn của bạn."
+
+#: includes/common/widgets.php:941
+msgid "(bbPress) Statistics"
+msgstr "(bbPress) Thống kê"
+
+#: includes/extend/buddypress/activity.php:195
+msgid "New forum topic"
+msgstr "Chủ đề mới"
+
+#: includes/extend/buddypress/activity.php:205
+msgid "New forum reply"
+msgstr "Phản hồi mới"
+
+#: includes/replies/template.php:2085
+msgid "Move"
+msgstr "Dời"
+
+#: includes/replies/template.php:2086
+msgid "Move this reply"
+msgstr "Dời phản hồi này"
+
+#: includes/search/template.php:179
+msgid "Search Results for '%s'"
+msgstr "Kết quả tìm kiếm cho '%s' "
+
+#: includes/search/template.php:414
+msgid "Viewing %1$s result"
+msgid_plural "Viewing %1$s results"
+msgstr[0] "Đang xem kết quả %1$s"
+
+#: includes/search/template.php:418
+msgid "Viewing %2$s results (of %4$s total)"
+msgid_plural "Viewing %1$s results - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Đang xem %2$s kết quả (với tổng số là %4$s)"
+
+#: includes/users/template.php:1081 includes/topics/template.php:1829
+msgid "Favorite"
+msgstr "Ưa thích"
+
+#: templates/default/bbpress/form-reply-move.php:27
+msgid "Move reply \"%s\""
+msgstr "Dời phản hồi \"%s\""
+
+#: templates/default/bbpress/form-reply-move.php:33
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Bạn có thể hoặc là đánh dấu phản hồi này là một chủ đề mới với một tiêu đề mới, hoặc sát nhập phản hồi này vào một chủ đề hiện có."
+
+#: templates/default/bbpress/form-reply-move.php:39
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Nếu bạn chọn một chủ đề hiện có, các phản hồi sẽ được sắp xếp theo thời gian và ngày mà các phản hồi ấy đã được viết."
+
+#: templates/default/bbpress/form-reply-move.php:44
+msgid "Move Method"
+msgstr "Cách dời"
+
+#: templates/default/bbpress/form-reply-move.php:49
+msgid "Moved: %s"
+msgstr "Đã dời: %s"
+
+#: templates/default/bbpress/form-reply-move.php:96
+msgid "You cannot edit this reply."
+msgstr "Bạn không thể chỉnh sửa phản hồi này."
+
+#: templates/default/bbpress/form-search.php:18
+msgid "Search for:"
+msgstr "Tìm:"
+
+#: templates/default/bbpress/loop-search-forum.php:17
+msgid "Last updated %s"
+msgstr "Cập nhật lần cuối cùng %s"
+
+#: templates/default/bbpress/loop-search-reply.php:22
+msgid "In reply to: "
+msgstr "Phản hồi về: "
+
+#: templates/default/bbpress/loop-search-topic.php:32
+msgid "in group forum "
+msgstr "trong diễn đàn nhóm"
+
+#: templates/default/bbpress/loop-search-topic.php:36
+msgid "in forum "
+msgstr "trong diễn đàn"
+
+#: templates/default/bbpress-functions.php:219
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr "Ôi! Có sự cố gì rồi, bạn ơi.  Bạn hãy bấm lệnh Refresh trong trình duyệt của bạn để thử lại lần nữa xem."
+
+#: templates/default/bbpress-functions.php:233
+msgid "Favorites are no longer active."
+msgstr "Ưa thích không còn hoạt động."
+
+#: templates/default/bbpress-functions.php:248
+#: templates/default/bbpress-functions.php:311
+msgid "You do not have permission to do this."
+msgstr "Bạn không được quyền thực thi lệnh này."
+
+#: templates/default/bbpress-functions.php:263
+#: templates/default/bbpress-functions.php:326
+msgid "Are you sure you meant to do that?"
+msgstr "Bạn có chắc là bạn muốn thực thi lệnh này không?"
+
+#: templates/default/bbpress-functions.php:273
+#: templates/default/bbpress-functions.php:336
+msgid "The request was unsuccessful. Please try again."
+msgstr "Yêu cầu này đã không thành công.  Bạn hãy thử lại một lần nữa xem."
+
+#: templates/default/bbpress-functions.php:296
+msgid "Subscriptions are no longer active."
+msgstr "Theo dõi đã không còn hoạt động."
+
+#: templates/default/bbpress/user-replies-created.php:19
+msgid "Forum Replies Created"
+msgstr "Phản hồi trong diễn đàn đã được tạo"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:57
+#: includes/common/template.php:2724
+msgid "%s's Favorites"
+msgstr "Ưa thích của %s"
+
+#: templates/default/bbpress/user-details.php:36
+msgid "%s's Topics Started"
+msgstr "Chủ đề của %s đã được tạo"
+
+#: templates/default/bbpress/loop-single-reply.php:22
+msgid "in reply to: "
+msgstr "Phản hồi về: "
+
+#: templates/default/bbpress/form-user-edit.php:131
+#: templates/default/bbpress/form-user-edit.php:134
+msgid "User Role"
+msgstr "Vai trò thành viên"
+
+#: templates/default/bbpress/form-user-edit.php:42
+msgid "Display Name"
+msgstr "Tên hiển thị"
+
+#: templates/default/bbpress/user-details.php:42
+msgid "%s's Replies Created"
+msgstr "Phản hồi của %s đã được tạo"
+
+#: includes/core/capabilities.php:501
+msgid "Editable forum roles no longer exist."
+msgstr "Những vai trò có thể chỉnh sửa trong diễn đàn đã không còn tồn tại."
+
+#: includes/extend/akismet.php:171 includes/extend/akismet.php:176
+#: includes/extend/akismet.php:492 includes/extend/akismet.php:497
+msgid "No response"
+msgstr "Không có hồi đáp"
+
+#: includes/users/template.php:687
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: templates/default/bbpress/form-forum.php:194
+msgid "You cannot create new forums."
+msgstr "Bạn không thể tạo diễn đàn mới."
+
+#: templates/default/bbpress/form-topic.php:248
+msgid "You cannot create new topics."
+msgstr "Bạn không thể tạo chủ đề mới."
+
+#: templates/default/bbpress/user-profile.php:43
+msgid "Replies Created: %s"
+msgstr "Phản hồi đã tạo: : %s"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:67
+#: includes/common/template.php:2734
+msgid "%s's Subscriptions"
+msgstr "Theo dõi của %s"
+
+#: templates/default/bbpress/form-user-edit.php:141
+msgid "Network Role"
+msgstr "Vai trò trong Network"
+
+#: templates/default/bbpress/form-user-roles.php:16
+msgid "Blog Role"
+msgstr "Vai trò trong Blog"
+
+#: templates/default/bbpress/user-profile.php:42
+msgid "Topics Started: %s"
+msgstr "Chủ đề đã bắt đầu: %s"
+
+#: templates/default/bbpress/user-profile.php:44
+msgid "Forum Role: %s"
+msgstr "Vai trò trong diễn đàn: %s"
+
+#: templates/default/bbpress/user-topics-created.php:19
+msgid "Forum Topics Started"
+msgstr "Chủ đề diễn đàn đã bắt đầu"
+
+#: includes/admin/tools/repair.php:788
+msgid "Remapping forum role for each user on this site&hellip; %s"
+msgstr "Đang chỉnh nối lại các vai trò trong diễn đàn của từng thành viên trong mạng này&hellip; %s "
+
+#: includes/admin/tools/repair.php:886
+msgid "Complete! %s users updated."
+msgstr "Hoàn tất! %s thành viên đã được cập nhật."
+
+#: includes/admin/topics.php:146
+msgid "<strong>Stick</strong> will keep the selected topic &#8217;pinned&#8217; to the top the parent forum topic list."
+msgstr "<strong>Ghim</strong> sẽ giữ chủ đề chọn lựa là &#8217;ghim&#8217;và đưa chủ đề này lên trên đầu bảng mục lục của diễn đàn thượng cấp."
+
+#: includes/admin/topics.php:147
+msgid "<strong>Stick <em>(to front)</em></strong> will keep the selected topic &#8217;pinned&#8217; to the top of ALL forums and be visable in any forums topics list."
+msgstr "<strong>Ghim <em>(và để lên trước)</em></strong> sẽ giữ chủ đề chọn lọc &#8217;ghim&#8217; và đưa chủ đề này lên trên đầu bảng mục lục của TẤT CẢ diễn đàn cũng như là sẽ hiển thị chủ đề này trong các mục lục chủ đề trong tất cả diễn đàn. "
+
+#: templates/default/bbpress/form-user-roles.php:23
+#: includes/users/signups.php:30 includes/admin/users.php:98
+#: includes/admin/users.php:282
+msgid "Forum Role"
+msgstr "Vai trò trong diễn đàn"
+
+#: includes/admin/users.php:164 includes/admin/users.php:166
+msgid "Change forum role to&hellip;"
+msgstr "Thay đổi vai trò trong diễn đàn sang&hellip;"
+
+#: includes/admin/users.php:278
+msgid "Site Role"
+msgstr "Vai trò trong mạng"
+
+#: includes/extend/buddypress/groups.php:478
+msgid "Saying no will not delete existing forum content."
+msgstr "Nói KHÔNG sẽ không xóa nội dung của diễn đàn."
+
+#: includes/extend/buddypress/groups.php:668
+msgid "Group Forum"
+msgstr "Các diễn đàn nhóm"
+
+#: includes/admin/topics.php:121
+msgid "This screen displays the individual topics on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Màn hình này hiển thị từng chủ đề trên mạng của bạn.  Bạn có thể tùy biến cách hiển thị trên màn hình này để phù hợp với quy trình công việc của bạn."
+
+#: includes/common/widgets.php:801
+msgctxt "widgets"
+msgid "by %1$s"
+msgstr "bởi %1$s"
+
+#: includes/common/widgets.php:885
+msgid "Show topic author:"
+msgstr "Hiển thị tên người viết chủ đề:"
+
+#: includes/common/widgets.php:888
+msgid "Order By:"
+msgstr "Sắp đặt theo:"
+
+#: includes/common/widgets.php:890
+msgid "Newest Topics"
+msgstr "Chủ đề mới nhất"
+
+#: includes/common/widgets.php:892
+msgid "Topics With Recent Replies"
+msgstr "Chủ đề với những phản hồi gần đây"
+
+#. translators: 1: reply author, 2: reply link, 3: reply timestamp
+#: includes/common/widgets.php:1146
+msgctxt "widgets"
+msgid "%1$s on %2$s %3$s"
+msgstr "%1$s trên %2$s %3$s"
+
+#: includes/common/widgets.php:1221
+msgid "Show reply author:"
+msgstr "Hiển thị tên người viết phản hồi:"
+
+#: includes/replies/template.php:674 includes/topics/template.php:765
+msgctxt "date at time"
+msgid "%1$s at %2$s"
+msgstr "%1$s vào lúc %2$s"
+
+#: includes/admin/tools/repair.php:497
+msgid "Counting the number of topics each user has created&hellip; %s"
+msgstr "Đang đếm số chủ đề mà từng thành viên đã tạo&hellip; %s"
+
+#: includes/admin/tools/reset.php:37
+msgid "All Topic Tags"
+msgstr "Tất cả nhãn chủ đề"
+
+#: includes/admin/tools/reset.php:39
+msgid "Forum Settings"
+msgstr "Thiết lập diễn đàn"
+
+#: includes/admin/tools/reset.php:40
+msgid "Forum Activity"
+msgstr "Hoạt động diễn đàn"
+
+#: includes/admin/tools/reset.php:41
+msgid "Forum User Roles"
+msgstr "Vai trò thành viên diễn đàn"
+
+#: includes/admin/tools/reset.php:43
+msgid "Importer Helper Data"
+msgstr "Dữ liệu nhập dạng giúp đỡ"
+
+#: includes/admin/tools/reset.php:50 includes/admin/tools/reset.php:60
+msgid "Say it ain't so!"
+msgstr "Ôi! Chưa vui sum họp đã sầu chia phôi!"
+
+#: templates/default/bbpress/form-topic-split.php:102
+#: templates/default/bbpress/form-topic-merge.php:98
+#: templates/default/bbpress/form-reply-move.php:76
+#: includes/admin/tools/reset.php:61
+msgid "This process cannot be undone."
+msgstr "Chỉ lệnh này không thể phục hồi."
+
+#: includes/admin/tools/reset.php:70
+msgid "Reset bbPress"
+msgstr "Khôi phục bbPress"
+
+#: includes/admin/tools/reset.php:121
+msgid "Success!"
+msgstr "Thành công!"
+
+#: templates/default/bbpress/form-user-lost-pass.php:30
+msgid "Reset My Password"
+msgstr "Khôi phục mật khẩu"
+
+#: includes/users/template.php:683
+msgid "Guest"
+msgstr "Khách"
+
+#: includes/forums/template.php:2045
+msgid "This forum is empty."
+msgstr "Diễn đàn rỗng."
+
+#: includes/topics/template.php:3330
+msgid "This topic has no replies."
+msgstr "Chủ đề này không có phản hồi."
+
+#: includes/replies/template.php:764
+msgid "This reply was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Phản hồi này đã được điều chỉnh %1$s bởi %2$s. Lý do: %3$s"
+
+#: includes/replies/template.php:766
+msgid "This reply was modified %1$s by %2$s."
+msgstr "Phản hồi này đã được điều chỉnh %1$s bởi %2$s."
+
+#: includes/topics/template.php:928
+msgid "This topic was modified %1$s by %2$s. Reason: %3$s"
+msgstr "Chủ đề này đã được điều chỉnh %1$s bởi %2$s. Lý do: %3$s"
+
+#: includes/topics/template.php:930
+msgid "This topic was modified %1$s by %2$s."
+msgstr "Chủ đề này đã được điều chỉnh %1$s bởi %2$s."
+
+#: includes/common/formatting.php:646
+msgid "sometime"
+msgstr "thỉnh thoảng"
+
+#: includes/common/formatting.php:728
+msgctxt "Separator in time since"
+msgid ","
+msgstr ","
+
+#: includes/extend/buddypress/loader.php:119
+msgid "Search Forums..."
+msgstr "Tìm trong diễn đàn ..."
+
+#: templates/default/bbpress/user-subscriptions.php:38
+#: includes/extend/buddypress/loader.php:356
+msgid "Subscribed Topics"
+msgstr "Chủ đề theo dõi"
+
+#: includes/extend/buddypress/groups.php:471
+#: includes/extend/buddypress/groups.php:670
+msgid "Create a discussion forum to allow members of this group to communicate in a structured, bulletin-board style fashion."
+msgstr "Tạo một diễn đàn dạng thảo luận để các thành viên của nhóm này có thể liên lạc và chia sẻ thông tin với nhau qua hình thức bảng thông báo bullentin-board."
+
+#: includes/extend/buddypress/groups.php:475
+#: includes/extend/buddypress/groups.php:673
+msgid "Yes. I want this group to have a forum."
+msgstr "Vâng.  Tôi muốn nhóm này có diễn đàn."
+
+#: includes/replies/template.php:2390
+msgid "Viewing %2$s replies (of %4$s total)"
+msgid_plural "Viewing %1$s replies - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Đang xem phản hồi thứ %2$s (trong tổng số %4$s phản hồi)"
+
+#: includes/replies/template.php:2402
+msgid "Viewing %2$s post (of %4$s total)"
+msgid_plural "Viewing %1$s posts - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Đang xem bài viết thứ %2$s (trong tổng số %4$s bài viết)"
+
+#: includes/topics/template.php:2999
+msgid "Viewing topic %2$s (of %4$s total)"
+msgid_plural "Viewing %1$s topics - %2$s through %3$s (of %4$s total)"
+msgstr[0] "Đang xem chủ đề thứ %2$s (trong tổng số %4$s chủ đề)"
+
+#: templates/default/bbpress/form-forum.php:39
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Tạo diễn đàn mới trong &ldquo;%s&rdquo;"
+
+#: templates/default/bbpress/form-forum.php:75
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Tên diễn đàn (số chữ tối đa là: %d):"
+
+#: templates/default/bbpress/form-forum.php:112
+msgid "Forum Type:"
+msgstr "Dạng diễn đàn:"
+
+#: templates/default/bbpress/form-forum.php:183
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Diễn Đàn &#8216;%s&#8217; đã đóng lệnh tạo nội dung mới."
+
+#: templates/default/bbpress/form-forum.php:195
+msgid "You must be logged in to create new forums."
+msgstr "Bạn cần đăng nhập để tạo những diễn đàn mới."
+
+#: includes/admin/topics.php:145
+msgid "<strong>Edit</strong> takes you to the editing screen for that topic. You can also reach that screen by clicking on the topic title."
+msgstr "<strong>Chỉnh sửa</strong> sẽ dẫn đến màn trình soạn thảo để chỉnh sửa chủ đề.  Bạn cũng có thể đến màn trình soạn thảo chỉnh sửa này bằng cách bấm vào tiêu đề của chủ đề này."
+
+#: includes/admin/topics.php:180
+msgid "The title field and the big topic editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ô Tiêu đề và Khung biên tập bài viết thuộc dạng cố định, tuy nhiên bạn có thể thay đổi vị trí các khung khác bằng cách kéo và thả.  Bạn cũng có thể thu nhỏ hoặc mở rộng các khung này bằng cách bấm vào thanh tiêu đề của mỗi khung.  Sử dụng thẻ Tùy Chỉnh Màn Hình để hiển thị thêm các khung khác (như: Trích Dẫn, Gửi Phản Hồi, Ô Bổ Sung, Thảo Luận, Slug, Người Viết) hoặc lựa chọn cách trình bày theo 1 hoặc 2 cột cho màn hình này. "
+
+#: includes/admin/topics.php:190
+msgid "Title and Topic Editor"
+msgstr "Trình soạn thảo tiêu đề và chủ đề"
+
+#: includes/admin/topics.php:192
+msgid "<strong>Title</strong> - Enter a title for your topic. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Tiêu đề</strong> - Điền tiêu đề cho chủ đề của bạn.  Sau khi tiêu đề được điền, bạn sẽ thấy permalink bên dưới.  Bạn có thể chỉnh sửa tùy thích permalink này."
+
+#: includes/admin/topics.php:193
+msgid "<strong>Topic Editor</strong> - Enter the text for your topic. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your topic text. You can insert media files by clicking the icons above the topic editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular topic editor."
+msgstr "<strong>Trình soạn thảo chủ đề</strong> - Chỉnh sửa hoặc viết nội dung cho chủ đề của bạn tại đây. Có 2 phương pháp để dùng trình soạn thảo này:  Visual và HTML.  Hãy chọn phương pháp nào mà bạn muốn dùng bằng cách bấm vào thẻ thích hợp.  Phương pháp Visual sẽ cho bạn màn hình WYSIWYG.  Bấm vào biểu tượng cuối cùng trong hàng để hàng thứ 2 hiển thị.  Phương pháp HTML sẽ cho bạn nhập mã HTML cơ bản cùng với phần văn bản của chủ đề.  Bạn có thể chèn các tập tin media bằng cách bấm vào các biểu tượng bên trên hộp chỉnh sửa chủ đề và làm theo các chỉ dẫn.  Ngoài ra, bạn có thể dùng bản viết toàn màn hình distraction-free bằng cách bấm nút biểu tượng Fullscreen trong phương pháp Visual (đây là nút thứ hai đếm từ phải qua trong hàng đầu) hoặc biểu tượng Fullscreen trong phương pháp HTML (nút cuối cùng trong hàng).  Một khi bạn đã dùng bản viết toàn màn hình Fullscreen (hoặc còn được biết là màn Distraction-Free), bạn có thể hiển thị các nút lệnh bằng cách di chuột trên vùng cao nhất.  Thoát bản viết toàn màn hình Fullscreen để về lại với bản viết trình soạn thảo thường."
+
+#: includes/admin/topics.php:196
+msgid "<strong>Publish</strong> - You can set the terms of publishing your topic in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a topic or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a topic to be published in the future or backdate a topic."
+msgstr "<strong>Công bố</strong> - Bạn có thể ấn định các hiện trạng công bố cho chủ đề của bạn qua hộp Công Bố.  Khi chọn lựa Hiện Trạng, Độ Hiển Thị, và Công Bố (ngay tức khắc), bấm vào đường liên kết Chỉnh Sửa để xem thêm những chọn lựa khác.  Độ Hiển Thị bao gồm những lựa chọn dùng mật khẩu để bảo vệ chủ đề hoặc ấn định chủ đề lúc nào cũng sẽ hiển thị ở phần trên nhất trong blog của bạn (còn được biết là Ghim).  Công Bố (ngay tức khắc) cũng cho bạn thêm lựa chọn thời gian trong quá khứ hoặc tương lai để bạn có thể sắp đặt chủ đề sẽ được công bố trong tương lai hoặc đặt chủ đề đã được công bố trong quá khứ."
+
+#: includes/admin/topics.php:199
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your topic without inserting it. This is usually useful only if your theme makes use of the featured image as a topic thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Ảnh đại diện</strong> - Lựa chọn này giúp bạn kết nối một ảnh với chủ đề của bạn mà không cần phải chèn ảnh này vào chủ đề này.  Lựa chọn này thường hữu ích nếu giao diện của bạn dùng ảnh đại diện như là một ảnh thu nhỏ của chủ đề trong trang nhà, trong phần đầu bổ sung (Custom Header), v.v."
+
+#: includes/admin/topics.php:206
+msgid "Select the attributes that your topic should have:"
+msgstr "Chọn lựa các thuộc tính mà chủ đề bạn nên có:"
+
+#: includes/admin/topics.php:1002
+msgctxt "Close a Topic"
+msgid "Close"
+msgstr "Đóng"
+
+#: includes/admin/topics.php:1004
+msgctxt "Open a Topic"
+msgid "Open"
+msgstr "Mở"
+
+#: includes/admin/topics.php:209
+msgid "<strong>Topic Type</strong> dropdown indicates the sticky status of the topic. Selecting the super sticky option would stick the topic to the front of your forums, i.e. the topic index, sticky option would stick the topic to its respective forum. Selecting normal would not stick the topic anywhere."
+msgstr "Trình đơn <strong>Dạng chủ đề</strong> cho biết về hiện trạng ghim của chủ đề.  Ấn định siêu ghim sẽ ghim chủ đề này lên trước các diễn đàn, ví dụ, vào bảng mục lục chủ đề.  Ấn định ghim sẽ ghim chủ đề này vào diễn đàn mà chủ đề này đang nằm trong diễn đàn đó.  Ấn định bình thường sẽ không ghim chủ đề vào đâu cả."
+
+#: includes/core/update.php:211
+msgid "Hello World!"
+msgstr "Trần gian chào cõi mộng này!"
+
+#: includes/common/widgets.php:34
+msgid "A simple login form with optional links to sign-up and lost password pages."
+msgstr "Một dạng form đơn giản dùng để đăng nhập với những đường liên kết phụ dẫn đến trang Ghi Danh hoặc Quên Mật Khẩu."
+
+#: includes/common/widgets.php:38
+msgid "(bbPress) Login Widget"
+msgstr "(bbPress) Widget Đăng Nhập"
+
+#: includes/common/widgets.php:227
+msgid "A list of registered optional topic views."
+msgstr "Danh sách chủ đề tùy chọn đã được đệ trình."
+
+#: includes/common/widgets.php:231
+msgid "(bbPress) Topic Views List"
+msgstr "(bbPress) Danh sách chủ đề"
+
+#: includes/common/widgets.php:478
+msgid "A list of forums with an option to set the parent."
+msgstr "Danh sách diễn đàn với tùy chọn ấn định cấp trên."
+
+#: includes/common/widgets.php:482
+msgid "(bbPress) Forums List"
+msgstr "(bbPress) Danh sách diễn đàn"
+
+#: includes/common/widgets.php:655
+msgid "(bbPress) Recent Topics"
+msgstr "(bbPress) Chủ đề gần đây"
+
+#: includes/common/widgets.php:1056
+msgid "A list of the most recent replies."
+msgstr "Danh sách phản hồi gần đây nhất."
+
+#: includes/common/widgets.php:1060
+msgid "(bbPress) Recent Replies"
+msgstr "(bbPress) Phản hồi gần đây"
+
+#. translators: 1: reply author, 2: reply link
+#: includes/common/widgets.php:1156
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr "%1$s trên %2$s"
+
+#: templates/default/bbpress/form-reply.php:200
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Chủ đề &#8216;%s&#8217; đã không cho phép tạo phản hồi mới."
+
+#: includes/common/widgets.php:605 includes/common/widgets.php:875
+msgid "Parent Forum ID:"
+msgstr "ID diễn đàn cấp trên:"
+
+#: includes/common/widgets.php:180
+msgid "Register URI:"
+msgstr "URI Ghi danh:"
+
+#: templates/default/bbpress/form-forum.php:36
+#: templates/default/bbpress/form-topic.php:44
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Đang chỉnh sửa &ldquo;%s&rdquo;"
+
+#: includes/common/widgets.php:185
+msgid "Lost Password URI:"
+msgstr "URI Quên mật khẩu:"
+
+#: includes/common/widgets.php:611 includes/common/widgets.php:881
+msgid "\"0\" to show only root - \"any\" to show all"
+msgstr "\"0\" để chỉ hiển thị đỉnh - \"any\" để hiển thị tất cả"
+
+#: templates/default/bbpress/form-topic.php:47
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Tạo chủ đề mới trong &ldquo;%s&rdquo;"
+
+#: includes/extend/buddypress/functions.php:779
+#: includes/extend/buddypress/activity.php:452
+msgid "%1$s started the topic %2$s in the forum %3$s"
+msgstr "%1$s đã tạo ra chủ đề %2$s trong diễn đàn %3$s"
+
+#: templates/default/bbpress/form-reply.php:210
+#: templates/default/bbpress/form-topic.php:237
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Diễn đàn &#8216;%s&#8217; đã không còn cho phép tạo chủ đề và phản hồi mới."
+
+#: includes/extend/buddypress/functions.php:780
+#: includes/extend/buddypress/activity.php:590
+msgid "%1$s replied to the topic %2$s in the forum %3$s"
+msgstr "%1$s đã phản hồi chủ đề %2$s trong diễn đàn %3$s"
+
+#: templates/default/bbpress/feedback-logged-in.php:17
+msgid "You are already logged in."
+msgstr "Bạn đã đăng nhập rồi mà."
+
+#: templates/default/bbpress/form-topic.php:85
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Tiêu đề (số chữ tối đa là: %d):"
+
+#: includes/forums/template.php:51 includes/admin/tools/reset.php:34
+msgid "All Forums"
+msgstr "Tất cả diễn đàn"
+
+#: includes/topics/template.php:3394
+msgid "View Topic Tag"
+msgstr "Xem nhãn chủ đề"
+
+#: templates/default/bbpress/form-reply.php:58
+#: templates/default/bbpress/form-forum.php:62
+#: templates/default/bbpress/form-topic.php:70
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Tài khoản của bạn được quyền đăng không giới hạn những bài viết dạng HTML."
+
+#: includes/common/template.php:2348
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#: includes/extend/akismet.php:582 includes/extend/akismet.php:605
+msgid "Post status was changed to %s"
+msgstr "Hiện trạng bài viết đã được đổi thành %s"
+
+#: includes/common/template.php:2253
+msgid "Home"
+msgstr "Trang Đầu"
+
+#: includes/extend/akismet.php:573
+msgid "Akismet caught this post as spam"
+msgstr "Akismet phát hiện ra bài này là spam"
+
+#: includes/common/template.php:2348
+msgid "&rsaquo;"
+msgstr "&rsaquo;"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:388
+msgid "%1$s reported this %2$s as not spam"
+msgstr "%1$s trình báo %2$s này không phải là spam"
+
+#. translators: 1: reporter name, 2: comment type
+#: includes/extend/akismet.php:363
+msgid "%1$s reported this %2$s as spam"
+msgstr "%1$s trình báo %2$s này là spam"
+
+#: includes/extend/akismet.php:619
+msgid "Akismet was unable to check this post (response: %s), will automatically retry again later."
+msgstr "Akismet không thể nào kiểm tra bài này (hồi đáp: %s).  Bài này sẽ được Akismet tự động kiểm tra lại sau."
+
+#: includes/common/functions.php:410 includes/common/functions.php:468
+msgid "Spammed: %s"
+msgstr "Spam: %s"
+
+#: includes/common/functions.php:464
+msgid "Private: %s"
+msgstr "Riêng tư: %s"
+
+#: includes/admin/topics.php:143
+msgid "Hovering over a row in the topics list will display action links that allow you to manage your topic. You can perform the following actions:"
+msgstr "Di chuột lên trên một hàng trong bảng mục lục các chủ đề sẽ hiển thị các đường truyền liên kết cho phép bạn kiểm soát chủ đề.  Bạn có thể thực hiện các thao tác sau: "
+
+#: includes/admin/topics.php:204 includes/admin/topics.php:341
+#: includes/topics/template.php:67
+msgid "Topic Attributes"
+msgstr "Thuộc tính chủ đề"
+
+#: includes/admin/topics.php:713
+msgid "There was a problem opening the topic \"%1$s\"."
+msgstr "Có lỗi khi đang mở chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:714
+msgid "Topic \"%1$s\" successfully opened."
+msgstr "Chủ đề \"%1$s\" đã được mở ra thành công."
+
+#: includes/admin/topics.php:719
+msgid "There was a problem closing the topic \"%1$s\"."
+msgstr "Có lỗi khi đang đóng lại chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:720
+msgid "Topic \"%1$s\" successfully closed."
+msgstr "Chủ đề \"%1$s\" đã được đóng lại thành công."
+
+#: includes/admin/topics.php:725
+msgid "There was a problem sticking the topic \"%1$s\" to front."
+msgstr "Có lỗi khi đang ghim chủ đề \"%1$s\" lên trước."
+
+#: includes/admin/topics.php:731
+msgid "There was a problem sticking the topic \"%1$s\"."
+msgstr "Có lỗi khi đang ghim chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:737
+msgid "There was a problem unsticking the topic \"%1$s\"."
+msgstr "Có lỗi khi đang xóa ghim chủ đề \"%1$s\"."
+
+#: includes/admin/topics.php:743
+msgid "There was a problem marking the topic \"%1$s\" as spam."
+msgstr "Có lỗi khi đang đánh dấu chủ đề \"%1$s\" là spam."
+
+#: includes/admin/topics.php:744
+msgid "Topic \"%1$s\" successfully marked as spam."
+msgstr "Chủ đề \"%1$s\" đã được đánh dấu spam thành công."
+
+#: includes/admin/topics.php:749
+msgid "There was a problem unmarking the topic \"%1$s\" as spam."
+msgstr "Có lỗi khi đang xóa dấu chủ đề \"%1$s\" là spam."
+
+#: includes/admin/topics.php:750
+msgid "Topic \"%1$s\" successfully unmarked as spam."
+msgstr "Chủ đề \"%1$s\" đã được xóa dấu spam thành công."
+
+#: includes/admin/topics.php:1002
+msgid "Close this topic"
+msgstr "Đóng chủ đề này lại"
+
+#: includes/admin/topics.php:1004
+msgid "Open this topic"
+msgstr "Mở chủ đề này ra"
+
+#: includes/admin/topics.php:1013
+msgid "Unstick this topic"
+msgstr "Xóa ghim chủ đề này"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to its forum"
+msgstr "Ghim chủ đề này vào diễn đàn"
+
+#: includes/admin/topics.php:1016
+msgid "Stick this topic to front"
+msgstr "Ghim chủ đề này lên trước"
+
+#: includes/admin/topics.php:1025
+msgid "Mark the topic as not spam"
+msgstr "Đánh dấu chủ đề này không phải là spam"
+
+#: includes/admin/topics.php:1023
+msgid "Mark this topic as spam"
+msgstr "Đánh dấu chủ đề này là spam"
+
+#: includes/admin/topics.php:1175 includes/admin/topics.php:1187
+#: includes/topics/template.php:78
+msgid "Topic updated."
+msgstr "Chủ đề đã được cập nhật. <a href=\"%s\">Xem chủ đề</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/topics.php:1192
+msgid "Topic restored to revision from %s"
+msgstr "Chủ đề đã được phục hồi lại từ phiên bản %s"
+
+#: includes/admin/topics.php:1204
+msgid "Topic saved."
+msgstr "Chủ đề đã được lưu."
+
+#: templates/default/bbpress/form-user-passwords.php:17
+#: templates/default/bbpress/form-user-login.php:25
+#: includes/common/widgets.php:89
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: templates/default/bbpress/form-user-login.php:31
+#: includes/common/widgets.php:95
+msgid "Keep me signed in"
+msgstr "Giữ cho tôi đăng nhập"
+
+#: templates/default/bbpress/form-user-passwords.php:42
+msgid "Type your new password again."
+msgstr "Nhập mật khẩu mới của bạn một lần nữa."
+
+#: templates/default/bbpress/form-user-edit.php:32
+msgid "Last Name"
+msgstr "Họ"
+
+#: templates/default/bbpress/form-user-edit.php:27
+msgid "First Name"
+msgstr "Tên"
+
+#: templates/default/bbpress/form-reply.php:153
+#: templates/default/bbpress/form-topic.php:194
+msgid "Keep a log of this edit:"
+msgstr "Giữ một bản sổ trực (log) của chỉnh sửa này:"
+
+#: includes/admin/topics.php:1016 includes/topics/template.php:2688
+msgid "Stick"
+msgstr "Ghim"
+
+#: templates/default/bbpress/form-topic-split.php:44
+msgid "Split Method"
+msgstr "Cách tách rời"
+
+#: templates/default/bbpress/form-user-edit.php:107
+#: templates/default/bbpress/form-user-register.php:29
+#: templates/default/bbpress/form-user-login.php:20
+#: includes/common/widgets.php:84
+msgid "Username"
+msgstr "Tên đăng nhập"
+
+#: templates/default/bbpress/form-topic-split.php:39
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Nếu bạn dùng chủ đề hiện có, những phản hồi trong cả hai chủ đề (chủ đề gốc và chủ đề điểm đến) sẽ được sát nhập theo thứ tự thời gian.  Thứ bậc của các phản hồi sát nhập sẽ tùy thuộc vào thời gian và ngày mà các phản hồi ấy đã được đăng. "
+
+#: templates/default/bbpress/form-topic-tag.php:110
+msgid "Any links to this tag will no longer function."
+msgstr "Các đường truyền đến nhãn này sẽ không còn hoạt động nữa."
+
+#: templates/default/bbpress/user-favorites.php:19
+msgid "Favorite Forum Topics"
+msgstr "Chủ đề ưa thích"
+
+#: includes/replies/template.php:2398
+msgid "Viewing %1$s post"
+msgid_plural "Viewing %1$s posts"
+msgstr[0] "Đang xem %1$s bài viết"
+
+#: templates/default/bbpress/form-reply.php:157
+#: templates/default/bbpress/form-topic.php:198
+msgid "Optional reason for editing:"
+msgstr "Lý do tùy chọn dẫn đến chỉnh sửa:"
+
+#: templates/default/bbpress/form-user-lost-pass.php:21
+msgid "Username or Email"
+msgstr "Tên đăng nhập hoặc điện thư email"
+
+#: templates/default/bbpress/form-user-lost-pass.php:17
+#: includes/common/widgets.php:120
+msgid "Lost Password"
+msgstr "Quên mật khẩu"
+
+#: templates/default/bbpress/form-reply.php:222
+msgid "You must be logged in to reply to this topic."
+msgstr "Bạn cần đăng nhập để phản hồi chủ đề này."
+
+#: templates/default/bbpress/form-topic-tag.php:117
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Bạn có chắc bạn muốn xóa nhãn \"%s\" không?  Lệnh này là lệnh thường trực và không thể phục hồi."
+
+#: templates/default/bbpress/form-topic-split.php:76
+#: templates/default/bbpress/form-topic-merge.php:72
+msgid "Topic Extras"
+msgstr "Bổ sung chủ đề"
+
+#: templates/default/bbpress/form-topic-split.php:49
+msgid "Split: %s"
+msgstr "Tách rời: %s"
+
+#: templates/default/bbpress/form-topic-split.php:56
+#: templates/default/bbpress/form-reply-move.php:56
+msgid "Use an existing topic in this forum:"
+msgstr "Dùng một chủ đề hiện có trong diễn đàn này:"
+
+#: templates/default/bbpress/loop-single-topic.php:62
+msgid "Started by: %1$s"
+msgstr "Bắt đầu từ: %1$s"
+
+#: templates/default/bbpress/loop-topics.php:19 includes/admin/topics.php:857
+msgid "Voices"
+msgstr "Voice"
+
+#: templates/default/bbpress/form-user-edit.php:37
+msgid "Nickname"
+msgstr "Bí danh"
+
+#: templates/default/bbpress/form-user-edit.php:52
+#: templates/default/bbpress/form-user-edit.php:55
+msgid "Contact Info"
+msgstr "Thông tin liên lạc"
+
+#: templates/default/bbpress/form-user-edit.php:78
+#: templates/default/bbpress/form-user-edit.php:84
+msgid "About Yourself"
+msgstr "Một chút về bạn"
+
+#: templates/default/bbpress/form-user-edit.php:79
+#: templates/default/bbpress/form-user-edit.php:85
+msgid "About the user"
+msgstr "Một chút về thành viên"
+
+#: templates/default/bbpress/form-user-edit.php:91
+msgid "Biographical Info"
+msgstr "Tiểu sử"
+
+#: includes/common/template.php:2323
+msgid "(Edit)"
+msgstr "(Chỉnh sửa)"
+
+#: includes/common/functions.php:414 includes/common/functions.php:472
+msgid "Trashed: %s"
+msgstr "Bỏ rác: %s"
+
+#: includes/users/template.php:2005 includes/replies/template.php:1196
+#: includes/topics/template.php:1429
+msgid "View %s's profile"
+msgstr "Xem hồ sơ %s"
+
+#: templates/default/bbpress/form-reply.php:112
+#: templates/default/bbpress/form-topic.php:178
+msgid "Notify me of follow-up replies via email"
+msgstr "Hãy báo tin cho tôi các phản hồi tiếp theo qua email"
+
+#: templates/default/bbpress/form-reply.php:108
+#: templates/default/bbpress/form-topic.php:174
+msgid "Notify the author of follow-up replies via email"
+msgstr "Hãy báo tin cho tôi tên người viết của các phản hồi tiếp theo qua email"
+
+#: templates/default/bbpress/form-topic.php:143
+msgid "Topic Type:"
+msgstr "Dạng chủ đề:"
+
+#: templates/default/bbpress/form-topic.php:111
+msgid "Topic Tags:"
+msgstr "Nhãn chủ đề:"
+
+#: templates/default/bbpress/form-reply.php:79
+#: templates/default/bbpress/form-forum.php:90
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr "Bạn có thể dùng những nhãn và những thuộc tính <abbr title=\"HyperText Markup Language\">HTML</abbr> sau đây:"
+
+#: templates/default/extras/page-forum-statistics.php:34
+#: includes/common/widgets.php:891
+msgid "Popular Topics"
+msgstr "Chủ đề phổ biến"
+
+#: templates/default/bbpress/content-statistics.php:67
+msgid "Hidden Replies"
+msgstr "Phản hồi ẩn"
+
+#: templates/default/bbpress/content-statistics.php:56
+msgid "Hidden Topics"
+msgstr "Chủ đề ẩn"
+
+#: templates/default/bbpress/content-statistics.php:47
+msgid "Empty Topic Tags"
+msgstr "Nhãn chủ đề rỗng"
+
+#: templates/default/bbpress/content-statistics.php:20
+msgid "Registered Users"
+msgstr "Thành viên đã ghi danh"
+
+#: includes/topics/template.php:3397
+msgid "New Tag Name"
+msgstr "Tên nhãn mới"
+
+#: includes/topics/template.php:3396
+msgid "Add New Tag"
+msgstr "Thêm nhãn mới"
+
+#: includes/topics/template.php:3390
+msgid "All Tags"
+msgstr "Tất cả nhãn"
+
+#: includes/topics/template.php:3393
+msgid "Edit Tag"
+msgstr "Chỉnh sửa nhãn"
+
+#: includes/topics/template.php:3388
+msgid "Search Tags"
+msgstr "Tìm nhãn"
+
+#: includes/topics/template.php:3395
+msgid "Update Tag"
+msgstr "Cập nhật nhãn"
+
+#: includes/topics/template.php:3389
+msgid "Popular Tags"
+msgstr "Nhãn phổ biến"
+
+#: templates/default/bbpress/content-statistics.php:40
+#: includes/admin/tools/common.php:443 includes/topics/template.php:3385
+#: includes/topics/template.php:3386
+msgid "Topic Tags"
+msgstr "Nhãn chủ đề"
+
+#: includes/replies/template.php:63
+msgid "No replies found in Trash"
+msgstr "Không tìm thấy phản hồi trong sọt rác"
+
+#: includes/replies/template.php:62
+msgid "No replies found"
+msgstr "Không tìm thấy phản hồi"
+
+#: includes/replies/template.php:61
+msgid "Search Replies"
+msgstr "Tìm phản hồi"
+
+#: includes/replies/template.php:58 includes/replies/template.php:59
+msgid "View Reply"
+msgstr "Xem phản hồi"
+
+#: includes/replies/template.php:56
+msgid "Edit Reply"
+msgstr "Chỉnh sửa phản hồi"
+
+#: includes/replies/template.php:57
+msgid "New Reply"
+msgstr "Phản hồi mới"
+
+#: includes/replies/template.php:54
+msgid "Create New Reply"
+msgstr "Tạo phản hồi mới"
+
+#: includes/forums/template.php:56
+msgid "New Forum"
+msgstr "Diễn đàn mới"
+
+#: templates/default/bbpress/form-forum.php:40 includes/forums/template.php:53
+msgid "Create New Forum"
+msgstr "Tạo diễn đàn mới"
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/forums/template.php:54 includes/common/template.php:2331
+#: includes/replies/template.php:55 includes/replies/template.php:1849
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:149
+#: includes/admin/settings.php:392 includes/topics/template.php:53
+#: includes/topics/template.php:2403
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: includes/forums/template.php:55
+msgid "Edit Forum"
+msgstr "Chỉnh sửa diễn đàn"
+
+#: includes/forums/template.php:57 includes/forums/template.php:58
+msgid "View Forum"
+msgstr "Xem diễn đàn"
+
+#: includes/forums/template.php:60 includes/common/widgets.php:454
+msgid "Search Forums"
+msgstr "Tìm diễn đàn"
+
+#: includes/forums/template.php:61
+msgid "No forums found"
+msgstr "Không tìm thấy diễn đàn"
+
+#: includes/forums/template.php:62
+msgid "No forums found in Trash"
+msgstr "Không tìm thấy diễn đàn trong sọt rác"
+
+#: templates/default/bbpress/form-forum.php:139 includes/forums/template.php:66
+msgid "Parent Forum:"
+msgstr "Diễn đàn cấp trên:"
+
+#: includes/topics/template.php:55
+msgid "New Topic"
+msgstr "Chủ đề mới"
+
+#: templates/default/bbpress/form-topic.php:48 includes/topics/template.php:52
+msgid "Create New Topic"
+msgstr "Tạo chủ đề mới"
+
+#: includes/topics/template.php:54
+msgid "Edit Topic"
+msgstr "Chỉnh sửa chủ đề"
+
+#: includes/topics/template.php:56 includes/topics/template.php:57
+msgid "View Topic"
+msgstr "Xem chủ đề"
+
+#: includes/topics/template.php:59
+msgid "Search Topics"
+msgstr "Tìm chủ đề"
+
+#: includes/topics/template.php:60
+msgid "No topics found"
+msgstr "Không tìm thấy chủ đề"
+
+#: includes/topics/template.php:61
+msgid "No topics found in Trash"
+msgstr "Không tìm thấy chủ đề trong sọt rác"
+
+#: templates/default/bbpress/form-topic-split.php:33
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Khi bạn tách rời một chủ đề, bạn đã chia chủ đề ấy ra làm 2 chủ đề mới bắt đầu với phản hồi mà bạn đã chọn.  Bạn có thể hoặc là chuyển đổi phản hồi tách ra ấy thành chủ đề mới với một tiêu đề mới, hoặc sát nhập các phản hồi vào một chủ đề hiện có."
+
+#: templates/default/bbpress/form-topic-split.php:27
+msgid "Split topic \"%s\""
+msgstr "Tách rời chủ đề \"%s\""
+
+#: templates/default/bbpress/form-user-edit.php:168
+msgid "Update User"
+msgstr "Cập nhật thành viên"
+
+#: templates/default/bbpress/form-user-edit.php:144
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Chuẩn cấp cho thành viên này quyền siêu quản trị mạng."
+
+#: includes/replies/template.php:1988 includes/topics/template.php:2538
+msgid "Are you sure you want to delete that permanently?"
+msgstr "Bạn có chắc bạn muốn xóa vĩnh viễn không?"
+
+#: templates/default/bbpress/form-user-register.php:17
+msgid "Create an Account"
+msgstr "Tạo tài khoản"
+
+#: templates/default/bbpress/form-user-register.php:23
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Tên đăng nhập của bạn không thể trùng lập, và không thể thay đổi sau này."
+
+#: templates/default/bbpress/form-user-register.php:24
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "Chúng tôi dùng điện thư email của bạn để gởi mật khẩu bảo đảm và để xác nhận tài khoản của bạn."
+
+#: templates/default/extras/taxonomy-topic-tag.php:17
+#: templates/default/extras/taxonomy-topic-tag-edit.php:17
+#: includes/common/template.php:2327 includes/common/template.php:2442
+#: includes/common/template.php:2687 includes/core/theme-compat.php:804
+msgid "Topic Tag: %s"
+msgstr "Nhãn chủ đề: %s"
+
+#: includes/replies/template.php:2386
+msgid "Viewing %1$s reply"
+msgid_plural "Viewing %1$s replies"
+msgstr[0] "Đang xem %1$s phản hồi"
+
+#: includes/replies/template.php:2145
+msgid "Split the topic from this reply"
+msgstr "Tách rời chủ đề từ phản hồi này"
+
+#: includes/replies/template.php:2144
+msgid "Split"
+msgstr "Tách rời"
+
+#: includes/replies/template.php:2030 includes/admin/topics.php:238
+#: includes/admin/replies.php:233 includes/topics/template.php:2808
+msgid "Unspam"
+msgstr "Xóa dấu spam"
+
+#: includes/common/template.php:1157
+msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
+msgstr "Các thẻ Truy vấn điều kiện không thể tiến hành trước khi lệnh Truy vấn đã được tiến hành vì nếu thực thi như thế, các thẻ này luôn luôn có kết quả là false. "
+
+#: includes/users/template.php:1279 includes/forums/template.php:833
+#: includes/topics/template.php:1781
+msgid "Subscribe"
+msgstr "Theo dõi"
+
+#: includes/users/template.php:1280 includes/forums/template.php:834
+#: includes/topics/template.php:1782
+msgid "Unsubscribe"
+msgstr "Xóa theo dõi"
+
+#: templates/default/bbpress/feedback-no-access.php:16
+msgid "Private"
+msgstr "Riêng tư"
+
+#: templates/default/bbpress/feedback-no-access.php:20
+msgid "You do not have permission to view this forum."
+msgstr "Bạn không được quyền xem diễn đàn này."
+
+#: templates/default/bbpress/form-topic-split.php:83
+msgid "Copy subscribers to the new topic"
+msgstr "Sao chép những thành viên ghi danh theo dõi vào chủ đề mới"
+
+#: templates/default/bbpress/form-topic-split.php:88
+msgid "Copy favoriters to the new topic"
+msgstr "Sao chép những thành viên ưa thích vào chủ đề mới"
+
+#: templates/default/bbpress/form-topic-split.php:93
+msgid "Copy topic tags to the new topic"
+msgstr "Sao chép các nhãn chủ đề vào chủ đề mới"
+
+#: templates/default/bbpress/form-topic-split.php:122
+#: templates/default/bbpress/form-topic-merge.php:118
+msgid "You cannot edit this topic."
+msgstr "Bạn không thể chỉnh sửa chủ đề này."
+
+#: templates/default/bbpress/form-topic-merge.php:27
+msgid "Merge topic \"%s\""
+msgstr "Sát nhập chủ đề \"%s\""
+
+#: templates/default/bbpress/form-topic-merge.php:34
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Để giữ chủ đề này là chủ đề chính, hãy qua chủ đề kia và dùng công cụ sát nhập bên chủ đề ấy để sát nhập vào chủ đề này."
+
+#: templates/default/bbpress/form-topic-merge.php:45
+msgid "Destination"
+msgstr "Điểm đến"
+
+#: templates/default/bbpress/form-topic-merge.php:49
+msgid "Merge with this topic:"
+msgstr "Sát nhập với chủ đề này:"
+
+#: templates/default/bbpress/form-topic-merge.php:64
+msgid "There are no other topics in this forum to merge with."
+msgstr "Không có chủ đề nào trong diễn đàn này để sát nhập."
+
+#: templates/default/bbpress/form-topic-merge.php:79
+msgid "Merge topic subscribers"
+msgstr "Sát nhập những thành viên ghi danh theo dõi chủ đề"
+
+#: templates/default/bbpress/form-topic-merge.php:84
+msgid "Merge topic favoriters"
+msgstr "Sát nhập những thành viên ưa thích chủ đề"
+
+#: templates/default/bbpress/form-topic-merge.php:89
+msgid "Merge topic tags"
+msgstr "Sát nhập các nhãn chủ đề"
+
+#: includes/topics/template.php:2195
+msgid "Tagged:"
+msgstr "Dán nhãn:"
+
+#: includes/forums/template.php:2001 includes/topics/template.php:2016
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s phản hồi"
+
+#: includes/admin/topics.php:935 includes/topics/template.php:1988
+msgid "No Replies"
+msgstr "Không có phản hồi"
+
+#: includes/common/widgets.php:1219
+msgid "Maximum replies to show:"
+msgstr "Số phản hồi tối đa để hiển thị:"
+
+#: includes/common/widgets.php:884 includes/common/widgets.php:1220
+msgid "Show post date:"
+msgstr "Hiển thị ngày viết:"
+
+#: includes/common/widgets.php:872
+msgid "Maximum topics to show:"
+msgstr "Số chủ đề tối đa để hiển thị:"
+
+#: includes/users/template.php:2006 includes/replies/template.php:1197
+#: includes/topics/template.php:1430
+msgid "Visit %s's website"
+msgstr "Xem trang mạng của %s"
+
+#: templates/default/bbpress/form-reply.php:221
+msgid "You cannot reply to this topic."
+msgstr "Bạn không thể phản hồi chủ đề này."
+
+#: templates/default/bbpress/form-reply.php:90
+msgid "Tags:"
+msgstr "Nhãn:"
+
+#: templates/default/bbpress/form-topic.php:249
+msgid "You must be logged in to create new topics."
+msgstr "Bạn cần đăng nhập để tạo chủ đề mới."
+
+#: templates/default/bbpress/form-anonymous.php:28
+msgid "Mail (will not be published) (required):"
+msgstr "Điện thư email (sẽ không công bố) (bắt buộc):"
+
+#: templates/default/bbpress/form-anonymous.php:23
+msgid "Name (required):"
+msgstr "Tên (bắt buộc):"
+
+#: templates/default/bbpress/form-anonymous.php:18
+msgid "Your information:"
+msgstr "Thông tin về bạn:"
+
+#: templates/default/bbpress/form-topic-tag.php:19
+msgid "Manage Tag: \"%s\""
+msgstr "Quản lý nhãn: \"%s\""
+
+#: templates/default/bbpress/form-protected.php:17
+msgid "Protected"
+msgstr "Bảo vệ"
+
+#: templates/default/bbpress/form-topic-tag.php:23
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: templates/default/bbpress/form-topic-tag.php:27
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Hãy để slug rỗng để có một slug mới được tự động tạo thành."
+
+#: templates/default/bbpress/form-topic-tag.php:33
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Đổi slug sẽ ảnh hưởng lâu dài đến permalink của slug này.  Những đường truyền nào liên quan đến slug cũ sẽ không còn hoạt động nữa."
+
+#: templates/default/bbpress/form-topic-tag.php:109
+msgid "Deleting a tag cannot be undone."
+msgstr "Lệnh xóa nhãn không thể phục hồi."
+
+#: templates/default/bbpress/form-topic-tag.php:104
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Lệnh này sẽ không xóa các chủ đề của bạn mà chỉ xóa nhãn này."
+
+#: templates/default/bbpress/form-topic-tag.php:85
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Bạn có chắc bạn muốn sát nhập nhãn \"%s\" vào nhãn mà bạn đã chỉ định?"
+
+#: templates/default/bbpress/form-topic-tag.php:80
+msgid "Existing tag:"
+msgstr "Nhãn hiện có:"
+
+#: templates/default/bbpress/form-topic-tag.php:73
+msgid "Merging tags together cannot be undone."
+msgstr "Lệnh sát nhập các nhãn không thể phục hồi."
+
+#: templates/default/bbpress/form-topic-tag.php:69
+#: templates/default/bbpress/form-topic-tag.php:85
+#: includes/topics/template.php:2756
+msgid "Merge"
+msgstr "Sát nhập"
+
+#: templates/default/bbpress/form-topic-tag.php:45
+msgid "Slug:"
+msgstr "Slug:"
+
+#: includes/admin/topics.php:1013 includes/topics/template.php:2689
+msgid "Unstick"
+msgstr "Xóa ghim"
+
+#: includes/topics/template.php:2995
+msgid "Viewing %1$s topic"
+msgid_plural "Viewing %1$s topics"
+msgstr[0] "Đang xem %1$s chủ đề"
+
+#: includes/topics/template.php:3056
+msgid "This topic is marked as spam."
+msgstr "Chủ đề này được đánh dấu là spam."
+
+#: includes/topics/template.php:3061
+msgid "This topic is in the trash."
+msgstr "Chủ đề này nằm trong sọt rác."
+
+#: includes/topics/template.php:3316
+msgid "%s voice"
+msgid_plural "%s voices"
+msgstr[0] "%s voice"
+
+#: includes/common/template.php:1629
+msgid "No topics available"
+msgstr "Không có chủ đề nào sẵn sàng để sử dụng"
+
+#: includes/common/template.php:1634
+msgid "No forums available"
+msgstr "Không có diễn đàn nào sẵn sàng để sử dụng"
+
+#: includes/common/template.php:1639
+msgid "None available"
+msgstr "Không có gì sẵn sàng để sử dụng"
+
+#: templates/default/bbpress/form-reply.php:30
+#: includes/replies/template.php:552
+msgid "Reply To: %s"
+msgstr "Phản Hồi về: %s"
+
+#: includes/common/template.php:2611
+msgid "Log Out"
+msgstr "Đăng xuất"
+
+#. translators: user's display name
+#: templates/default/bbpress/user-details.php:30
+#: includes/common/template.php:2744
+msgid "%s's Profile"
+msgstr "Hồ sơ %s"
+
+#: includes/common/template.php:2753
+msgid "Edit Your Profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+#: templates/default/bbpress/user-details.php:74
+#: includes/common/template.php:2758
+msgid "Edit %s's Profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+#: includes/common/template.php:2673
+msgid "Forum: %s"
+msgstr "Diễn đàn: %s"
+
+#: includes/common/template.php:2678
+msgid "Topic: %s"
+msgstr "Chủ đề: %s"
+
+#: includes/common/template.php:2766
+msgid "View: %s"
+msgstr "Xem: %s"
+
+#: includes/replies/functions.php:2134
+msgid "All Posts"
+msgstr "Tất cả bài viết"
+
+#: includes/replies/functions.php:2136 includes/replies/template.php:52
+#: includes/admin/tools/reset.php:36
+msgid "All Replies"
+msgstr "Tất cả phản hồi"
+
+#: includes/replies/functions.php:2180 includes/topics/functions.php:3800
+msgid "Replies: %s"
+msgstr "Phản hồi: %s"
+
+#: includes/users/template.php:806 includes/admin/settings.php:155
+msgid "Anonymous"
+msgstr "Ẩn danh"
+
+#: includes/users/template.php:738
+msgid "Admin"
+msgstr "Quản trị"
+
+#: includes/users/template.php:1375
+msgid "User updated."
+msgstr "Đã cập nhật thành viên."
+
+#: includes/users/template.php:1436
+msgid "You have super admin privileges."
+msgstr "Bạn đang giữ quyền siêu quản trị."
+
+#: includes/users/template.php:1436
+msgid "This user has super admin privileges."
+msgstr "Thành viên này hiện đang giữ quyền siêu quản trị."
+
+#: includes/users/template.php:1510
+msgid "&mdash; No role for this site &mdash;"
+msgstr "&mdash; Mạng này không hề có vai trò nào được lập &mdash;"
+
+#: includes/users/template.php:1830
+msgid "You are now logged out."
+msgstr "Bạn giờ đã đăng xuất khỏi diễn đàn."
+
+#: includes/users/template.php:1834
+msgid "New user registration is currently not allowed."
+msgstr "Diễn đàn hiện không nhận thêm các thành viên mới."
+
+#: includes/users/template.php:1843
+msgid "Check your e-mail for the confirmation link."
+msgstr "Hãy kiểm tra điện thư email của bạn để xem đường truyền xác nhận nhé!"
+
+#: includes/users/template.php:1848
+msgid "Check your e-mail for your new password."
+msgstr "Hãy kiểm tra điện thư email của bạn để xem mật khẩu mới của bạn nhé!."
+
+#: includes/users/template.php:1853
+msgid "Registration complete. Please check your e-mail."
+msgstr "Ghi Danh đã xong.   Hãy kiểm tra điện thư email của bạn."
+
+#: includes/admin/tools/reset.php:35 includes/topics/functions.php:3756
+#: includes/topics/template.php:50
+msgid "All Topics"
+msgstr "Tất cả chủ đề"
+
+#: includes/forums/template.php:1170 includes/forums/template.php:2012
+msgid "%s topic"
+msgid_plural "%s topics"
+msgstr[0] "% chủ đề"
+
+#: includes/common/formatting.php:648
+msgid "%s ago"
+msgstr "%s trước"
+
+#: includes/admin/tools/repair.php:203
+msgid "Counting the number of replies in each topic&hellip; %s"
+msgstr "Đang đếm số phản hồi trong từng chủ đề&hellip; %s"
+
+#: includes/admin/tools/reset.php:122 includes/admin/tools/repair.php:204
+#: includes/admin/tools/repair.php:253 includes/admin/tools/repair.php:305
+#: includes/admin/tools/repair.php:339 includes/admin/tools/repair.php:370
+#: includes/admin/tools/repair.php:415 includes/admin/tools/repair.php:457
+#: includes/admin/tools/repair.php:498 includes/admin/tools/repair.php:546
+#: includes/admin/tools/repair.php:594 includes/admin/tools/repair.php:661
+#: includes/admin/tools/repair.php:726 includes/admin/tools/repair.php:795
+#: includes/admin/tools/repair.php:903 includes/admin/tools/repair.php:1024
+#: includes/admin/tools/repair.php:1136 includes/admin/tools/repair.php:1156
+#: includes/admin/tools/repair.php:1218 includes/admin/tools/upgrade.php:288
+msgid "Failed!"
+msgstr "Lỗi!"
+
+#: includes/admin/tools/repair.php:238 includes/admin/tools/repair.php:290
+#: includes/admin/tools/repair.php:324 includes/admin/tools/repair.php:356
+#: includes/admin/tools/repair.php:400 includes/admin/tools/repair.php:441
+#: includes/admin/tools/repair.php:483 includes/admin/tools/repair.php:531
+#: includes/admin/tools/repair.php:579 includes/admin/tools/repair.php:646
+#: includes/admin/tools/repair.php:711 includes/admin/tools/repair.php:776
+#: includes/admin/tools/repair.php:1009 includes/admin/tools/repair.php:1069
+#: includes/admin/tools/repair.php:1140 includes/admin/tools/repair.php:1203
+#: includes/admin/tools/repair.php:1254 includes/admin/tools/repair.php:1305
+msgid "Complete!"
+msgstr "Hoàn tất!"
+
+#: includes/admin/tools/repair.php:252
+msgid "Counting the number of voices in each topic&hellip; %s"
+msgstr "Đang đếm số voice trong từng chủ đề&hellip; %s"
+
+#: includes/admin/tools/repair.php:338
+msgid "Counting the number of topics in each forum&hellip; %s"
+msgstr "Đang đếm số chủ đề trong từng diễn đàn&hellip; %s"
+
+#: includes/admin/tools/repair.php:414
+msgid "Counting the number of replies in each forum&hellip; %s"
+msgstr "Đang đếm số phản hồi trong từng diễn đàn&hellip; %s"
+
+#: includes/admin/tools/repair.php:545
+msgid "Counting the number of topics to which each user has replied&hellip; %s"
+msgstr "Đang đếm số chủ đề mà từng thành viên đã phản hồi&hellip; %s"
+
+#: includes/admin/tools/repair.php:629 includes/admin/tools/repair.php:694
+#: includes/admin/tools/repair.php:759
+msgid "Nothing to remove!"
+msgstr "Không có gì để xóa!"
+
+#: includes/admin/tools/repair.php:660
+msgid "Removing trashed topics from user subscriptions&hellip; %s"
+msgstr "Đang xóa chủ đề rác từ mục theo dõi của thành viên&hellip; %s"
+
+#: includes/admin/tools/repair.php:902
+msgid "Recomputing latest post in every topic and forum&hellip; %s"
+msgstr "Đang xác định lại bài viết mới nhất trong từng chủ đề và từng diễn đàn&hellip; %s"
+
+#: includes/admin/topics.php:131
+msgid "You can hide/display columns based on your needs and decide how many topics to list per screen using the Screen Options tab."
+msgstr "Bạn có thể giấu / hiển thị các cột tùy theo yêu cầu của bạn và bạn có thể quyết định bạn cần bao nhiêu chủ đề hiện ra ở mỗi màn hình qua thẻ Tùy Chỉnh Màn Hình."
+
+#: includes/admin/metaboxes.php:659 includes/admin/forums.php:540
+msgid "Moderators"
+msgstr "Trình duyệt viên"
+
+#: templates/default/extras/page-forum-statistics.php:22
+msgid "Here are the statistics and popular topics of our forums."
+msgstr "Đây là bảng thống kê dữ liệu và chủ đề phổ biến trong diễn đàn của chúng ta."
+
+#: templates/default/extras/page-topic-tags.php:22
+msgid "This is a collection of tags that are currently popular on our forums."
+msgstr "Đây là bộ sưu tập nhãn hiện đang phổ biến trong diễn đàn của chúng ta."
+
+#: includes/admin/topics.php:762
+msgid "Topic \"%1$s\" successfully unapproved."
+msgstr "Chủ đề \"%1$s\" đã được xóa phê chuẩn thành công."
+
+#: includes/admin/topics.php:756
+msgid "Topic \"%1$s\" successfully approved."
+msgstr "Chủ đề \"%1$s\" đã được phê chuẩn thành công."
+
+#: includes/replies/functions.php:1656
+msgctxt "Mark reply as pending"
+msgid "Pending"
+msgstr "Đang xem xét"
+
+#: includes/admin/topics.php:726
+msgid "Topic \"%1$s\" successfully stuck to front."
+msgstr "Chủ đề \"%1$s\" đã được ghim lên trước thành công."
+
+#: includes/admin/tools.php:331
+msgid "Remove unpublished forums from user subscriptions"
+msgstr "Gỡ bỏ những diễn đàn rác từ mục theo dõi của thành viên"
+
+#: includes/admin/topics.php:161
+msgid "You can also edit, spam, or move multiple topics to the trash at once. Select the topics you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Bạn cũng có thể chỉnh sửa hoặc dời nhiều chủ đề vào sọt rác cùng một lúc.  Chọn những chủ đề mà bạn muốn lệnh được thực thi bằng cách dùng các ô đánh dấu, rồi hãy chọn lệnh mà bạn muốn từ trình đơn Bulk Actions, xong bấm nút Apply."
+
+#: includes/admin/tools.php:283
+msgid "Recount topics for each user"
+msgstr "Đếm chủ đề cho từng thành viên"
+
+#: includes/admin/topics.php:208
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the topic belongs to. Select the forum or category from the dropdown, or leave the default \"No forum\" to post the topic without an assigned forum."
+msgstr "Trình đơn <strong>Diễn đàn</strong> xác định diễn đàn cấp trên cho chủ đề.  Chọn diễn đàn hoặc chuyên mục từ trình đơn thả xuống, hoặc để mặc định (Không có Diễn Đàn) để đăng chủ đề mà không cần ấn định chủ đề này thuộc về diễn đàn nào."
+
+#: includes/admin/tools.php:319
+msgid "Remove unpublished topics from user subscriptions"
+msgstr "Xóa những chủ đề rác từ mục theo dõi của thành viên"
+
+#: includes/admin/tools.php:307
+msgid "Remove unpublished topics from user favorites"
+msgstr "Xóa những chủ đề rác từ mục ưa thích của thành viên"
+
+#: includes/admin/tools.php:295
+msgid "Recount replies for each user"
+msgstr "Đếm phản hồi của từng thành viên"
+
+#: includes/admin/topics.php:132
+msgid "You can filter the list of topics by topic status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, Closed, or Spam  topics. The default view is to show all topics."
+msgstr "Bạn có thể lọc danh sách các chủ đề theo tình trạng chủ đề bằng cách sử dụng các liên kết văn bản ở phía trên bên trái để hiển thị Tất cả, Đã đăng, Nháp, Đang chờ, Thùng rác, Đã đóng, hoặc các chủ đề Spam. Giao diện mặc định là hiển thị tất cả các chủ đề."
+
+#: includes/admin/topics.php:159 includes/admin/replies.php:153
+#: includes/admin/tools/repair.php:63 includes/admin/tools/repair.php:180
+#: includes/admin/tools/upgrade.php:60 includes/admin/tools/upgrade.php:192
+#: includes/admin/forums.php:136
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+#: includes/admin/settings.php:190 includes/admin/settings.php:2026
+msgid "Revisions"
+msgstr "Phiên bản"
+
+#. translators: Publish box date format, see http://php.net/date
+#: includes/admin/topics.php:1220 includes/admin/replies.php:1016
+#: includes/admin/forums.php:755
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: includes/admin/classes/class-bbp-admin.php:1064
+#: includes/admin/classes/class-bbp-admin.php:1138
+msgid "What&#8217;s New"
+msgstr "Có gì mới"
+
+#: includes/admin/classes/class-bbp-admin.php:1091
+msgid "We&#8217;re all abuzz about the hive of new importers, AEF, Drupal, FluxBB, Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Existing importers are now sweeter than honey with improved importing stickies, topic tags, forum categories and the sting is now gone if you need to remove imported users."
+msgstr "Ôi!  Chúng ta đều xôn xao và phấn kích với những công cụ nhập dữ liệu mới như AEF, Drupal, FluxBB,   Kunena Forums for Joomla, MyBB, Phorum, PHPFox, PHPWind, PunBB, SMF, Xenforo and XMB. Những công cụ nhập dữ liệu hiện đang có này quá tuyệt vời với những cải tiến không ngừng trong việc nhập các dữ liệu ghim, các từ khóa chủ đề, các chuyên mục trong diễn đàn và nhất là như ta đã trút gánh nặng ra khỏi quy trình gỡ bỏ thành viên nhập từ các nguồn bên ngoài (imported users)."
+
+#: includes/admin/forums.php:139
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected forums at once. To remove a forum from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Khi dùng Bulk Edit, bạn có thể thay đổi siêu dữ liệu (chuyên mục, tên người viết, v.v) cho tất cả những diễn đàn chọn lựa cùng một lúc.  Để gỡ bỏ một diễn đàn ra từ nhóm diễn đàn, bạn chỉ cần nhấn nút x kế bên tiêu đề diễn đàn hiện ra trong mục Bulk Edit."
+
+#: includes/admin/replies.php:156
+msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected replies at once. To remove a reply from the grouping, just click the x next to its name in the Bulk Edit area that appears."
+msgstr "Khi dùng Bulk Edit, bạn có thể thay đổi siêu dữ liệu (chuyên mục, tên người viết, v.v) cho tất cả những phản hồi chọn lựa cùng một lúc.  Để gỡ bỏ một phản hồi ra từ nhóm phản hồi, bạn chỉ cần nhấn nút x kế bên tiêu đề phản hồi hiện ra trong mục Bulk Edit."
+
+#: includes/admin/replies.php:144
+msgid "<strong>Spam</strong> removes your reply from this list and places it in the spam queue, from which you can permanently delete it."
+msgstr "<strong>Spam</strong>gỡ bỏ phản hồi của bạn ra từ danh sách này và tạm thời chuyển phản hồi này vào sọt spam.  Sọt spam là nơi mà bạn sẽ xóa vĩnh viễn phản hồi này."
+
+#: includes/admin/replies.php:143
+msgid "<strong>Trash</strong> removes your reply from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Bỏ rác</strong>gỡ bỏ phản hồi của bạn ra từ danh sách này và tạm thời chuyển phản hồi này vào sọt rác.  Sọt rác là nơi mà bạn sẽ xóa vĩnh viễn phản hồi này."
+
+#: includes/admin/forums.php:128
+msgid "<strong>Trash</strong> removes your forum from this list and places it in the trash, from which you can permanently delete it."
+msgstr "<strong>Bỏ rác</strong>gỡ bỏ diễn đàn của bạn ra từ danh sách này và tạm thời chuyển diễn đàn này vào sọt rác.  Sọt rác là nơi mà bạn sẽ xóa vĩnh viễn diễn đàn này."
+
+#: templates/default/bbpress/form-user-edit.php:17
+#: templates/default/bbpress/form-user-edit.php:22
+#: includes/admin/metaboxes.php:608
+msgid "Name"
+msgstr "Tên"
+
+#: templates/default/bbpress/form-user-edit.php:161
+#: includes/admin/settings.php:1533
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: includes/admin/settings.php:88
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: templates/default/bbpress/user-profile.php:34
+#: templates/default/bbpress/content-statistics.php:25
+#: includes/forums/template.php:48 includes/forums/template.php:49
+#: includes/forums/template.php:67 includes/common/widgets.php:626
+#: includes/extend/buddypress/loader.php:42
+#: includes/extend/buddypress/loader.php:189
+#: includes/extend/buddypress/loader.php:311
+#: includes/extend/buddypress/loader.php:376 includes/admin/tools.php:30
+#: includes/admin/classes/class-bbp-admin.php:467
+#: includes/admin/classes/class-bbp-admin.php:468
+#: includes/admin/classes/class-bbp-admin.php:477
+#: includes/admin/classes/class-bbp-admin.php:478
+#: includes/admin/tools/common.php:434 includes/admin/users.php:93
+msgid "Forums"
+msgstr "Diễn đàn"
+
+#: includes/replies/template.php:2029 includes/admin/topics.php:240
+#: includes/admin/topics.php:1023 includes/admin/replies.php:235
+#: includes/admin/replies.php:818
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:91
+#: includes/topics/template.php:2807
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/admin/replies.php:664
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: includes/admin/classes/class-bbp-admin.php:834
+msgctxt "admin color scheme"
+msgid "Mint"
+msgstr "Màu xanh bạc hà Mint"
+
+#: includes/admin/classes/class-bbp-admin.php:843
+msgctxt "admin color scheme"
+msgid "Evergreen"
+msgstr "Màu xanh Evergreen"
+
+#: includes/admin/settings.php:798
+msgid "Allow users to subscribe to forums and topics"
+msgstr "Cho phép thành viên theo dõi diễn đàn và chủ đề"
+
+#: includes/admin/classes/class-bbp-admin.php:1087
+msgid "Converters"
+msgstr "Chuyển đổi"
+
+#: includes/admin/classes/class-bbp-admin.php:1103
+msgid "bbPress fully supports automatic translation updates."
+msgstr "bbPress hỗ trợ 100% cập nhật dịch thuật tự động."
+
+#: includes/admin/classes/class-bbp-admin.php:1071
+msgid "Forum Subscriptions"
+msgstr "Theo dõi diễn đàn"
+
+#: includes/admin/classes/class-bbp-admin.php:1075
+msgid "Subscribe to Forums"
+msgstr "Theo dõi diễn đàn"
+
+#: includes/admin/classes/class-bbp-admin.php:1076
+msgid "Now your users can subscribe to new topics in specific forums."
+msgstr "Thành viên của bạn giờ có thể theo dõi chủ đề mới trong những diễn đàn mà họ chọn."
+
+#: includes/admin/classes/class-bbp-admin.php:1080
+msgid "Manage Subscriptions"
+msgstr "Quản lý theo dõi"
+
+#: includes/admin/classes/class-bbp-admin.php:1081
+msgid "Your users can manage all of their subscriptions in one convenient location."
+msgstr "Các thành viên của bạn có thể quản lý tất cả những theo dõi của họ tại một nơi thuận tiện."
+
+#: includes/admin/classes/class-bbp-admin.php:1097
+msgid "Theme Compatibility"
+msgstr "Tương ứng giao diện"
+
+#: includes/admin/classes/class-bbp-admin.php:1098
+msgid "Better handling of styles and scripts in the template stack."
+msgstr "Tốt hơn trong việc quản lý các mã styles và mã scripts trong temple stack."
+
+#: includes/admin/classes/class-bbp-admin.php:1102
+msgid "Polyglot support"
+msgstr "Hỗ trợ Polygot"
+
+#: includes/admin/classes/class-bbp-admin.php:1107
+msgid "User capabilities"
+msgstr "Quyền thành viên"
+
+#: includes/admin/classes/class-bbp-admin.php:1108
+msgid "Roles and capabilities have been swept through, cleaned up, and simplified."
+msgstr "Các vai trò và quyền đã được rà soát, chọn lọc, và đơn giản hóa."
+
+#: includes/admin/classes/class-bbp-admin.php:1182
+msgid "Feature Developer"
+msgstr "Lập trình viên đại diện"
+
+#: includes/admin/metaboxes.php:418
+msgid "Select whether to open or close the topic."
+msgstr "Lựa chọn ấn định nên mở ra hoặc đóng lại chủ đề."
+
+#: includes/admin/metaboxes.php:627
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/admin/metaboxes.php:628
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/settings.php:870
+msgid "Allow forum wide search"
+msgstr "Cho phép tìm kiếm khắp diễn đàn"
+
+#: includes/admin/settings.php:29
+msgid "Forum User Settings"
+msgstr "Thiết lập thành viên diễn đàn"
+
+#: includes/admin/settings.php:34
+msgid "Forum Features"
+msgstr "Chức năng diễn đàn"
+
+#: includes/admin/settings.php:238
+msgid "Post Formatting"
+msgstr "Định dạng bài viết"
+
+#: includes/admin/settings.php:654
+msgid "Setting time limits and other user posting capabilities"
+msgstr "Đang thiết lập giới hạn thời gian và những quyền đăng bài khác"
+
+#: includes/admin/settings.php:770
+msgid "Forum features that can be toggled on and off"
+msgstr "Những chức năng diễn đàn có thể bật hoặc tắt"
+
+#: includes/admin/settings.php:934
+msgid "Add toolbar & buttons to textareas to help with HTML formatting"
+msgstr "Thêm thanh công cụ và các nút vào những ô textareas để giúp việc định dạng HTML"
+
+#: includes/admin/settings.php:753
+msgid "Automatically give registered visitors the %s forum role"
+msgstr "Tự động ấn định vai trò %s trong diễn đàn cho các thành viên đã ghi danh"
+
+#: includes/admin/settings.php:905
+msgid "Enable threaded (nested) replies %s levels deep"
+msgstr "Bật luồng phản hồi (dạng lồng vào nhau) với chiều sâu cấp %s"
+
+#: includes/admin/settings.php:176
+msgid "Reply Threading"
+msgstr "Bật luồng phản hồi"
+
+#: includes/admin/settings.php:2098
+msgid "Possible %1$s conflict: %2$s"
+msgstr "Khả năng %1$s va chạm: %2$s"
+
+#: templates/default/bbpress/form-reply.php:129
+#: includes/admin/metaboxes.php:535
+msgid "Reply To:"
+msgstr "Phản hồi về:"
+
+#: includes/admin/metaboxes.php:536
+msgid "Reply To"
+msgstr "Phản hồi về"
+
+#: includes/admin/replies.php:204
+msgid "<strong>Reply To</strong> determines the threading of the reply."
+msgstr "<strong>Phản hồi về</strong> xác định luồng của phản hồi."
+
+#: includes/admin/settings.php:39
+msgid "Forum Theme Packages"
+msgstr "Gói giao diện diễn đàn"
+
+#: includes/admin/settings.php:44
+msgid "Topics and Replies Per Page"
+msgstr "Tổng số chủ đề và phản hồi trên từng trang"
+
+#: includes/admin/settings.php:49
+msgid "Topics and Replies Per RSS Page"
+msgstr "Tổng số chủ đề và phản hồi trên từng trang RSS"
+
+#: includes/admin/settings.php:54
+msgid "Forum Root Slug"
+msgstr "Slug đỉnh diễn đàn"
+
+#: includes/admin/settings.php:64
+msgid "Forum User Slugs"
+msgstr "Slug thành viên diễn đàn"
+
+#: includes/admin/settings.php:323
+msgid "Forum Root"
+msgstr "Đỉnh diễn đàn"
+
+#: includes/admin/settings.php:339
+msgid "Forum root should show"
+msgstr "Đỉnh diễn đàn nên hiển thị"
+
+#: includes/admin/settings.php:376
+msgid "Topic View"
+msgstr "Cảnh chủ đề"
+
+#: includes/admin/settings.php:413
+msgid "User Base"
+msgstr "Độc giả"
+
+#: includes/admin/settings.php:1098
+msgid "Customize your Forums root. Partner with a WordPress Page and use Shortcodes for more flexibility."
+msgstr "Tùy chỉnh đỉnh diễn đàn của bạn.  Nên dùng chung với WordPress Page và Shortcodes để có thể thực thi linh hoạt hơn nữa. "
+
+#: includes/admin/settings.php:1127
+msgid "Prefix all forum content with the Forum Root slug (Recommended)"
+msgstr "Dùng slug của đỉnh diễn đàn làm tiền tố cho toàn bộ nội dung diễn đàn (Đề nghị nên làm)"
+
+#: includes/admin/settings.php:1145
+msgid "Forum Index"
+msgstr "Mục lục diễn đàn"
+
+#: includes/admin/settings.php:1185
+msgid "Customize your user profile slugs."
+msgstr "Tùy chỉnh các slugs dùng trong hồ sơ của bạn."
+
+#: bbpress.php:711
+msgid "Most popular topics"
+msgstr "Chủ đề phổ biến nhất"
+
+#: bbpress.php:600
+msgctxt "post"
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "Đã đóng <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:613
+msgctxt "post"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:627
+msgctxt "post"
+msgid "Orphan <span class=\"count\">(%s)</span>"
+msgid_plural "Orphans <span class=\"count\">(%s)</span>"
+msgstr[0] "Vô cư <span class=\"count\">(%s)</span>"
+
+#: bbpress.php:641
+msgctxt "post"
+msgid "Hidden <span class=\"count\">(%s)</span>"
+msgid_plural "Hidden <span class=\"count\">(%s)</span>"
+msgstr[0] "Ẩn <span class=\"count\">(%s)</span>"
+
+#: templates/default/bbpress/form-search.php:21
+#: templates/default/bbpress/form-topic-search.php:20
+#: templates/default/bbpress/form-reply-search.php:20
+#: includes/search/template.php:175 includes/common/template.php:2446
+#: includes/admin/settings.php:230 includes/admin/settings.php:400
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: templates/default/bbpress/form-forum.php:144
+#: includes/admin/settings.php:1447 includes/admin/metaboxes.php:369
+msgid "&mdash; No parent &mdash;"
+msgstr "&mdash; Không có cấp trên &mdash;"
+
+#: includes/admin/metaboxes.php:613
+msgid "Email:"
+msgstr "Điện thư email:"
+
+#: includes/admin/metaboxes.php:635
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/admin/settings.php:979
+msgid "No template packages available."
+msgstr "Không có sẵn gói mẫu nào."
+
+#: includes/admin/settings.php:1872
+msgid "This screen provides access to all of the Forums settings."
+msgstr "Màn hình này cung cấp truy cập đến tất cả chỉ lệnh thiết lập diễn đàn."
+
+#: includes/admin/classes/class-bbp-admin.php:1144
+msgid "bbPress is created by a worldwide swarm of busy, busy bees."
+msgstr "bbPress đã được tạo dung bởi những \"cô / chú ong lúc nào cũng bận rộn\" trên toàn cầu."
+
+#: includes/admin/classes/class-bbp-admin.php:1146
+msgid "Project Leaders"
+msgstr "Lãnh đạo dự án"
+
+#: includes/admin/classes/class-bbp-admin.php:1150
+msgid "Founding Developer"
+msgstr "Lập trình viên sáng lập"
+
+#: includes/admin/classes/class-bbp-admin.php:1154
+msgid "Lead Developer"
+msgstr "Lập trình viên trưởng"
+
+#: includes/admin/classes/class-bbp-admin.php:1166
+msgid "Contributing Developers"
+msgstr "Các lập trình viên công tác"
+
+#: includes/admin/settings.php:222
+msgid "Topic tags"
+msgstr "Nhãn chủ đề"
+
+#: includes/admin/settings.php:168
+msgid "Auto-embed links"
+msgstr "Đường truyền tự lồng"
+
+#: includes/admin/settings.php:1523
+msgid "Forums Settings"
+msgstr "Thiết lập diễn đàn"
+
+#: templates/default/bbpress/user-details.php:42
+#: includes/extend/buddypress/loader.php:222
+#: includes/extend/buddypress/loader.php:327 includes/admin/settings.php:429
+msgid "Replies Created"
+msgstr "Các phản hồi đã được tạo"
+
+#: includes/admin/settings.php:1663
+msgid "Some optional parameters to help tune the conversion process."
+msgstr "Vài tham số tùy chọn trợ giúp quy trình chuyển đổi."
+
+#: includes/admin/settings.php:1887
+msgid "Topic-Tags allow users to filter topics between forums. This is enabled by default."
+msgstr "Nhãn chủ đề cho phép các thành viên lọc các chủ đề từ những diễn đàn khác nhau.  Chỉ lệnh này được bật lên trong hiện trạng mặc định."
+
+#: includes/admin/tools.php:139
+msgid "Recalculate private and hidden forums"
+msgstr "Xác định lại các diễn đàn riêng và diễn đàn uẩn"
+
+#: includes/admin/classes/class-bbp-admin.php:1114
+#: includes/admin/classes/class-bbp-admin.php:1254
+msgid "Go to Forum Settings"
+msgstr "Vào thiết lập diễn đàn"
+
+#: includes/admin/classes/class-bbp-admin.php:1036
+msgid "Welcome to bbPress %s"
+msgstr "Chào mừng bạn đến với bbPress %s"
+
+#: includes/admin/classes/class-bbp-admin.php:1066
+#: includes/admin/classes/class-bbp-admin.php:1140
+msgid "Credits"
+msgstr "Công trạng"
+
+#: includes/admin/classes/class-bbp-admin.php:490
+#: includes/admin/classes/class-bbp-admin.php:491
+#: includes/admin/classes/class-bbp-admin.php:499
+#: includes/admin/classes/class-bbp-admin.php:500
+msgid "Welcome to bbPress"
+msgstr "Chào mừng bạn đến với bbPress %s"
+
+#: includes/admin/forums.php:103
+msgid "This screen displays the individual forums on your site. You can customize the display of this screen to suit your workflow."
+msgstr "Màn hình này hiển thị từng diễn đàn trên mạng của bạn.  Bạn có thể tùy biến cách hiển thị trên màn hình này để phù hợp với quy trình công việc của bạn."
+
+#: includes/admin/settings.php:593
+msgid "Start Over"
+msgstr "Làm lại từ đầu"
+
+#: includes/admin/settings.php:83 includes/admin/tools/help.php:104
+msgid "Database Settings"
+msgstr "Thiết lập database"
+
+#: includes/admin/forums.php:138
+msgid "You can also edit or move multiple forums to the trash at once. Select the forums you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Bạn cũng có thể chỉnh sửa hoặc dời nhiều diễn đàn vào sọt rác cùng một lúc.  Chọn những diễn đàn mà bạn muốn thực thi bằng cách dùng các ô đánh dấu, rồi hãy chọn lệnh mà bạn muốn từ trình đơn Bulk Actions, xong bấm nút Apply."
+
+#: includes/admin/settings.php:993
+msgid "Embed media (YouTube, Twitter, Flickr, etc...) directly into topics and replies"
+msgstr "Lồng thẳng tập tin media (YouTube, Twitter, Flickr, v.v...) vào các chủ đề và phản hồi"
+
+#: includes/admin/settings.php:826
+msgid "Allow topics to have tags"
+msgstr "Cho phép các chủ đề được dán nhãn"
+
+#: includes/admin/forums.php:186
+msgid "<strong>Status</strong> allows you to close a forum to new topics and forums."
+msgstr "<strong>Hiện trạng</strong> cho phép bạn ngăn lệnh tạo chủ đề và diễn đàn mới trong một diễn đàn mà bạn chọn."
+
+#: includes/admin/classes/class-bbp-admin.php:732
+msgid "About"
+msgstr "Về"
+
+#: includes/admin/tools.php:550 includes/admin/tools/help.php:66
+msgid "Reset Forums"
+msgstr "Khôi phục diễn đàn"
+
+#: includes/admin/settings.php:541
+msgid "Database Password"
+msgstr "Database Password"
+
+#: includes/admin/tools.php:523 includes/admin/tools/help.php:30
+msgid "Repair Forums"
+msgstr "Tu sửa diễn đàn"
+
+#: includes/admin/tools.php:541
+msgid "Import Forums"
+msgstr "Nhập diễn đàn"
+
+#: includes/admin/settings.php:1650
+msgid "Name of the database with your old forum data"
+msgstr "Tên database của diễn đàn trước đây"
+
+#: includes/admin/settings.php:1692
+msgid "Keep this low if you experience out-of-memory issues."
+msgstr "Giữ chỉ số này thấp nếu bạn gặp phải các sự cố hết bộ nhớ (out-of-memory)"
+
+#: includes/admin/settings.php:1707
+msgid "Keep this high to prevent too-many-connection issues."
+msgstr "Giữ chỉ số này cao để ngăn chặn các sự cố có quá nhiều liên kết (too-many-connection)"
+
+#: templates/default/bbpress/user-details.php:36
+#: includes/extend/buddypress/loader.php:211
+#: includes/extend/buddypress/loader.php:319 includes/admin/settings.php:421
+msgid "Topics Started"
+msgstr "Chủ đề đã bắt đầu"
+
+#: templates/default/bbpress/user-details.php:57
+#: includes/extend/buddypress/loader.php:247 includes/admin/topics.php:450
+#: includes/admin/settings.php:198 includes/admin/tools/common.php:449
+msgid "Favorites"
+msgstr "Ưa thích"
+
+#: templates/default/bbpress/user-details.php:67
+#: includes/extend/buddypress/loader.php:260 includes/admin/topics.php:480
+#: includes/admin/settings.php:206 includes/admin/settings.php:445
+#: includes/admin/tools/common.php:452 includes/admin/forums.php:267
+msgid "Subscriptions"
+msgstr "Theo dõi"
+
+#: includes/extend/buddypress/loader.php:346 includes/admin/settings.php:437
+msgid "Favorite Topics"
+msgstr "Chủ đề ưa thích"
+
+#: bbpress.php:146 bbpress.php:153
+msgid "Cheatin&#8217; huh?"
+msgstr "Chèn ơi, bộ bạn tính gạt phải hôn?"
+
+#: includes/admin/classes/class-bbp-admin.php:514
+#: includes/admin/classes/class-bbp-admin.php:515
+#: includes/admin/classes/class-bbp-admin.php:536
+#: includes/admin/classes/class-bbp-admin.php:537
+#: includes/admin/classes/class-bbp-admin.php:1319
+#: includes/admin/classes/class-bbp-admin.php:1417
+msgid "Update Forums"
+msgstr "Cập nhật diễn đàn"
+
+#: includes/admin/settings.php:268
+msgid "Current Package"
+msgstr "Gói hiện tại"
+
+#: includes/admin/settings.php:487
+msgid "Use Akismet"
+msgstr "Dùng Akismet"
+
+#: includes/admin/classes/class-bbp-admin.php:1275
+#: includes/admin/classes/class-bbp-admin.php:1298
+msgid "Update Forum"
+msgstr "Cập nhật diễn đàn"
+
+#: includes/admin/classes/class-bbp-admin.php:1287
+#: includes/admin/classes/class-bbp-admin.php:1337
+msgid "All done!"
+msgstr "Tất cả đều xong!"
+
+#: includes/admin/classes/class-bbp-admin.php:1297
+msgid "You can update your forum through this page. Hit the link below to update."
+msgstr "Bạn có thể cập nhật diễn đàn qua trang này.  Bấm vào đường truyền dưới đây để cập nhật."
+
+#: includes/admin/classes/class-bbp-admin.php:1397
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Nếu trình duyệt của bạn không tự động tải trang kế tiếp, bạn hãy bấm vào đường truyền này:"
+
+#: includes/admin/classes/class-bbp-admin.php:1398
+msgid "Next Forums"
+msgstr "Diễn đàn sau"
+
+#: includes/admin/classes/class-bbp-admin.php:1416
+msgid "You can update all the forums on your network through this page. It works by calling the update script of each site automatically. Hit the link below to update."
+msgstr "Bạn có thể cập nhật tất cả diễn đàn trong mạng của bạn qua trang này.  Cập nhật này hoạt động bằng cách thực thi chỉ lệnh mã script cập nhật riêng biệt cho từng mạng.  Bấm vào đường truyền dưới đây để cập nhật. "
+
+#: includes/admin/settings.php:501
+msgid "Select Platform"
+msgstr "Chọn platform"
+
+#: includes/admin/settings.php:509
+msgid "Database Server"
+msgstr "Database Server"
+
+#: includes/admin/settings.php:517
+msgid "Database Port"
+msgstr "Database Port"
+
+#: includes/admin/settings.php:533
+msgid "Database User"
+msgstr "Database User"
+
+#: includes/admin/settings.php:525
+msgid "Database Name"
+msgstr "Database Name"
+
+#: includes/admin/settings.php:549
+msgid "Table Prefix"
+msgstr "Table Prefix"
+
+#: includes/admin/settings.php:561
+msgid "Rows Limit"
+msgstr "Rows Limit"
+
+#: includes/admin/settings.php:569
+msgid "Delay Time"
+msgstr "Delay Time"
+
+#: includes/admin/settings.php:577
+msgid "Convert Users"
+msgstr "Chuyển đổi thành viên"
+
+#: includes/admin/classes/class-bbp-converter.php:562
+msgid "No passwords to clear"
+msgstr "Không có mật khẩu để xóa"
+
+#: includes/admin/topics.php:119 includes/admin/replies.php:115
+#: includes/admin/settings.php:1871 includes/admin/tools/help.php:95
+#: includes/admin/forums.php:101
+msgid "Overview"
+msgstr "Khái quát"
+
+#: includes/admin/replies.php:117
+msgid "This screen provides access to all of your replies. You can customize the display of this screen to suit your workflow."
+msgstr "Màn hình này cung cấp đường truy cập đến tất cả phản hồi của bạn.  Bạn có thể tùy biến cách hiển thị trên màn hình này để phù hợp với quy trình công việc của bạn."
+
+#: includes/admin/topics.php:127 includes/admin/replies.php:123
+#: includes/admin/forums.php:109
+msgid "Screen Content"
+msgstr "Nội dung màn hình"
+
+#: includes/admin/topics.php:129 includes/admin/replies.php:125
+#: includes/admin/forums.php:111
+msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
+msgstr "Bạn có thể tùy biến cách hiển thị trên màn hình này với các cách thức sau:"
+
+#: includes/admin/replies.php:127
+msgid "You can hide/display columns based on your needs and decide how many replies to list per screen using the Screen Options tab."
+msgstr "Bạn có thể giấu / hiển thị các cột tùy theo yêu cầu của bạn.  Bạn cũng có thể quyết định bạn cần bao nhiêu phản hồi hiện ra ở mỗi màn hình qua thẻ Tùy Chỉnh Màn Hình."
+
+#: includes/admin/topics.php:141 includes/admin/replies.php:137
+#: includes/admin/forums.php:122
+msgid "Available Actions"
+msgstr "Thao tác hiện có"
+
+#: includes/admin/forums.php:126
+msgid "<strong>Edit</strong> takes you to the editing screen for that forum. You can also reach that screen by clicking on the forum title."
+msgstr "<strong>Chỉnh sửa</strong> sẽ dẫn đến màn trình soạn thảo để chỉnh sửa diễn đàn.  Bạn cũng có thể đến màn trình soạn thảo chỉnh sửa này bằng cách bấm vào tiêu đề của diễn đàn này."
+
+#: includes/admin/topics.php:167 includes/admin/topics.php:220
+#: includes/admin/replies.php:161 includes/admin/replies.php:215
+#: includes/admin/settings.php:1937 includes/admin/tools/help.php:43
+#: includes/admin/tools/help.php:72 includes/admin/tools/help.php:130
+#: includes/admin/forums.php:144 includes/admin/forums.php:200
+msgid "For more information:"
+msgstr "Để biết thêm chi tiết:"
+
+#: includes/admin/topics.php:184 includes/admin/replies.php:178
+#: includes/admin/forums.php:161
+msgid "Customizing This Display"
+msgstr "Tùy biến cách hiển thị này"
+
+#: includes/admin/forums.php:167
+msgid "Title and Forum Editor"
+msgstr "Trình soạn thảo tiêu đề và diễn đàn"
+
+#: includes/admin/forums.php:169
+msgid "<strong>Title</strong> - Enter a title for your forum. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Tiêu đề</strong> - Điền tiêu đề cho diễn đàn của bạn.  Sau khi tiêu đề được điền, bạn sẽ thấy permalink bên dưới.  Bạn có thể chỉnh sửa tùy thích permalink này."
+
+#: includes/admin/forums.php:176
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your forum without inserting it. This is usually useful only if your theme makes use of the featured image as a forum thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Ảnh đại diện</strong> - Lựa chọn này giúp bạn kết nối một ảnh với diễn đàn của bạn mà không cần phải chèn ảnh này vào diễn đàn này.  Lựa chọn này thường hữu ích nếu giao diện của bạn dùng ảnh đại diện như là một ảnh thu nhỏ của diễn đàn trong trang nhà, trong phần đầu bổ sung (Custom Header), v.v."
+
+#: includes/admin/forums.php:157
+msgid "The title field and the big forum editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ô tiêu đề và Khung biên tập bài viết thuộc dạng cố định, tuy nhiên bạn có thể thay đổi vị trí các khung khác bằng cách kéo và thả. Bạn cũng có thể thu nhỏ hoặc mở rộng các khung này bằng cách bấm vào thanh tiêu đề của mỗi khung. Sử dụng thẻ Tùy Chỉnh Màn Hình để hiển thị thêm các khung khác (như: Trích Dẫn, Gửi Phản Hồi, Ô Bổ Sung, Thảo Luận, Slug, Người Viết) hoặc lựa chọn cách trình bày theo 1 hoặc 2 cột cho màn hình này. "
+
+#: includes/admin/forums.php:170
+msgid "<strong>Forum Editor</strong> - Enter the text for your forum. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your forum text. You can insert media files by clicking the icons above the forum editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular forum editor."
+msgstr "<strong>Trình soạn thảo diễn đàn</strong> - Chỉnh sửa hoặc viết nội dung cho diễn đàn của bạn tại đây. Có 2 phương pháp để dùng trình soạn thảo này:  Visual và HTML.  Hãy chọn phương pháp nào mà bạn muốn dùng bằng cách bấm vào thẻ thích hợp.  Phương pháp Visual sẽ cho bạn màn hình WYSIWYG.  Bấm vào biểu tượng cuối cùng trong hàng để hàng thứ 2 hiển thị.  Phương pháp HTML sẽ cho bạn nhập mã HTML cơ bản cùng với phần văn bản của diễn đàn.  Bạn có thể chèn các tập tin media bằng cách bấm vào các biểu tượng bên trên hộp chỉnh sửa diễn đàn và làm theo các chỉ dẫn.  Ngoài ra, bạn có thể dùng bản viết toàn màn hình distraction-free bằng cách bấm nút biểu tượng Fullscreen trong phương pháp Visual (đây là nút thứ hai đếm từ phải qua trong hàng đầu) hoặc biểu tượng Fullscreen trong phương pháp HTML (nút cuối cùng trong hàng).  Một khi bạn đã dùng bản viết toàn màn hình Fullscreen (hoặc còn được biết là màn Distraction-Free), bạn có thể hiển thị các nút lệnh bằng cách di chuột trên khu cao nhất.  Thoát bản viết toàn màn hình Fullscreen để về lại với bản viết trình soạn thảo thường."
+
+#: includes/admin/forums.php:173
+msgid "<strong>Publish</strong> - You can set the terms of publishing your forum in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a forum or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a forum to be published in the future or backdate a forum."
+msgstr "<strong>Công bố</strong> - Bạn có thể ấn định các hiện trạng công bố cho diễn đàn của bạn qua hộp Công bố.  Khi chọn lựa Hiện Trạng, Độ Hiển Thị, và Công Bố (ngay tức khắc), bấm vào đường liên kết Chỉnh Sửa để xem thêm những chọn lựa khác.  Độ Hiển Thị bao gồm những lựa chọn dùng mật khẩu để bảo vệ diễn đàn hoặc ấn định chủ đề lúc nào cũng sẽ hiển thị ở phần trên nhất trong blog của bạn (còn được biết là Ghim).  Công Bố (ngay tức khắc) cũng cho bạn thêm lựa chọn thời gian trong quá khứ hoặc tương lai để bạn có thể sắp đặt diễn đàn sẽ được công bố trong tương lai hoặc đặt diễn đàn đã được công bố trong quá khứ."
+
+#: includes/admin/forums.php:183
+msgid "Select the attributes that your forum should have:"
+msgstr "Chọn thuộc tính mà diễn đàn bạn nên có:"
+
+#: includes/admin/forums.php:185
+msgid "<strong>Type</strong> indicates if the forum is a category or forum. Categories generally contain other forums."
+msgstr "<strong>Dạng</strong> cho bạn biết nếu diễn đàn là một danh sách chuyên mục hoặc là một diễn đàn.  Các chuyên mục thường bao gồm những diễn đàn khác."
+
+#: includes/admin/forums.php:187
+msgid "<strong>Visibility</strong> lets you pick the scope of each forum and what users are allowed to access it."
+msgstr "<strong>Độ hiển thị</strong> cho phép bạn chọn mức độ hiển thị của từng diễn đàn và các dạng thành viên nào được quyền truy cập vào từng diễn đàn ấy."
+
+#: includes/admin/forums.php:189
+msgid "<strong>Order</strong> allows you to order your forums numerically."
+msgstr "<strong>Thứ bậc</strong> cho phép bạn sắp xếp thứ tự các diễn đàn theo số."
+
+#: includes/admin/topics.php:215 includes/admin/replies.php:210
+#: includes/admin/forums.php:195
+msgid "Publish Box"
+msgstr "Ô công bố"
+
+#: includes/admin/metaboxes.php:405
+msgid "Topic Type"
+msgstr "Dạng chủ đề"
+
+#: includes/admin/replies.php:141
+msgid "<strong>Edit</strong> takes you to the editing screen for that reply. You can also reach that screen by clicking on the reply title."
+msgstr "<strong>Chỉnh sửa</strong> sẽ dẫn đến màn trình soạn thảo để chỉnh sửa phản hồi.  Bạn cũng có thể đến màn trình soạn thảo chỉnh sửa này bằng cách bấm vào tiêu đề của phản hồi."
+
+#: includes/admin/replies.php:184
+msgid "Title and Reply Editor"
+msgstr "Trình soạn thảo tiêu đề và phản hồi"
+
+#: includes/admin/replies.php:174
+msgid "The title field and the big reply editing Area are fixed in place, but you can reposition all the other boxes using drag and drop, and can minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "Ô tiêu đề và Khung biên tập bài viết thuộc dạng cố định, tuy nhiên bạn có thể thay đổi vị trí các khung khác bằng cách kéo và thả.  Bạn cũng có thể thu nhỏ hoặc mở rộng các khung này bằng cách bấm vào thanh tiêu đề của mỗi khung.  Sử dụng thẻ Tùy Chỉnh Màn Hình để hiển thị thêm các khung khác (như: Trích Dẫn, Gửi Phản Hồi, Trường Tùy Biến, Thảo Luận, Slug, Người Viết) hoặc lựa chọn cách trình bày theo 1 hoặc 2 cột cho màn hình này. "
+
+#: includes/admin/replies.php:186
+msgid "<strong>Title</strong> - Enter a title for your reply. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>Tiêu đề</strong> - Điền tiêu đề cho phản hồi của bạn.  Sau khi tiêu đề được điền, bạn sẽ thấy permalink bên dưới.  Bạn có thể chỉnh sửa tùy thích permalink này."
+
+#: includes/admin/replies.php:187
+msgid "<strong>Reply Editor</strong> - Enter the text for your reply. There are two modes of editing: Visual and HTML. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The HTML mode allows you to enter raw HTML along with your reply text. You can insert media files by clicking the icons above the reply editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in HTML mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular reply editor."
+msgstr "<strong>Trình soạn thảo phản hồi</strong> - Chỉnh sửa hoặc viết nội dung cho phản hồi của bạn tại đây. Có 2 phương pháp để dùng trình soạn thảo này:  Visual và HTML.  Hãy chọn phương pháp nào mà bạn muốn dùng bằng cách bấm vào thẻ thích hợp.  Phương pháp Visual sẽ cho bạn màn hình WYSIWYG.  Bấm vào biểu tượng cuối cùng trong hàng để hàng thứ 2 hiển thị.  Phương pháp HTML sẽ cho bạn nhập mã HTML cơ bản cùng với phần văn bản của phản hồi.  Bạn có thể chèn các tập tin media bằng cách bấm vào các biểu tượng bên trên hộp chỉnh sửa phản hồi và làm theo các chỉ dẫn.  Ngoài ra, bạn có thể dùng bản viết toàn màn hình distraction-free bằng cách bấm nút biểu tượng Fullscreen trong phương pháp Visual (đây là nút thứ hai đếm từ phải qua trong hàng đầu) hoặc biểu tượng Fullscreen trong phương pháp HTML (nút cuối cùng trong hàng).  Một khi bạn đã dùng bản viết toàn màn hình Fullscreen (hoặc còn được biết là màn Distraction-Free), bạn có thể hiển thị các nút lệnh bằng cách di chuyển chuột trên khu cao nhất.  Thoát bản viết toàn màn hình Fullscreen để về lại với bản trình soạn thảo thường."
+
+#: includes/admin/replies.php:190
+msgid "<strong>Publish</strong> - You can set the terms of publishing your reply in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a reply or making it stay at the top of your blog indefinitely (sticky). Publish (immediately) allows you to set a future or past date and time, so you can schedule a reply to be published in the future or backdate a reply."
+msgstr "<strong>Công bố</strong> - Bạn có thể ấn định các hiện trạng công bố cho phản hồi của bạn qua hộp Công Bố.  Khi chọn lựa Hiện Trạng, Độ Hiển Thị, và Công Bố (ngay tức khắc), bấm vào đường liên kết Chỉnh Sửa để xem thêm những chọn lựa khác.  Độ Hiển Thị bao gồm những lựa chọn dùng mật khẩu để bảo vệ phản hồi hoặc ấn định phản hồi lúc nào cũng sẽ hiển thị ở phần trên nhất trong blog của bạn (còn được biết là Ghim).  Công Bố (ngay tức khắc) cũng cho bạn thêm lựa chọn thời gian trong quá khứ hoặc tương lai để bạn có thể sắp đặt phản hồi sẽ được công bố trong tương lai hoặc đặt phản hồi đã được công bố trong quá khứ."
+
+#: includes/admin/replies.php:193
+msgid "<strong>Featured Image</strong> - This allows you to associate an image with your reply without inserting it. This is usually useful only if your theme makes use of the featured image as a reply thumbnail on the home page, a custom header, etc."
+msgstr "<strong>Ảnh đại diện</strong> - Lựa chọn này giúp bạn kết nối một ảnh với phản hồi của bạn mà không cần phải chèn ảnh này vào phản hồi này.  Lựa chọn này thường hữu ích nếu giao diện của bạn dùng ảnh đại diện như là một ảnh thu nhỏ của phản hồi trong trang nhà, trong phần đầu bổ sung (Custom Header), v.v."
+
+#: includes/admin/replies.php:200
+msgid "Select the attributes that your reply should have:"
+msgstr "Chọn thuộc tính mà phản hồi bạn nên có:"
+
+#: includes/admin/replies.php:202
+msgid "<strong>Forum</strong> dropdown determines the parent forum that the reply belongs to. Select the forum, or leave the default (Use Forum of Topic) to post the reply in forum of the topic."
+msgstr "Trình đơn <strong>Diễn đàn</strong> xác định diễn đàn cấp trên cho phản hồi ấy.  Chọn diễn đàn hoặc để mặc định (dùng Diễn đàn của chủ đề) để đăng phản hồi trong diễn đàn mà chủ đề đã được tạo."
+
+#: includes/admin/replies.php:203
+msgid "<strong>Topic</strong> determines the parent topic that the reply belongs to."
+msgstr "<strong>Chủ đề</strong> xác định chủ đề cấp trên cho phản hồi."
+
+#: includes/admin/settings.php:784
+msgid "Allow users to mark topics as favorites"
+msgstr "Cho phép thành viên đánh dấu chủ đề ưa thích"
+
+#: includes/admin/settings.php:947
+msgid "How your forum content is displayed within your existing theme."
+msgstr "Cách mà nội dung diễn đàn của bạn sẽ hiển thị trong giao diện hiện có."
+
+#: includes/common/classes.php:493 includes/replies/template.php:2565
+#: includes/admin/classes/class-bbp-admin.php:938
+#: includes/admin/classes/class-bbp-admin.php:1018
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: includes/admin/settings.php:975
+msgid "will serve all bbPress templates"
+msgstr "sẽ được dùng trong tất cả bbPress templates"
+
+#: includes/admin/settings.php:1008
+msgid "How many topics and replies to show per page"
+msgstr "Sẽ hiển thị bao nhiêu chủ đề và phản hồi trong từng trang"
+
+#: includes/admin/settings.php:1051
+msgid "How many topics and replies to show per RSS page"
+msgstr "Sẽ hiển thị bao nhiêu chủ đề và phản hồi trong từng trang RSS"
+
+#: includes/admin/settings.php:1411
+msgid "Forum settings for BuddyPress"
+msgstr "Thiết lập diễn đàn BuddyPress"
+
+#: includes/admin/settings.php:1425
+msgid "Allow BuddyPress Groups to have their own forums"
+msgstr "Cho phép các nhóm BuddyPress có diễn đàn của riêng họ"
+
+#: includes/admin/settings.php:1492
+msgid "Forum settings for Akismet"
+msgstr "Thiết lập diễn đàn dùng cho Akismet"
+
+#: includes/admin/settings.php:1507
+msgid "Allow Akismet to actively prevent forum spam."
+msgstr "Cho phép Akismet tích cực hoạt động để ngăn ngừa spam."
+
+#: includes/admin/classes/class-bbp-converter.php:162
+#: includes/admin/settings.php:1794
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: includes/admin/settings.php:1885
+msgid "Favorites are a way for users to save and later return to topics they favor. This is enabled by default."
+msgstr "Ưa thích là một cách để các thành viên lưu và sau đó có thể quay lại chủ đề mà họ ưa thích.  Chỉ lệnh này được bật lên trong hiện trạng mặc định."
+
+#: includes/admin/settings.php:1886
+msgid "Subscriptions allow users to subscribe for notifications to topics that interest them. This is enabled by default."
+msgstr "Theo dõi cho phép các thành viên theo dõi qua thông báo các chủ đề mà họ quan tâm.  Chỉ lệnh này được bật lên trong hiện trạng mặc định."
+
+#: includes/admin/settings.php:1888
+msgid "\"Anonymous Posting\" allows guest users who do not have accounts on your site to both create topics as well as replies."
+msgstr "\"Đăng ẩn\" cho phép các khách không có tài khoản trong mạng của bạn quyền tạo chủ đề lẫn phản hồi."
+
+#: includes/admin/settings.php:1889
+msgid "The Fancy Editor brings the luxury of the Visual editor and HTML editor from the traditional WordPress dashboard into your theme."
+msgstr "Trình soạn thảo Fancy đem đến những tiện nghi của trình soạn thảo Visual và trình soạn thảo HTML hiện diện trong bảng tin truyền thống WordPress vào giao diện của bạn."
+
+#: includes/admin/settings.php:1890
+msgid "Auto-embed will embed the media content from a URL directly into the replies. For example: links to Flickr and YouTube."
+msgstr "Lệnh tự lồng sẽ lồng tập tin media thẳng từ một URL vào trong các phản hồi.  Ví dụ như các đường truyền từ Flickrs hoặc YouTube."
+
+#: includes/admin/settings.php:1916
+msgid "This is comparable to the WordPress \"Reading Settings\" page, where you can set the number of posts that should show on blog pages and in feeds."
+msgstr "Lệnh này giống như lệnh trong trang \"Thiết Lập Cách Đọc (Reading Settings)\" của WordPress, nơi mà bạn có thể ấn định những bài viết có thể hiển thị trên trang blog hoặc trong feeds."
+
+#: includes/admin/settings.php:1917
+msgid "These are broken up into two separate groups: one for what appears in your theme, another for RSS feeds."
+msgstr "Những dữ liệu này sẽ được chia ra thành hai nhóm riêng biệt:  Một nhóm là dành cho hiển thị trong giao diện của bạn, nhóm kia dành cho RSS feeds."
+
+#: includes/admin/settings.php:1925
+msgid "Slugs"
+msgstr "Slugs"
+
+#: includes/admin/settings.php:1928
+msgid "\"Archive Slugs\" are used as the \"root\" for your forums and topics. If you combine these values with existing page slugs, bbPress will attempt to output the most correct title and content."
+msgstr "Chỉ lệnh \"Cất giữ Slugs\" dùng cho \"đỉnh\" trong các diễn đàn và chủ đề của bạn.  Nếu bạn kết hợp những trị số này với những trang slugs hiện có, bbPress sẽ tính toán lại để đưa ra tiêu đề lẫn nội dung gần chính xác nhất."
+
+#: includes/admin/settings.php:1929
+msgid "\"Single Slugs\" are used as a prefix when viewing an individual forum, topic, reply, user, or view."
+msgstr "\"Các Slug đơn\" được ấn định là tiền tố khi xem các diễn đãn đơn, chủ đề, phản hồi, thành viên, hoặc hiển thị."
+
+#: includes/admin/settings.php:1930
+msgid "In the event of a slug collision with WordPress or BuddyPress, a warning will appear next to the problem slug(s)."
+msgstr "Trong trường hợp va chạm slug với WordPress hay BuddPress, một cảnh báo sẽ xuất hiện kế bên các slug có vấn đề đó."
+
+#: includes/admin/settings.php:920
+msgid "Allow topic and reply revision logging"
+msgstr "Cho phép chép vào bản sổ trực dữ liệu về các phiên bản của chủ đề và phản hồi"
+
+#: includes/admin/metaboxes.php:190
+msgid "Users &amp; Moderation"
+msgstr "Duyệt trình thành viên"
+
+#: includes/admin/settings.php:2075
+msgid "%s page"
+msgstr "%s trang"
+
+#: includes/admin/settings.php:2025
+msgid "Pages"
+msgstr "Các trang"
+
+#: includes/admin/topics.php:1118 includes/admin/replies.php:914
+msgid "Empty Spam"
+msgstr "Spam rỗng"
+
+#: includes/admin/settings.php:2028
+msgid "Menus"
+msgstr "Trình đơn"
+
+#: includes/admin/settings.php:2039
+msgid "Forums base"
+msgstr "Diễn đàn"
+
+#: includes/admin/settings.php:2042
+msgid "Topics base"
+msgstr "Chủ đề"
+
+#: includes/admin/replies.php:728
+msgid "(Mismatch)"
+msgstr "(Sai lệch)"
+
+#: includes/admin/settings.php:2034
+msgid "Category base"
+msgstr "Chuyên mục"
+
+#: includes/admin/settings.php:2031
+msgid "Tag base"
+msgstr "Nhãn"
+
+#: includes/admin/settings.php:2027
+msgid "Attachments"
+msgstr "Đính kềm"
+
+#: templates/default/bbpress/form-anonymous.php:33
+#: includes/admin/metaboxes.php:619
+msgid "Website:"
+msgstr "Trang mạng:"
+
+#: templates/default/bbpress/form-user-edit.php:60
+#: includes/admin/metaboxes.php:620
+msgid "Website"
+msgstr "Trang mạng"
+
+#: includes/replies/template.php:1983 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833 includes/topics/template.php:2534
+msgid "Move this item to the Trash"
+msgstr "Dời mục này vào sọt rác"
+
+#: templates/default/bbpress/loop-replies.php:21
+#: templates/default/bbpress/loop-replies.php:47
+#: templates/default/bbpress/loop-topics.php:22
+#: templates/default/bbpress/loop-forums.php:24
+#: includes/admin/settings.php:2024
+msgid "Posts"
+msgstr "Bài viết"
+
+#: templates/default/bbpress/loop-search.php:19
+#: templates/default/bbpress/loop-search.php:41
+#: templates/default/bbpress/loop-replies.php:18
+#: templates/default/bbpress/loop-replies.php:44 includes/admin/topics.php:858
+#: includes/admin/replies.php:667
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:59
+msgid "Author"
+msgstr "Người viết"
+
+#: bbpress.php:724
+msgid "Topics with no replies"
+msgstr "Các chủ đề không có phản hồi"
+
+#: includes/admin/settings.php:368 includes/admin/metaboxes.php:166
+#: includes/topics/template.php:3387
+msgid "Topic Tag"
+msgid_plural "Topic Tags"
+msgstr[0] "Nhãn chủ đề"
+
+#: bbpress.php:640
+msgctxt "post"
+msgid "Hidden"
+msgstr "Ẩn"
+
+#: bbpress.php:626
+msgctxt "post"
+msgid "Orphan"
+msgstr "Vô cư"
+
+#: bbpress.php:612
+msgctxt "post"
+msgid "Spam"
+msgstr "Spam"
+
+#: bbpress.php:599
+msgctxt "post"
+msgid "Closed"
+msgstr "Đã đóng"
+
+#: bbpress.php:567
+msgid "bbPress Replies"
+msgstr "Phản hồi bbPress"
+
+#: templates/default/bbpress/loop-search-topic.php:25
+#: includes/admin/metaboxes.php:522
+msgid "Topic:"
+msgstr "Chủ đề:"
+
+#: templates/default/bbpress/loop-forums.php:20 includes/forums/template.php:50
+#: includes/extend/buddypress/groups.php:51
+#: includes/extend/buddypress/groups.php:52 includes/admin/actions.php:192
+#: includes/admin/actions.php:204 includes/admin/topics.php:855
+#: includes/admin/replies.php:665 includes/admin/settings.php:352
+#: includes/admin/metaboxes.php:113 includes/admin/metaboxes.php:432
+#: includes/admin/metaboxes.php:496 includes/admin/forums.php:537
+msgid "Forum"
+msgid_plural "Forums"
+msgstr[0] "Diễn đàn"
+
+#: bbpress.php:515
+msgid "bbPress Forums"
+msgstr "Diễn đàn bbPress"
+
+#: templates/default/bbpress/content-statistics.php:30
+#: templates/default/bbpress/loop-forums.php:21
+#: includes/forums/template.php:2660
+#: includes/extend/buddypress/activity.php:197
+#: includes/extend/buddypress/activity.php:391 includes/admin/actions.php:180
+#: includes/admin/topics.php:854 includes/admin/settings.php:281
+#: includes/admin/settings.php:302 includes/admin/tools/common.php:437
+#: includes/admin/forums.php:538 includes/topics/template.php:47
+#: includes/topics/template.php:48
+msgid "Topics"
+msgstr "Chủ đề"
+
+#: templates/default/bbpress/loop-search-forum.php:25
+#: templates/default/bbpress/form-topic.php:124
+#: includes/extend/buddypress/groups.php:1347 includes/admin/metaboxes.php:431
+#: includes/admin/metaboxes.php:495 includes/topics/template.php:65
+msgid "Forum:"
+msgstr "Diễn đàn:"
+
+#: bbpress.php:541
+msgid "bbPress Topics"
+msgstr "Chủ đề bbPress"
+
+#: templates/default/bbpress/loop-replies.php:20
+#: templates/default/bbpress/loop-replies.php:46
+#: templates/default/bbpress/loop-topics.php:21
+#: templates/default/bbpress/content-statistics.php:35
+#: templates/default/bbpress/loop-forums.php:23
+#: includes/forums/template.php:2714 includes/replies/template.php:49
+#: includes/replies/template.php:50 includes/extend/buddypress/activity.php:207
+#: includes/extend/buddypress/activity.php:392 includes/admin/actions.php:185
+#: includes/admin/actions.php:197 includes/admin/topics.php:390
+#: includes/admin/topics.php:856 includes/admin/settings.php:289
+#: includes/admin/settings.php:310 includes/admin/tools/common.php:440
+#: includes/admin/forums.php:539 includes/core/theme-compat.php:704
+msgid "Replies"
+msgstr "Phản hồi"
+
+#: includes/replies/template.php:1988 includes/admin/topics.php:1041
+#: includes/admin/replies.php:837 includes/topics/template.php:2538
+msgid "Delete this item permanently"
+msgstr "Xóa vĩnh viễn mục này"
+
+#: templates/default/bbpress/content-single-topic-lead.php:19
+#: templates/default/bbpress/content-single-topic-lead.php:87
+#: includes/admin/forums.php:541
+msgid "Creator"
+msgstr "Người tạo"
+
+#: includes/replies/template.php:1961 includes/admin/topics.php:1037
+#: includes/admin/replies.php:833
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:92
+#: includes/topics/template.php:2515
+msgid "Trash"
+msgstr "Bỏ rác"
+
+#: includes/replies/template.php:1962 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2516
+msgid "Restore"
+msgstr "Khôi phục"
+
+#: includes/replies/template.php:1979 includes/admin/topics.php:1035
+#: includes/admin/replies.php:831 includes/topics/template.php:2532
+msgid "Restore this item from the Trash"
+msgstr "Khôi phục lại mục này từ sọt rác"
+
+#: templates/default/bbpress/form-topic-tag.php:40
+#: includes/admin/metaboxes.php:607
+msgid "Name:"
+msgstr "Tên:"
+
+#: includes/forums/template.php:581 includes/admin/forums.php:595
+msgid "No Topics"
+msgstr "Không có chủ đề"
+
+#: includes/admin/metaboxes.php:105
+msgid "Discussion"
+msgstr "Thảo luận"
+
+#: includes/admin/metaboxes.php:198
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Thành viên"
+
+#: includes/admin/metaboxes.php:217
+msgid "Hidden Topic"
+msgid_plural "Hidden Topics"
+msgstr[0] "Chủ đề ẩn"
+
+#: includes/admin/metaboxes.php:239
+msgid "Hidden Reply"
+msgid_plural "Hidden Replies"
+msgstr[0] "Phản hồi ẩn"
+
+#: includes/admin/metaboxes.php:261
+msgid "Empty Topic Tag"
+msgid_plural "Empty Topic Tags"
+msgstr[0] "Nhãn chủ đề rỗng"
+
+#: includes/admin/metaboxes.php:285
+msgid "You are using <span class=\"b\">bbPress %s</span>."
+msgstr "Bạn đang dùng <span class=\"b\">bbPress %s</span>."
+
+#: includes/admin/metaboxes.php:317 includes/admin/metaboxes.php:318
+#: includes/admin/metaboxes.php:404
+msgid "Type:"
+msgstr "Dạng:"
+
+#: templates/default/bbpress/form-forum.php:121
+#: includes/admin/metaboxes.php:329 includes/admin/metaboxes.php:330
+#: includes/admin/metaboxes.php:416 includes/admin/metaboxes.php:479
+msgid "Status:"
+msgstr "Hiện trạng:"
+
+#: templates/default/bbpress/form-forum.php:130
+#: includes/admin/metaboxes.php:341 includes/admin/metaboxes.php:342
+msgid "Visibility:"
+msgstr "Độ hiển thị:"
+
+#: includes/admin/metaboxes.php:355
+msgid "Parent:"
+msgstr "Cấp trên:"
+
+#: includes/admin/metaboxes.php:356
+msgid "Forum Parent"
+msgstr "Diễn đàn cấp trên"
+
+#: includes/admin/metaboxes.php:376
+msgid "Order:"
+msgstr "Thứ bậc:"
+
+#: includes/admin/metaboxes.php:377
+msgid "Forum Order"
+msgstr "Thứ bậc diễn đàn"
+
+#: templates/default/bbpress/form-user-edit.php:112
+#: templates/default/bbpress/form-user-register.php:34
+#: includes/admin/metaboxes.php:614
+msgid "Email"
+msgstr "Điện thư email"
+
+#: includes/admin/metaboxes.php:636
+msgid "IP Address"
+msgstr "Địa chỉ IP"
+
+#: includes/admin/settings.php:1879
+msgid "Main Settings"
+msgstr "Thiết lập chính"
+
+#: includes/admin/settings.php:1913
+msgid "Per Page"
+msgstr "Từng trang"
+
+#: includes/admin/settings.php:331
+msgid "Forum Prefix"
+msgstr "Tiền tố diễn đàn"
+
+#: includes/admin/settings.php:2045
+msgid "Forum slug"
+msgstr "Slug diễn đàn"
+
+#: includes/admin/settings.php:2048
+msgid "Topic slug"
+msgstr "Slug chủ đề"
+
+#: includes/admin/settings.php:2063
+msgid "Topic tag slug"
+msgstr "Slug nhãn chủ đề"
+
+#: includes/admin/settings.php:2051
+msgid "Reply slug"
+msgstr "Slug phản hồi"
+
+#: includes/admin/settings.php:2057
+msgid "User base"
+msgstr "Gốc thành viên"
+
+#: includes/admin/settings.php:2060
+msgid "View base"
+msgstr "Gốc hiển thị"
+
+#: includes/admin/classes/class-bbp-admin.php:727
+msgid "Settings"
+msgstr "Thiết lập"
+
+#: includes/admin/classes/class-bbp-admin.php:1288
+#: includes/admin/classes/class-bbp-admin.php:1338
+msgid "Go Back"
+msgstr "Quay về"
+
+#: includes/admin/settings.php:719
+msgid "Allow guest users without accounts to create topics and replies"
+msgstr "Cho phép các khách không ghi danh quyền tạo chủ đề và phản hồi"
+
+#: includes/admin/settings.php:1022 includes/admin/settings.php:1036
+#: includes/admin/settings.php:1065 includes/admin/settings.php:1079
+msgid "per page"
+msgstr "từng trang"
+
+#: includes/admin/settings.php:1883
+msgid "You can choose to lock a post after a certain number of minutes. \"Locking post editing\" will prevent the author from editing some amount of time after saving a post."
+msgstr "Bạn có thể khóa một bài viết sau vài phút hoặc hơn.  \"Khóa khả năng chỉnh sửa bài viết\" sẽ ngăn chặn người viết quyền chỉnh sửa bài sau một thời gian bài đã được lưu."
+
+#: includes/admin/settings.php:1884
+msgid "\"Throttle time\" is the amount of time required between posts from a single author. The higher the throttle time, the longer a user will need to wait between posting to the forum."
+msgstr "\"Điều tiết thời gian\" là khoảng thời gian chờ đợi cần có giữa các bài đăng cùng một người viết.  Nếu điều tiết thời gian càng cao, thì khoảng thời gian chờ đợi để đăng bài viết trong diễn đàn càng dài cho người viết ấy."
+
+#: includes/admin/settings.php:1893
+msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
+msgstr "Bạn cần bấm nút Lưu thay đổi ở phía dưới của màn hình để cho thiết lập mới được thực thi."
+
+#: includes/admin/forums.php:113
+msgid "You can hide/display columns based on your needs and decide how many forums to list per screen using the Screen Options tab."
+msgstr "Bạn có thể giấu / hiển thị các cột tùy theo yêu cầu của bạn.  Bạn cũng có thể quyết định bạn cần bao nhiêu diễn đàn hiện ra ở mỗi màn hình qua thẻ Tùy Chỉnh Màn Hình."
+
+#: includes/admin/forums.php:114
+msgid "You can filter the list of forums by forum status using the text links in the upper left to show All, Published, or Trashed forums. The default view is to show all forums."
+msgstr "Bạn có thể lọc các diễn đàn qua bộ lọc hiện trạng bằng cách dùng đường truyền dạng chữ ở vùng trên bên trái. Chỉ lệnh này sẽ hiển thị các diễn đàn với hiện trạng All (Tất Cả), Published (Đã Công Bố), hoặc Trashed (Rác).  Dạng xem mặc định là hiển thị tất cả diễn đàn."
+
+#: includes/admin/forums.php:115
+msgid "You can refine the list to show only forums from a specific month by using the dropdown menus above the forums list. Click the Filter button after making your selection. You also can refine the list by clicking on the forum creator in the forums list."
+msgstr "Bạn có thể lọc danh sách để chỉ hiển thị các diễn đàn giới hạn trong một tháng cụ thể qua các trình đơn thả xuống cố định bên trên danh sách diễn đàn.  Bấm vào nút Filter sau khi bạn đã chọn lựa.  Bạn cũng có thể lọc danh sách bằng cách bấm vào tên người tạo diễn đàn tìm thấy trong danh sách diễn đàn."
+
+#: includes/admin/forums.php:124
+msgid "Hovering over a row in the forums list will display action links that allow you to manage your forum. You can perform the following actions:"
+msgstr "Di chuột lên trên một hàng trong bảng mục lục các diễn đàn sẽ hiển thị các đường truyền liên kết cho phép bạn kiểm soát diễn đàn.  Bạn có thể thực hiện các thao tác sau: "
+
+#: includes/forums/template.php:68 includes/admin/forums.php:181
+#: includes/admin/forums.php:214
+msgid "Forum Attributes"
+msgstr "Thuộc tính diễn đàn"
+
+#: includes/admin/topics.php:859 includes/admin/replies.php:668
+#: includes/admin/forums.php:542
+msgid "Created"
+msgstr "Đã tạo"
+
+#: includes/admin/topics.php:1181 includes/admin/replies.php:977
+#: includes/admin/forums.php:716
+msgid "Custom field updated."
+msgstr "Đã cập nhật ô bổ sung."
+
+#: includes/admin/topics.php:1184 includes/admin/replies.php:980
+#: includes/admin/forums.php:719
+msgid "Custom field deleted."
+msgstr "Đã xóa ô bổ sung."
+
+#: includes/forums/template.php:79 includes/admin/forums.php:710
+#: includes/admin/forums.php:722
+msgid "Forum updated."
+msgstr "Diễn đàn đã được cập nhật. <a href=\"%s\">Xem diễn đàn</a>"
+
+#. translators: %s: date and time of the revision
+#: includes/admin/forums.php:727
+msgid "Forum restored to revision from %s"
+msgstr "Diễn đàn đã được phục hồi lại từ phiên bản %s"
+
+#: includes/admin/forums.php:739
+msgid "Forum saved."
+msgstr "Diễn đàn đã được lưu."
+
+#: includes/admin/replies.php:129
+msgid "You can view replies in a simple title list or with an excerpt. Choose the view you prefer by clicking on the icons at the top of the list on the right."
+msgstr "Bạn có thể xem những phản hồi dưới dạng một mục lục tựa đơn giản hoặc với một trích dẫn. Chọn hiển thị mà bạn muốn xem bằng cách bấm vào các biểu tượng nằm phía trên bên phải của mục lục."
+
+#: includes/admin/replies.php:139
+msgid "Hovering over a row in the replies list will display action links that allow you to manage your reply. You can perform the following actions:"
+msgstr "Di chuột lên trên một hàng trong bảng mục lục các phản hồi sẽ hiển thị các đường truyền liên kết cho phép bạn kiểm soát phản hồi.  Bạn có thể thực hiện các thao tác sau: "
+
+#: includes/replies/template.php:69 includes/admin/replies.php:198
+#: includes/admin/replies.php:336
+msgid "Reply Attributes"
+msgstr "Thuộc tính phản hồi"
+
+#: templates/default/bbpress/form-anonymous.php:18
+#: includes/admin/topics.php:364 includes/admin/replies.php:361
+msgid "Author Information"
+msgstr "Thông tin người viết"
+
+#: includes/admin/replies.php:562
+msgid "There was a problem marking the reply \"%1$s\" as spam."
+msgstr "Có lỗi khi đang đánh dấu chủ đề \"%1$s\" là spam."
+
+#: includes/admin/replies.php:563
+msgid "Reply \"%1$s\" successfully marked as spam."
+msgstr "Phản hồi \"%1$s\" đã được đánh dấu thành công là spam."
+
+#: includes/admin/replies.php:568
+msgid "There was a problem unmarking the reply \"%1$s\" as spam."
+msgstr "Có lỗi khi đang xóa dấu phản hồi \"%1$s\" là spam."
+
+#: includes/admin/replies.php:569
+msgid "Reply \"%1$s\" successfully unmarked as spam."
+msgstr "Phản hồi \"%1$s\" đã được xóa dấu spam thành công."
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+#: includes/admin/classes/class-bbp-topic-replies-list-table.php:144
+#: includes/admin/users.php:260
+msgid "View"
+msgstr "Xem"
+
+#: includes/admin/topics.php:975 includes/admin/topics.php:994
+#: includes/admin/replies.php:796
+msgid "View &#8220;%s&#8221;"
+msgstr "Xem &#8220;%s&#8221;"
+
+#: includes/admin/replies.php:820
+msgid "Mark the reply as not spam"
+msgstr "Đánh dấu phản hồi không phải spam"
+
+#: includes/admin/replies.php:818
+msgid "Mark this reply as spam"
+msgstr "Đánh dấu phản hồi này là spam"
+
+#: includes/admin/topics.php:1041 includes/admin/replies.php:837
+msgid "Delete Permanently"
+msgstr "Xóa vĩnh viễn"
+
+#: includes/admin/topics.php:1095 includes/admin/replies.php:891
+msgid "In all forums"
+msgstr "Trong tất cả diễn đàn"
+
+#: includes/replies/template.php:80 includes/admin/replies.php:971
+#: includes/admin/replies.php:983
+msgid "Reply updated."
+msgstr "Phản hồi đã được cập nhật."
+
+#. translators: %s: date and time of the revision
+#: includes/admin/replies.php:988
+msgid "Reply restored to revision from %s"
+msgstr "Phản hồi đã được phục hồi lại từ phiên bản %s"
+
+#: includes/admin/replies.php:1000
+msgid "Reply saved."
+msgstr "Phản hồi đã được lưu."
+
+#: includes/admin/tools.php:151
+msgid "Recalculate last activity in each topic and forum"
+msgstr "Xác định lại hoạt động cuối cùng trong từng chủ đề và từng diễn đàn"
+
+#: includes/admin/metaboxes.php:147
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Phản hồi"
+
+#: includes/admin/topics.php:169 includes/admin/topics.php:222
+#: includes/admin/replies.php:163 includes/admin/replies.php:217
+#: includes/admin/settings.php:1939 includes/admin/tools/help.php:45
+#: includes/admin/tools/help.php:74 includes/admin/tools/help.php:132
+#: includes/admin/forums.php:146 includes/admin/forums.php:202
+msgid "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">bbPress Support Forums</a>"
+msgstr "<a href=\"https://bbpress.org/forums/\" target=\"_blank\">Diễn đàn hỗ trợ bbPress</a>"
+
+#: includes/admin/topics.php:168 includes/admin/topics.php:221
+#: includes/admin/replies.php:162 includes/admin/replies.php:216
+#: includes/admin/settings.php:1938 includes/admin/tools/help.php:44
+#: includes/admin/tools/help.php:73 includes/admin/tools/help.php:131
+#: includes/admin/forums.php:145 includes/admin/forums.php:201
+msgid "<a href=\"https://codex.bbpress.org\" target=\"_blank\">bbPress Documentation</a>"
+msgstr "<a href=\"https://codex.bbpress.org\" target=\"_blank\">Tài liệu bbPress</a>"
+
+#: includes/admin/tools.php:163
+msgid "Recalculate sticky relationship of each topic"
+msgstr "Xác định lại mối quan hệ ghim của từng chủ đề"
+
+#: includes/admin/settings.php:1873 includes/admin/tools/help.php:97
+msgid "Please see the additional help tabs for more information on each individual section."
+msgstr "Xin xem những thẻ giúp đỡ bổ sung để tìm thêm về dữ liệu của từng phần riêng biệt."
+
+#: includes/admin/tools/help.php:105
+msgid "In the Database Settings you have a number of options:"
+msgstr "Trong thiết lập database, bạn có những tùy chọn sau:"
+
+#: includes/admin/replies.php:155
+msgid "You can also edit, spam, or move multiple replies to the trash at once. Select the replies you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
+msgstr "Bạn cũng có thể chỉnh sửa hoặc dời nhiều phản hồi vào sọt rác cùng một lúc.  Chọn những phản hồi mà bạn muốn thực thi bằng cách dùng các ô đánh dấu, rồi hãy chọn lệnh mà bạn muốn từ trình đơn Bulk Actions, xong bấm nút Apply."
+
+#: includes/admin/replies.php:128
+msgid "You can filter the list of replies by reply status using the text links in the upper left to show All, Published, Draft, Pending, Trashed, or Spam replies. The default view is to show all replies."
+msgstr "Bạn có thể lọc các phản hồi qua bộ lọc hiện trạng bằng cách dùng đường truyền dạng chữ ở vùng trên bên trái.  Chỉ lệnh này sẽ hiển thị các phản hồi với hiện trạng All (Tất Cả), Published (Đã Công Bố), Draft (Nháp), hoặc Trashed (Rác).  Dạng xem mặc định của bộ lọc này là hiển thị tất cả phản hồi."
+
+#: includes/admin/forums.php:188
+msgid "<strong>Parent</strong> dropdown determines the parent forum. Select the forum or category from the dropdown, or leave the default \"No parent\" to create the forum at the root of your forums."
+msgstr "Trình đơn <strong>Cấp trên</strong>xác định diễn đàn cấp trên.  Chọn diễn đàn hoặc chuyên mục từ trình đơn thả xuống, hoặc để mặc định (Không có cấp trên) để tạo diễn đàn này ở vị trí đỉnh của những diễn đàn."
+
+#: templates/default/bbpress/loop-topics.php:18
+#: templates/default/bbpress/content-single-topic-lead.php:23
+#: templates/default/bbpress/content-single-topic-lead.php:91
+#: includes/admin/actions.php:209 includes/admin/replies.php:666
+#: includes/admin/settings.php:360 includes/admin/metaboxes.php:130
+#: includes/admin/metaboxes.php:523 includes/topics/template.php:49
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Chủ đề"
