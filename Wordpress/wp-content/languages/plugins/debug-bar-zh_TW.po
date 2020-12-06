@@ -1,0 +1,303 @@
+# Translation of Plugins - Debug Bar - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Debug Bar - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-31 20:14:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Debug Bar - Stable (latest release)\n"
+
+#: panels/class-debug-bar-wp-http.php:71
+msgid "WP_Http"
+msgstr "WP_Http"
+
+#. translators: %s = duration in milliseconds.
+#: panels/class-debug-bar-queries.php:54 panels/class-debug-bar-queries.php:84
+msgid "%s ms"
+msgstr "%s 毫秒"
+
+#. Author URI of the plugin
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#. Author of the plugin
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Description of the plugin
+msgid "Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information."
+msgstr "將能顯示查詢、快取及其他實用偵錯資訊的偵錯選單新增至管理列。"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/debug-bar/"
+msgstr "https://tw.wordpress.org/plugins/debug-bar/"
+
+#. Plugin Name of the plugin
+msgid "Debug Bar"
+msgstr "Debug Bar"
+
+#: panels/class-debug-bar-wp-query.php:94
+msgid "Queried Object:"
+msgstr "已查詢物件:"
+
+#: panels/class-debug-bar-wp-query.php:89
+msgid "Query SQL:"
+msgstr "查詢 SQL:"
+
+#: panels/class-debug-bar-wp-query.php:85
+msgid "Query Arguments:"
+msgstr "查詢引數:"
+
+#: panels/class-debug-bar-wp-query.php:74
+msgid "Post Type:"
+msgstr "內容類型:"
+
+#: panels/class-debug-bar-wp-query.php:70
+msgid "Page on Front:"
+msgstr "首頁頁面:"
+
+#: panels/class-debug-bar-wp-query.php:69
+msgid "Page for Posts:"
+msgstr "文章頁面:"
+
+#: panels/class-debug-bar-wp-query.php:67
+msgid "Show on Front:"
+msgstr "顯示於首頁的項目:"
+
+#: panels/class-debug-bar-wp-query.php:60
+msgid "Query Template:"
+msgstr "查詢範本:"
+
+#: panels/class-debug-bar-wp-query.php:56
+msgid "Query Type:"
+msgstr "查詢類型:"
+
+#: panels/class-debug-bar-wp-query.php:52
+msgid "Paged"
+msgstr "分頁頁次"
+
+#: panels/class-debug-bar-wp-query.php:50
+msgid "Archive"
+msgstr "彙整"
+
+#: panels/class-debug-bar-wp-query.php:48
+msgid "Date"
+msgstr "日期"
+
+#: panels/class-debug-bar-wp-query.php:46
+msgid "Author"
+msgstr "作者"
+
+#: panels/class-debug-bar-wp-query.php:44
+msgid "Tag"
+msgstr "標籤"
+
+#: panels/class-debug-bar-wp-query.php:42
+msgid "Category"
+msgstr "分類"
+
+#: panels/class-debug-bar-wp-query.php:40
+msgid "Page"
+msgstr "頁面"
+
+#: panels/class-debug-bar-wp-query.php:38
+msgid "Single"
+msgstr "單篇文章"
+
+#: panels/class-debug-bar-wp-query.php:36
+msgid "Attachment"
+msgstr "附件"
+
+#: panels/class-debug-bar-wp-query.php:34
+msgid "Home"
+msgstr "首頁"
+
+#: panels/class-debug-bar-wp-query.php:32
+msgid "Front Page"
+msgstr "靜態首頁"
+
+#: panels/class-debug-bar-wp-query.php:30
+msgid "Taxonomy"
+msgstr "分類法"
+
+#: panels/class-debug-bar-wp-query.php:28
+msgid "Search"
+msgstr "搜尋"
+
+#: panels/class-debug-bar-wp-query.php:26
+msgid "404"
+msgstr "404 錯誤"
+
+#: panels/class-debug-bar-wp-query.php:21
+msgid "Queried Object ID:"
+msgstr "查詢的物件 ID:"
+
+#: panels/class-debug-bar-wp-query.php:5
+msgid "WP Query"
+msgstr "WP 查詢"
+
+#: panels/class-debug-bar-request.php:50
+msgid "Matched Rewrite Query:"
+msgstr "相符的重寫查詢:"
+
+#: panels/class-debug-bar-request.php:41
+msgid "Matched Rewrite Rule:"
+msgstr "相符的重寫規則:"
+
+#: panels/class-debug-bar-request.php:32
+msgid "Query String:"
+msgstr "查詢字串:"
+
+#: panels/class-debug-bar-request.php:23
+msgid "Request:"
+msgstr "要求:"
+
+#: panels/class-debug-bar-request.php:18 panels/class-debug-bar-request.php:27
+#: panels/class-debug-bar-request.php:36 panels/class-debug-bar-request.php:45
+#: panels/class-debug-bar-wp-query.php:80
+msgid "None"
+msgstr "無"
+
+#: panels/class-debug-bar-request.php:5
+msgid "Request"
+msgstr "要求"
+
+#: panels/class-debug-bar-queries.php:87
+msgid "Total DB Errors:"
+msgstr "資料庫錯誤總計:"
+
+#: panels/class-debug-bar-queries.php:82
+msgid "Total query time:"
+msgstr "查詢時間總計:"
+
+#: panels/class-debug-bar-queries.php:79
+msgid "Total Queries:"
+msgstr "查詢次數總計:"
+
+#: panels/class-debug-bar-queries.php:66
+msgid "Database Errors"
+msgstr "資料庫錯誤"
+
+#: panels/class-debug-bar-queries.php:62
+msgid "SAVEQUERIES must be defined to show the query log."
+msgstr "必須定義 SAVEQUERIES 才能顯示查詢記錄。"
+
+#: panels/class-debug-bar-queries.php:60
+msgid "There are no queries on this page."
+msgstr "這個頁面不包含任何查詢。"
+
+#. translators: %s = a url.
+#: panels/class-debug-bar-queries.php:32
+msgid "There are too many queries to show easily! <a href=\"%s\">Show them anyway</a>"
+msgstr "查詢數量太多導致顯示不易！<a href=\"%s\">仍要顯示查詢</a>"
+
+#: panels/class-debug-bar-queries.php:6
+msgid "Queries"
+msgstr "查詢"
+
+#: panels/class-debug-bar-php.php:100
+msgid "NOTICE:"
+msgstr "通知:"
+
+#: panels/class-debug-bar-php.php:87
+msgid "WARNING:"
+msgstr "警告:"
+
+#: panels/class-debug-bar-php.php:81
+msgid "Total Notices:"
+msgstr "通知總次數:"
+
+#: panels/class-debug-bar-php.php:80
+msgid "Total Warnings:"
+msgstr "警告總次數:"
+
+#: panels/class-debug-bar-php.php:13
+msgid "Notices / Warnings"
+msgstr "通知/警告"
+
+#: panels/class-debug-bar-object-cache.php:5
+msgid "Object Cache"
+msgstr "物件快取"
+
+#: panels/class-debug-bar-js.php:19
+msgid "Total Errors:"
+msgstr "錯誤總數:"
+
+#: panels/class-debug-bar-js.php:7
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: panels/class-debug-bar-deprecated.php:134
+msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "從 %2$s 版開始，以引數呼叫 %1$s 的方式<strong>已淘汰不用</strong>，且不提供替代方案。"
+
+#: panels/class-debug-bar-deprecated.php:132
+msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
+msgstr "從 %2$s 版開始，以引數呼叫 %1$s 的方式<strong>已淘汰不用</strong>。%3$s"
+
+#. translators: %1$s is a function or file name, %2$s a version number.
+#: panels/class-debug-bar-deprecated.php:91
+#: panels/class-debug-bar-deprecated.php:109
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "從 %2$s 版開始，%1$s <strong>已淘汰不用</strong>且不提供替代函式。"
+
+#. translators: %1$s is a function or file name, %2$s a version number, %3$s an
+#. alternative function or file to use.
+#: panels/class-debug-bar-deprecated.php:88
+#: panels/class-debug-bar-deprecated.php:106
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "從 %2$s 版開始，%1$s <strong>已淘汰不用</strong>，請改用 %3$s。"
+
+#: panels/class-debug-bar-deprecated.php:35
+msgid "Total Files:"
+msgstr "檔案數量總計:"
+
+#: panels/class-debug-bar-deprecated.php:34
+msgid "Total Arguments:"
+msgstr "引數數量總計:"
+
+#: panels/class-debug-bar-deprecated.php:33
+msgid "Total Functions:"
+msgstr "函式數量總計:"
+
+#: panels/class-debug-bar-deprecated.php:11
+msgid "Deprecated"
+msgstr "已淘汰不用的項目"
+
+#: debug-bar.php:318
+msgid "Please Enable"
+msgstr "請啟用"
+
+#. translators: %s is a formatted number representing the memory usage.
+#: debug-bar.php:312
+msgid "%s bytes"
+msgstr "%s 位元組 (Bytes)"
+
+#: debug-bar.php:310
+msgid "Memory Usage"
+msgstr "記憶體使用量"
+
+#: debug-bar.php:302
+msgid "MySQL"
+msgstr "MySQL 版本"
+
+#: debug-bar.php:302
+msgid "DB"
+msgstr "資料庫"
+
+#: debug-bar.php:299
+msgid "PHP"
+msgstr "PHP 版本"
+
+#. translators: %d is the site id number in a multi-site setting.
+#: debug-bar.php:295
+msgid "#%d"
+msgstr "網站 ID: #%d"
+
+#: debug-bar.php:201
+msgid "Debug"
+msgstr "偵錯"

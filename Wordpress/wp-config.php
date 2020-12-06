@@ -24,6 +24,7 @@ if (file_exists($debian_file)) {
 } elseif (file_exists("/etc/wordpress/config-default.php")) {
     require_once("/etc/wordpress/config-default.php");
     define('DEBIAN_FILE', "/etc/wordpress/config-default.php");
+
 } else {
     header("HTTP/1.0 404 Not Found");
     echo "Neither <b>$debian_file</b> nor <b>$debian_main_file</b> could be found. <br/> Ensure one of them exists, is readable by the webserver and contains the right password/username.";
@@ -55,6 +56,9 @@ if (!isset($table_prefix)) {
 
 if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')
     $_SERVER['HTTPS'] = 'on';
+
+define( 'WP_DEBUG', true );
+define( 'SAVEQUERIES', true );
 
 require_once(ABSPATH . 'wp-settings.php');
 ?>

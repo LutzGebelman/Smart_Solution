@@ -1,0 +1,287 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-29 18:53:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Stable (latest release)\n"
+
+#: src/Admin/Pages/TestTab.php:1200
+msgid "Please copy only the content of the error debug message above, identified with an orange left border, into the support forum topic if you experience any issues."
+msgstr "اگر مشکل خاصی دارید، تنها خطای تولید شده‌ی بالا را در انجمن پشتیبانی افزونه ارسال کنید."
+
+#: src/Providers/OptionsAbstract.php:244
+msgid "For most servers TLS is the recommended option. If your SMTP provider offers both SSL and TLS options, we recommend using TLS."
+msgstr "در اکثر سرورها TLS پیشنهاد میشود. اگر سرویس دهنده شما هر دو SSL - TLS را ارائه میدهد گزینه پیشنهادی TLS است."
+
+#: src/Providers/OptionsAbstract.php:266
+msgid "Auto TLS"
+msgstr "TLS خودکار"
+
+#: src/Providers/OptionsAbstract.php:280
+msgid "By default TLS encryption is automatically used if the server supports it, which is recommended. In some cases, due to server misconfigurations, this can cause issues and may need to be disabled."
+msgstr "بطور پیش فرض در صورت پشتیبانی توسط سرور شما رمزنگاری TLS استفاده می‌شود که گزینه پیشنهادی است. در برخی موارد، به دلیل تنظیمات نادرست سرور، ممکن است مشکلاتی ایجاد شود که باید غیرفعال شود."
+
+#: src/Providers/Gmail/Options.php:80
+msgid "Client ID"
+msgstr "Client ID"
+
+#: src/Providers/Gmail/Options.php:95
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: src/Providers/Gmail/Options.php:117
+msgid "Authorized redirect URI"
+msgstr "Authorized redirect URI"
+
+#: src/Providers/Gmail/Options.php:125
+msgid "Copy URL to clipboard"
+msgstr "کپی آدرس"
+
+#: src/Providers/Gmail/Options.php:167
+msgid "Allow plugin to send emails using your Google account"
+msgstr "اجازه به افزونه برای ارسال ایمیل با استفاده از حساب کاربری گوگل شما"
+
+#: src/Providers/Mail/Options.php:25
+msgid "Default (none)"
+msgstr "پیش‌فرض (هیچ‌یک)"
+
+#: src/Providers/Mail/Options.php:37
+msgid "You currently have the native WordPress option selected. Please select any other Mailer option above to continue the setup."
+msgstr "شما هم اکنون گزینه پیش‌فرض وردپرس را انتخاب کرده‌اید. در صورت انتخاب دیگر ارسال کننده‌های ایمیل می‌توانید تنظیمات خاصی را اعمال کنید."
+
+#: src/Providers/Mailgun/Options.php:25
+msgid "Mailgun"
+msgstr "میل‌گان"
+
+#: src/Providers/Gmail/Options.php:170
+msgid "Click the button above to confirm authorization."
+msgstr "برای تایید احراز هویت روی کلید بالا کلیک کنید."
+
+#: src/Providers/Mailgun/Options.php:57
+msgid "Private API Key"
+msgstr "کلید API خصوصی"
+
+#. translators: %s - API key link.
+#: src/Providers/Mailgun/Options.php:76
+msgid "Follow this link to get an API Key from Mailgun: %s."
+msgstr "با استفاده از این لینک کلید API میل‌گان را دریافت کنید: %s."
+
+#: src/Providers/Mailgun/Options.php:78
+msgid "Get a Private API Key"
+msgstr "دریافت کلید API خصوصی"
+
+#: src/Providers/Mailgun/Options.php:89
+msgid "Domain Name"
+msgstr "نام دامنه"
+
+#. translators: %s - Domain Name link.
+#: src/Providers/Mailgun/Options.php:101
+msgid "Follow this link to get a Domain Name from Mailgun: %s."
+msgstr "با استفاده از این لینک از میل‌گان نام دامنه را دریافت کنید: %s."
+
+#: src/Providers/Mailgun/Options.php:103
+msgid "Get a Domain Name"
+msgstr "دریافت نام دامنه"
+
+#: src/Providers/OptionsAbstract.php:222
+msgid "None"
+msgstr "هیچ‌یک"
+
+#: src/Providers/OptionsAbstract.php:231
+msgid "SSL"
+msgstr "SSL"
+
+#: src/Providers/OptionsAbstract.php:240
+msgid "TLS"
+msgstr "TLS"
+
+#: src/Providers/OptionsAbstract.php:276 src/Providers/OptionsAbstract.php:298
+#: src/Admin/Pages/TestTab.php:86
+msgid "On"
+msgstr "روشن"
+
+#: src/Providers/OptionsAbstract.php:277 src/Providers/OptionsAbstract.php:299
+#: src/Admin/Pages/TestTab.php:87
+msgid "Off"
+msgstr "خاموش"
+
+#: src/Providers/OptionsAbstract.php:307
+msgid "SMTP Username"
+msgstr "نام کاربری SMTP"
+
+#: src/Providers/OptionsAbstract.php:321
+msgid "SMTP Password"
+msgstr "رمز عبور SMTP"
+
+#. translators: %1$s - Provider name; %2$s - PHP version required by Provider;
+#. %3$s - current PHP version.
+#: src/Providers/OptionsAbstract.php:422
+msgid "%1$s requires PHP %2$s to work and does not support your current PHP version %3$s. Please contact your host and request a PHP upgrade to the latest one."
+msgstr "%1$s به PHP %2$s نیاز دارد و نسخه %3$s PHP شما را پیشتیبانی نمی‌کند. لطفا برای ارتقا با میزبان خود تماس بگیرید."
+
+#: src/Providers/PepipostAPI/Options.php:61
+msgid "Pepipost"
+msgstr "پپی‌پست"
+
+#: src/Providers/SMTP/Options.php:25
+msgid "Other SMTP"
+msgstr "SMTPهای دیگر"
+
+#: src/Providers/Sendgrid/Options.php:26
+msgid "SendGrid"
+msgstr "سندگرید"
+
+#: src/Providers/SMTPcom/Options.php:91 src/Providers/Sendgrid/Options.php:65
+#: src/Providers/PepipostAPI/Options.php:94
+#: src/Providers/Sendinblue/Options.php:96
+msgid "API Key"
+msgstr "کلید API"
+
+#. translators: %s - API key link.
+#: src/Providers/Sendgrid/Options.php:84
+msgid "Follow this link to get an API Key from SendGrid: %s."
+msgstr "با استفاده از این لینک کلید API سندگرید را دریافت کنید: %s."
+
+#: src/Providers/Sendgrid/Options.php:86
+msgid "Create API Key"
+msgstr "ایجاد کلید API"
+
+#. translators: %s - SendGrid access level.
+#: src/Providers/Sendgrid/Options.php:94
+msgid "To send emails you will need only a %s access level for this API key."
+msgstr "برای ارسال ایمیل فقط به سطح دسترسی %s برای این کلید API نیاز دارید."
+
+#: src/Admin/Pages/MiscTab.php:25
+msgid "Misc"
+msgstr "متفرقه"
+
+#: src/Admin/Area.php:280 src/Admin/Area.php:286
+#: src/Admin/Pages/SettingsTab.php:37
+msgid "General"
+msgstr "عمومی"
+
+#: src/Admin/Area.php:398 src/Admin/PageAbstract.php:83
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: src/Admin/Pages/SettingsTab.php:604 src/Admin/Pages/MiscTab.php:255
+msgid "Settings were successfully saved."
+msgstr "تنظیمات شما با موفقیت ذخیره شدند."
+
+#: src/Admin/Pages/SettingsTab.php:94
+msgid "Mail"
+msgstr "ایمیل"
+
+#: src/Admin/Pages/TestTab.php:37
+msgid "Email Test"
+msgstr "آزمایش ایمیل"
+
+#: src/Admin/Pages/TestTab.php:66
+msgid "Send To"
+msgstr "ارسال به"
+
+#: src/Admin/Pages/TestTab.php:114
+msgid "Send Email"
+msgstr "ارسال ایمیل"
+
+#: src/Admin/Pages/TestTab.php:142
+msgid "Test failed. Please use a valid email address and try to resend the test email."
+msgstr "آزمایش ناموفق بود. لطفا از یک آدرس ایمیل معتبر برای ارسال ایمیل استفاده کنید."
+
+#. translators: %s - email address a test email will be sent to.
+#: src/Admin/Pages/TestTab.php:154 src/Admin/Pages/TestTab.php:160
+msgid "Test email to %s"
+msgstr "ارسال ایمیل آزمایشی به %s"
+
+#. translators: %s - error code, returned by Google API.
+#: src/Admin/Area.php:129
+msgid "There was an error while processing the authentication request: %s. Please try again."
+msgstr "در زمان پردازش درخواست احراز هویت خطایی رخ داد: %s. لطفا مجددا تلاش کنید."
+
+#: src/Admin/Area.php:136
+msgid "There was an error while processing the authentication request. Please try again."
+msgstr "در زمان پردازش درخواست احراز هویت خطایی رخ داد. لطفا مجددا تلاش کنید."
+
+#: src/Admin/Area.php:143
+msgid "There was an error while processing the authentication request. Please make sure that you have Client ID and Client Secret both valid and saved."
+msgstr "در زمان پردازش درخواست احراز هویت خطایی رخ داد. لطفا مطمئن شوید که هر دو Client ID و Client Secret معتبر هستند و ذخیره شده‌اند."
+
+#: src/Admin/Pages/MiscTab.php:115
+msgid "Hide Announcements"
+msgstr "مخفی کردن اعلان‌ها"
+
+#: src/Admin/Pages/MiscTab.php:124
+msgid "Check this if you would like to hide plugin announcements and update details."
+msgstr "اگر میخواهید جزییات بروزرسانی و اعلان ها را مخفی کنید این گزینه را روشن کنید."
+
+#: src/Admin/Pages/SettingsTab.php:241
+msgid "Return Path indicates where non-delivery receipts - or bounce messages - are to be sent."
+msgstr "مسیر بازگشت مشخص می‌کند که پیام‌های تحویل داده نشده یا پیام‌های از دست رفته به کجا ارسال شوند."
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr "WPForms"
+
+#. Author URI of the plugin
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#: src/Admin/Area.php:217 src/Admin/Area.php:218 src/Admin/Area.php:956
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: src/Admin/Pages/SettingsTab.php:101
+msgid "From Email"
+msgstr "ایمیل ارسال کننده"
+
+#: src/Admin/Pages/SettingsTab.php:183
+msgid "From Name"
+msgstr "نام ارسال کننده"
+
+#: src/Admin/Pages/SettingsTab.php:228
+msgid "Return Path"
+msgstr "مسیر بازگشت"
+
+#: src/Providers/OptionsAbstract.php:252
+msgid "SMTP Port"
+msgstr "پورت SMTP"
+
+#: src/Admin/Pages/TestTab.php:59
+msgid "Send a Test Email"
+msgstr "ارسال ایمیل آزمایشی"
+
+#: src/Providers/OptionsAbstract.php:212
+msgid "Encryption"
+msgstr "رمزنگاری"
+
+#: src/Admin/Pages/SettingsTab.php:237
+msgid "Set the return-path to match the From Email"
+msgstr "تعیین مسیر بازگشت برای مطابقت با آدرس ایمیل ارسال کننده"
+
+#: src/Admin/Pages/SettingsTab.php:250
+msgid "Mailer"
+msgstr "ارسال کننده ایمیل"
+
+#: src/Providers/OptionsAbstract.php:288
+msgid "Authentication"
+msgstr "احراز هویت"
+
+#: src/Providers/OptionsAbstract.php:198
+msgid "SMTP Host"
+msgstr "میزبان SMTP (Host)"
+
+#. Plugin Name of the plugin
+#: src/Admin/Area.php:206 src/Admin/Area.php:207 src/Admin/Area.php:252
+#: src/Admin/Area.php:253 src/SiteHealth.php:40
+msgid "WP Mail SMTP"
+msgstr "ایمیل"
+
+#: src/Providers/Gmail/Options.php:33
+msgid "Gmail"
+msgstr "جیمیل"

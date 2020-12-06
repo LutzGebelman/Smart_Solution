@@ -1,0 +1,66 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Stable (latest release) in Slovak
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-19 15:33:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Stable (latest release)\n"
+
+#: src/Admin/Area.php:217 src/Admin/Area.php:218 src/Admin/Area.php:956
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: src/Admin/Pages/TestTab.php:59
+msgid "Send a Test Email"
+msgstr "Odoslať testovací email"
+
+#: src/Providers/OptionsAbstract.php:288
+msgid "Authentication"
+msgstr "Autentifikácia"
+
+#: src/Providers/OptionsAbstract.php:212
+msgid "Encryption"
+msgstr "Šifrovanie"
+
+#: src/Providers/OptionsAbstract.php:252
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: src/Admin/Pages/SettingsTab.php:237
+msgid "Set the return-path to match the From Email"
+msgstr "Nastaviť návratovú cestu na rovnakú hodnotu ako e-mail odosielateľa."
+
+#: src/Admin/Pages/SettingsTab.php:228
+msgid "Return Path"
+msgstr "Návratová cesta"
+
+#: src/Admin/Pages/SettingsTab.php:250
+msgid "Mailer"
+msgstr "Mailer"
+
+#: src/Admin/Pages/SettingsTab.php:183
+msgid "From Name"
+msgstr "Meno odosielateľa"
+
+#: src/Admin/Pages/SettingsTab.php:101
+msgid "From Email"
+msgstr "Email odosielateľa"
+
+#: src/Providers/OptionsAbstract.php:198
+msgid "SMTP Host"
+msgstr "Poskytovateľ SMTP"
+
+#: src/Providers/Gmail/Options.php:33
+msgid "Gmail"
+msgstr "Gmail"
+
+#. Plugin Name of the plugin
+#: src/Admin/Area.php:206 src/Admin/Area.php:207 src/Admin/Area.php:252
+#: src/Admin/Area.php:253 src/SiteHealth.php:40
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
